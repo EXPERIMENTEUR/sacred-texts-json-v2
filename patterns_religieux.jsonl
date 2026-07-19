@@ -42,3 +42,48 @@
 {"label": "CELESTIAL_PHENOMENON", "pattern": "wheel within a wheel"}
 {"label": "CELESTIAL_PHENOMENON", "pattern": "fiery serpent"}
 {"label": "CELESTIAL_PHENOMENON", "pattern": "vimana"}
+{"label": "DEITY", "pattern": "YHWH"}
+{"label": "DEITY", "pattern": "El Shaddai"}
+{"label": "DEITY", "pattern": "Lord of Hosts"}
+{"label": "PROPHET_FIGURE", "pattern": "Adam"}
+{"label": "PROPHET_FIGURE", "pattern": "Eve"}
+{"label": "PROPHET_FIGURE", "pattern": "Isaac"}
+{"label": "PROPHET_FIGURE", "pattern": "Jacob"}
+{"label": "PROPHET_FIGURE", "pattern": "Sarah"}
+{"label": "PROPHET_FIGURE", "pattern": "Rebecca"}
+{"label": "PROPHET_FIGURE", "pattern": "Rachel"}
+{"label": "PROPHET_FIGURE", "pattern": "Leah"}
+{"label": "PROPHET_FIGURE", "pattern": "Joseph"}
+{"label": "PROPHET_FIGURE", "pattern": "Judah"}
+{"label": "PROPHET_FIGURE", "pattern": "Aaron"}
+{"label": "PROPHET_FIGURE", "pattern": "Joshua"}
+{"label": "PROPHET_FIGURE", "pattern": "Samuel"}
+{"label": "PROPHET_FIGURE", "pattern": "David"}
+{"label": "PROPHET_FIGURE", "pattern": "Solomon"}
+{"label": "PROPHET_FIGURE", "pattern": "Elisha"}
+{"label": "PROPHET_FIGURE", "pattern": "Isaiah"}
+{"label": "PROPHET_FIGURE", "pattern": "Jeremiah"}
+{"label": "PROPHET_FIGURE", "pattern": "Ezekiel"}
+{"label": "PROPHET_FIGURE", "pattern": "Daniel"}
+{"label": "SACRED_PLACE", "pattern": "Mount Horeb"}
+{"label": "SACRED_PLACE", "pattern": "Bethel"}
+{"label": "SACRED_PLACE", "pattern": "Shiloh"}
+{"label": "SACRED_PLACE", "pattern": "Promised Land"}
+{"label": "SACRED_PLACE", "pattern": "Canaan"}
+{"label": "SACRED_PLACE", "pattern": "Red Sea"}
+{"label": "SACRED_PLACE", "pattern": "Jordan River"}
+{"label": "SACRED_OBJECT", "pattern": "Tablets of Stone"}
+{"label": "SACRED_OBJECT", "pattern": "Tabernacle"}
+{"label": "SACRED_OBJECT", "pattern": "Manna"}
+{"label": "SACRED_OBJECT", "pattern": "Urim and Thummim"}
+{"label": "SACRED_OBJECT", "pattern": "Menorah"}
+{"label": "SACRED_OBJECT", "pattern": "Burning Bush"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "glory of the Lord"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "whirlwind"}
+{"label": "PEOPLE_GROUP", "pattern": "Israelites"}
+{"label": "PEOPLE_GROUP", "pattern": "Twelve Tribes"}
+{"label": "PEOPLE_GROUP", "pattern": "Levites"}
+{"label": "PEOPLE_GROUP", "pattern": "Philistines"}
+{"label": "PEOPLE_GROUP", "pattern": "Egyptians"}
+{"label": "PEOPLE_GROUP", "pattern": "Canaanites"}
+{"label": "PEOPLE_GROUP", "pattern": "Amalekites"}
