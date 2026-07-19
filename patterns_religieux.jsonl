@@ -1,0 +1,44 @@
+{"label": "DEITY", "pattern": "God"}
+{"label": "DEITY", "pattern": "Yahweh"}
+{"label": "DEITY", "pattern": "Elohim"}
+{"label": "DEITY", "pattern": "Adonai"}
+{"label": "DEITY", "pattern": "Allah"}
+{"label": "DEITY", "pattern": "Indra"}
+{"label": "DEITY", "pattern": "Agni"}
+{"label": "DEITY", "pattern": "Surya"}
+{"label": "DEITY", "pattern": "Varuna"}
+{"label": "DEITY", "pattern": "Soma"}
+{"label": "DEITY", "pattern": "Vishnu"}
+{"label": "DEITY", "pattern": "Shiva"}
+{"label": "DEITY", "pattern": "Brahma"}
+{"label": "DEITY", "pattern": "Ahura Mazda"}
+{"label": "DEITY", "pattern": "Thoth"}
+{"label": "DEITY", "pattern": "Ra"}
+{"label": "DEITY", "pattern": "Osiris"}
+{"label": "DEITY", "pattern": "Isis"}
+{"label": "DEITY", "pattern": "Horus"}
+{"label": "PROPHET_FIGURE", "pattern": "Moses"}
+{"label": "PROPHET_FIGURE", "pattern": "Abraham"}
+{"label": "PROPHET_FIGURE", "pattern": "Noah"}
+{"label": "PROPHET_FIGURE", "pattern": "Enoch"}
+{"label": "PROPHET_FIGURE", "pattern": "Elijah"}
+{"label": "PROPHET_FIGURE", "pattern": "Muhammad"}
+{"label": "PROPHET_FIGURE", "pattern": "Krishna"}
+{"label": "PROPHET_FIGURE", "pattern": "Rama"}
+{"label": "SACRED_PLACE", "pattern": "Mount Sinai"}
+{"label": "SACRED_PLACE", "pattern": "Mount Zion"}
+{"label": "SACRED_PLACE", "pattern": "Garden of Eden"}
+{"label": "SACRED_PLACE", "pattern": "Jerusalem"}
+{"label": "SACRED_PLACE", "pattern": "Mecca"}
+{"label": "SACRED_PLACE", "pattern": "Mount Meru"}
+{"label": "SACRED_PLACE", "pattern": "Ganges"}
+{"label": "SACRED_OBJECT", "pattern": "Ark of the Covenant"}
+{"label": "SACRED_OBJECT", "pattern": "Book of Thoth"}
+{"label": "SACRED_OBJECT", "pattern": "Ten Commandments"}
+{"label": "SACRED_OBJECT", "pattern": "Kaaba"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "chariot of fire"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "pillar of cloud"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "pillar of fire"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "wheel within a wheel"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "fiery serpent"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "vimana"}
