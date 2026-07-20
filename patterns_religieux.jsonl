@@ -118,3 +118,36 @@
 {"label": "CELESTIAL_PHENOMENON", "pattern": "Night Journey"}
 {"label": "PEOPLE_GROUP", "pattern": "Quraysh"}
 {"label": "PEOPLE_GROUP", "pattern": "Muslims"}
+{"label": "DEITY", "pattern": "Indra"}
+{"label": "DEITY", "pattern": "Agni"}
+{"label": "DEITY", "pattern": "Surya"}
+{"label": "DEITY", "pattern": "Varuna"}
+{"label": "DEITY", "pattern": "Soma"}
+{"label": "DEITY", "pattern": "Vayu"}
+{"label": "DEITY", "pattern": "Ushas"}
+{"label": "DEITY", "pattern": "Rudra"}
+{"label": "DEITY", "pattern": "Vishnu"}
+{"label": "DEITY", "pattern": "Shiva"}
+{"label": "DEITY", "pattern": "Brahma"}
+{"label": "DEITY", "pattern": "Prajapati"}
+{"label": "DEITY", "pattern": "Mitra"}
+{"label": "DEITY", "pattern": "Ashvins"}
+{"label": "DEITY", "pattern": "Sarasvati"}
+{"label": "PROPHET_FIGURE", "pattern": "Krishna"}
+{"label": "PROPHET_FIGURE", "pattern": "Rama"}
+{"label": "PROPHET_FIGURE", "pattern": "Arjuna"}
+{"label": "PROPHET_FIGURE", "pattern": "Vyasa"}
+{"label": "PROPHET_FIGURE", "pattern": "Yajnavalkya"}
+{"label": "SACRED_PLACE", "pattern": "Mount Meru"}
+{"label": "SACRED_PLACE", "pattern": "Ganges"}
+{"label": "SACRED_PLACE", "pattern": "Kurukshetra"}
+{"label": "SACRED_PLACE", "pattern": "Varanasi"}
+{"label": "SACRED_OBJECT", "pattern": "Vajra"}
+{"label": "SACRED_OBJECT", "pattern": "chakra"}
+{"label": "SACRED_OBJECT", "pattern": "soma juice"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "chariot of Surya"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "chariot of the sun"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "Indra's net"}
+{"label": "PEOPLE_GROUP", "pattern": "Aryans"}
+{"label": "PEOPLE_GROUP", "pattern": "Kauravas"}
+{"label": "PEOPLE_GROUP", "pattern": "Pandavas"}
