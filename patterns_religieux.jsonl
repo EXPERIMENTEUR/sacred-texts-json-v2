@@ -87,3 +87,34 @@
 {"label": "PEOPLE_GROUP", "pattern": "Egyptians"}
 {"label": "PEOPLE_GROUP", "pattern": "Canaanites"}
 {"label": "PEOPLE_GROUP", "pattern": "Amalekites"}
+{"label": "DEITY", "pattern": "Allah"}
+{"label": "DEITY", "pattern": "Ar-Rahman"}
+{"label": "DEITY", "pattern": "Ar-Rahim"}
+{"label": "PROPHET_FIGURE", "pattern": "Muhammad"}
+{"label": "PROPHET_FIGURE", "pattern": "Ibrahim"}
+{"label": "PROPHET_FIGURE", "pattern": "Musa"}
+{"label": "PROPHET_FIGURE", "pattern": "Isa"}
+{"label": "PROPHET_FIGURE", "pattern": "Nuh"}
+{"label": "PROPHET_FIGURE", "pattern": "Yusuf"}
+{"label": "PROPHET_FIGURE", "pattern": "Dawud"}
+{"label": "PROPHET_FIGURE", "pattern": "Sulayman"}
+{"label": "PROPHET_FIGURE", "pattern": "Yunus"}
+{"label": "PROPHET_FIGURE", "pattern": "Ayyub"}
+{"label": "PROPHET_FIGURE", "pattern": "Idris"}
+{"label": "PROPHET_FIGURE", "pattern": "Adam"}
+{"label": "PROPHET_FIGURE", "pattern": "Hawwa"}
+{"label": "CELESTIAL_BEING", "pattern": "Jibril"}
+{"label": "CELESTIAL_BEING", "pattern": "Mikail"}
+{"label": "CELESTIAL_BEING", "pattern": "Israfil"}
+{"label": "CELESTIAL_BEING", "pattern": "Iblis"}
+{"label": "CELESTIAL_BEING", "pattern": "jinn"}
+{"label": "SACRED_PLACE", "pattern": "Mecca"}
+{"label": "SACRED_PLACE", "pattern": "Medina"}
+{"label": "SACRED_PLACE", "pattern": "Mount Arafat"}
+{"label": "SACRED_OBJECT", "pattern": "Kaaba"}
+{"label": "SACRED_OBJECT", "pattern": "Black Stone"}
+{"label": "SACRED_OBJECT", "pattern": "Quran"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "Night of Power"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "Night Journey"}
+{"label": "PEOPLE_GROUP", "pattern": "Quraysh"}
+{"label": "PEOPLE_GROUP", "pattern": "Muslims"}
