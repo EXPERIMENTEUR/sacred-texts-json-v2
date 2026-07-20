@@ -151,3 +151,38 @@
 {"label": "PEOPLE_GROUP", "pattern": "Aryans"}
 {"label": "PEOPLE_GROUP", "pattern": "Kauravas"}
 {"label": "PEOPLE_GROUP", "pattern": "Pandavas"}
+{"label": "DEITY", "pattern": "Lord of Spirits"}
+{"label": "DEITY", "pattern": "Head of Days"}
+{"label": "PROPHET_FIGURE", "pattern": "Enoch"}
+{"label": "PROPHET_FIGURE", "pattern": "Noah"}
+{"label": "PROPHET_FIGURE", "pattern": "Methuselah"}
+{"label": "CELESTIAL_BEING", "pattern": "Watchers"}
+{"label": "CELESTIAL_BEING", "pattern": "Grigori"}
+{"label": "CELESTIAL_BEING", "pattern": "Nephilim"}
+{"label": "CELESTIAL_BEING", "pattern": "Michael"}
+{"label": "CELESTIAL_BEING", "pattern": "Gabriel"}
+{"label": "CELESTIAL_BEING", "pattern": "Raphael"}
+{"label": "CELESTIAL_BEING", "pattern": "Uriel"}
+{"label": "CELESTIAL_BEING", "pattern": "Sariel"}
+{"label": "CELESTIAL_BEING", "pattern": "Raguel"}
+{"label": "CELESTIAL_BEING", "pattern": "Remiel"}
+{"label": "CELESTIAL_BEING", "pattern": "Semjaza"}
+{"label": "CELESTIAL_BEING", "pattern": "Azazel"}
+{"label": "CELESTIAL_BEING", "pattern": "Son of Man"}
+{"label": "SACRED_PLACE", "pattern": "Mount Hermon"}
+{"label": "SACRED_PLACE", "pattern": "seven heavens"}
+{"label": "SACRED_PLACE", "pattern": "Garden of Righteousness"}
+{"label": "SACRED_PLACE", "pattern": "Tree of Life"}
+{"label": "SACRED_OBJECT", "pattern": "Book of Life"}
+{"label": "SACRED_OBJECT", "pattern": "tablets of heaven"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "storehouses of the winds"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "storehouses of the stars"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "gates of heaven"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "throne of glory"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "flaming fire"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "wheels of fire"}
+{"label": "CONCEPT_KNOWLEDGE", "pattern": "forbidden knowledge"}
+{"label": "CONCEPT_KNOWLEDGE", "pattern": "secrets of the angels"}
+{"label": "CONCEPT_KNOWLEDGE", "pattern": "art of metalworking"}
+{"label": "CONCEPT_KNOWLEDGE", "pattern": "sorcery"}
+{"label": "CONCEPT_KNOWLEDGE", "pattern": "root-cutting"}
