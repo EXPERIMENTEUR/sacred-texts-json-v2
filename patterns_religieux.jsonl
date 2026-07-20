@@ -186,3 +186,28 @@
 {"label": "CONCEPT_KNOWLEDGE", "pattern": "art of metalworking"}
 {"label": "CONCEPT_KNOWLEDGE", "pattern": "sorcery"}
 {"label": "CONCEPT_KNOWLEDGE", "pattern": "root-cutting"}
+{"label": "DEITY", "pattern": "Thoth"}
+{"label": "DEITY", "pattern": "Ra"}
+{"label": "DEITY", "pattern": "Osiris"}
+{"label": "DEITY", "pattern": "Isis"}
+{"label": "DEITY", "pattern": "Horus"}
+{"label": "DEITY", "pattern": "Ptah"}
+{"label": "DEITY", "pattern": "Anubis"}
+{"label": "DEITY", "pattern": "Set"}
+{"label": "DEITY", "pattern": "Nephthys"}
+{"label": "DEITY", "pattern": "Sekhmet"}
+{"label": "PROPHET_FIGURE", "pattern": "Khamwas"}
+{"label": "PROPHET_FIGURE", "pattern": "Naneferkaptah"}
+{"label": "PROPHET_FIGURE", "pattern": "Ahwere"}
+{"label": "PROPHET_FIGURE", "pattern": "Si-Osire"}
+{"label": "PROPHET_FIGURE", "pattern": "Merib"}
+{"label": "SACRED_PLACE", "pattern": "Memphis"}
+{"label": "SACRED_PLACE", "pattern": "Coptos"}
+{"label": "SACRED_PLACE", "pattern": "necropolis"}
+{"label": "SACRED_PLACE", "pattern": "Duat"}
+{"label": "SACRED_OBJECT", "pattern": "Book of Thoth"}
+{"label": "SACRED_OBJECT", "pattern": "magic book"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "strong light"}
+{"label": "CONCEPT_KNOWLEDGE", "pattern": "magic spells"}
+{"label": "CONCEPT_KNOWLEDGE", "pattern": "sorcery"}
+{"label": "PEOPLE_GROUP", "pattern": "Nubians"}
