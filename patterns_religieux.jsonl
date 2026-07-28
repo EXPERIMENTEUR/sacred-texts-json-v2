@@ -223,3 +223,38 @@
 {"label": "CONCEPT_KNOWLEDGE", "pattern": "magic spells"}
 {"label": "CONCEPT_KNOWLEDGE", "pattern": "sorcery"}
 {"label": "PEOPLE_GROUP", "pattern": "Nubians"}
+{"label": "SYMBOLIC_NUMBER", "pattern": "seven"}
+{"label": "SYMBOLIC_NUMBER", "pattern": "twelve"}
+{"label": "SYMBOLIC_NUMBER", "pattern": "forty"}
+{"label": "SYMBOLIC_NUMBER", "pattern": "three"}
+{"label": "SYMBOLIC_NUMBER", "pattern": "four"}
+{"label": "SYMBOLIC_NUMBER", "pattern": "seventy"}
+{"label": "SYMBOLIC_NUMBER", "pattern": "one hundred and forty-four thousand"}
+{"label": "ELEMENT", "pattern": "fire"}
+{"label": "ELEMENT", "pattern": "water"}
+{"label": "ELEMENT", "pattern": "earth"}
+{"label": "ELEMENT", "pattern": "air"}
+{"label": "ELEMENT", "pattern": "wind"}
+{"label": "COLOR_SYMBOLIC", "pattern": "white as snow"}
+{"label": "COLOR_SYMBOLIC", "pattern": "scarlet"}
+{"label": "COLOR_SYMBOLIC", "pattern": "purple"}
+{"label": "COLOR_SYMBOLIC", "pattern": "crimson"}
+{"label": "METAL_MATERIAL", "pattern": "gold"}
+{"label": "METAL_MATERIAL", "pattern": "silver"}
+{"label": "METAL_MATERIAL", "pattern": "bronze"}
+{"label": "METAL_MATERIAL", "pattern": "brass"}
+{"label": "METAL_MATERIAL", "pattern": "precious stones"}
+{"label": "CARDINAL_DIRECTION", "pattern": "east"}
+{"label": "CARDINAL_DIRECTION", "pattern": "west"}
+{"label": "CARDINAL_DIRECTION", "pattern": "north"}
+{"label": "CARDINAL_DIRECTION", "pattern": "south"}
+{"label": "CELESTIAL_BODY", "pattern": "sun"}
+{"label": "CELESTIAL_BODY", "pattern": "moon"}
+{"label": "CELESTIAL_BODY", "pattern": "stars"}
+{"label": "CELESTIAL_BODY", "pattern": "morning star"}
+{"label": "ANIMAL_SYMBOLIC", "pattern": "lion"}
+{"label": "ANIMAL_SYMBOLIC", "pattern": "eagle"}
+{"label": "ANIMAL_SYMBOLIC", "pattern": "ox"}
+{"label": "ANIMAL_SYMBOLIC", "pattern": "serpent"}
+{"label": "ANIMAL_SYMBOLIC", "pattern": "dove"}
+{"label": "ANIMAL_SYMBOLIC", "pattern": "lamb"}
