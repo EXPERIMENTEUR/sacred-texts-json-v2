@@ -281,3 +281,35 @@
 {"label": "CELESTIAL_PHENOMENON", "pattern": "ascended into heaven"}
 {"label": "CELESTIAL_PHENOMENON", "pattern": "hovering"}
 {"label": "CELESTIAL_PHENOMENON", "pattern": "spinning wheel"}
+{"label": "SACRED_EVENT", "pattern": "the flood"}
+{"label": "SACRED_EVENT", "pattern": "the exodus"}
+{"label": "SACRED_EVENT", "pattern": "creation"}
+{"label": "SACRED_EVENT", "pattern": "day of judgment"}
+{"label": "SACRED_EVENT", "pattern": "last judgment"}
+{"label": "SACRED_EVENT", "pattern": "apocalypse"}
+{"label": "SACRED_EVENT", "pattern": "revelation"}
+{"label": "SACRED_EVENT", "pattern": "fall of man"}
+{"label": "SACRED_EVENT", "pattern": "tower of Babel"}
+{"label": "SACRED_EVENT", "pattern": "night journey"}
+{"label": "SACRED_EVENT", "pattern": "resurrection"}
+{"label": "SACRED_EVENT", "pattern": "second coming"}
+{"label": "RITUAL_PRACTICE", "pattern": "sacrifice"}
+{"label": "RITUAL_PRACTICE", "pattern": "burnt offering"}
+{"label": "RITUAL_PRACTICE", "pattern": "covenant"}
+{"label": "RITUAL_PRACTICE", "pattern": "circumcision"}
+{"label": "RITUAL_PRACTICE", "pattern": "fasting"}
+{"label": "RITUAL_PRACTICE", "pattern": "prayer"}
+{"label": "RITUAL_PRACTICE", "pattern": "pilgrimage"}
+{"label": "RITUAL_PRACTICE", "pattern": "anointing"}
+{"label": "RITUAL_PRACTICE", "pattern": "baptism"}
+{"label": "RITUAL_PRACTICE", "pattern": "purification"}
+{"label": "RITUAL_PRACTICE", "pattern": "libation"}
+{"label": "RITUAL_PRACTICE", "pattern": "fire offering"}
+{"label": "AFTERLIFE_CONCEPT", "pattern": "heaven"}
+{"label": "AFTERLIFE_CONCEPT", "pattern": "hell"}
+{"label": "AFTERLIFE_CONCEPT", "pattern": "paradise"}
+{"label": "AFTERLIFE_CONCEPT", "pattern": "underworld"}
+{"label": "AFTERLIFE_CONCEPT", "pattern": "reincarnation"}
+{"label": "AFTERLIFE_CONCEPT", "pattern": "moksha"}
+{"label": "AFTERLIFE_CONCEPT", "pattern": "nirvana"}
+{"label": "AFTERLIFE_CONCEPT", "pattern": "judgment of the dead"}
