@@ -258,3 +258,26 @@
 {"label": "ANIMAL_SYMBOLIC", "pattern": "serpent"}
 {"label": "ANIMAL_SYMBOLIC", "pattern": "dove"}
 {"label": "ANIMAL_SYMBOLIC", "pattern": "lamb"}
+{"label": "PHYSICAL_DESCRIPTOR", "pattern": "giant"}
+{"label": "PHYSICAL_DESCRIPTOR", "pattern": "giants"}
+{"label": "PHYSICAL_DESCRIPTOR", "pattern": "Nephilim"}
+{"label": "PHYSICAL_DESCRIPTOR", "pattern": "men of renown"}
+{"label": "PHYSICAL_DESCRIPTOR", "pattern": "shining face"}
+{"label": "PHYSICAL_DESCRIPTOR", "pattern": "radiant"}
+{"label": "PHYSICAL_DESCRIPTOR", "pattern": "face like the sun"}
+{"label": "PHYSICAL_DESCRIPTOR", "pattern": "skin of his face shone"}
+{"label": "PHYSICAL_DESCRIPTOR", "pattern": "tall"}
+{"label": "PHYSICAL_DESCRIPTOR", "pattern": "cubits high"}
+{"label": "PHYSICAL_DESCRIPTOR", "pattern": "dark-skinned"}
+{"label": "PHYSICAL_DESCRIPTOR", "pattern": "fair"}
+{"label": "PHYSICAL_DESCRIPTOR", "pattern": "black as night"}
+{"label": "PHYSICAL_DESCRIPTOR", "pattern": "eyes like flames"}
+{"label": "PHYSICAL_DESCRIPTOR", "pattern": "hair like wool"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "moving light"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "bright cloud"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "sound like thunder"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "sound of many waters"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "descended from heaven"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "ascended into heaven"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "hovering"}
+{"label": "CELESTIAL_PHENOMENON", "pattern": "spinning wheel"}
