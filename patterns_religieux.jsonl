@@ -313,3 +313,29 @@
 {"label": "AFTERLIFE_CONCEPT", "pattern": "moksha"}
 {"label": "AFTERLIFE_CONCEPT", "pattern": "nirvana"}
 {"label": "AFTERLIFE_CONCEPT", "pattern": "judgment of the dead"}
+{"label": "SACRED_TEXT", "pattern": "Torah"}
+{"label": "SACRED_TEXT", "pattern": "Quran"}
+{"label": "SACRED_TEXT", "pattern": "Vedas"}
+{"label": "SACRED_TEXT", "pattern": "Upanishads"}
+{"label": "SACRED_TEXT", "pattern": "Book of Enoch"}
+{"label": "SACRED_TEXT", "pattern": "the Law"}
+{"label": "SACRED_TEXT", "pattern": "the Scriptures"}
+{"label": "SACRED_TEXT", "pattern": "the Prophets"}
+{"label": "SACRED_TEXT", "pattern": "the Psalms"}
+{"label": "COSMIC_STRUCTURE", "pattern": "seven heavens"}
+{"label": "COSMIC_STRUCTURE", "pattern": "firmament"}
+{"label": "COSMIC_STRUCTURE", "pattern": "axis mundi"}
+{"label": "COSMIC_STRUCTURE", "pattern": "cosmic tree"}
+{"label": "COSMIC_STRUCTURE", "pattern": "world tree"}
+{"label": "COSMIC_STRUCTURE", "pattern": "pillars of heaven"}
+{"label": "COSMIC_STRUCTURE", "pattern": "foundations of the earth"}
+{"label": "COSMIC_STRUCTURE", "pattern": "the deep"}
+{"label": "COSMIC_STRUCTURE", "pattern": "abyss"}
+{"label": "TIME_CONCEPT", "pattern": "end of days"}
+{"label": "TIME_CONCEPT", "pattern": "end times"}
+{"label": "TIME_CONCEPT", "pattern": "golden age"}
+{"label": "TIME_CONCEPT", "pattern": "Kali Yuga"}
+{"label": "TIME_CONCEPT", "pattern": "Satya Yuga"}
+{"label": "TIME_CONCEPT", "pattern": "eternity"}
+{"label": "TIME_CONCEPT", "pattern": "the beginning"}
+{"label": "TIME_CONCEPT", "pattern": "generations"}
