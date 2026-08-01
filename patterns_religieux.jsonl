@@ -339,3 +339,30 @@
 {"label": "TIME_CONCEPT", "pattern": "eternity"}
 {"label": "TIME_CONCEPT", "pattern": "the beginning"}
 {"label": "TIME_CONCEPT", "pattern": "generations"}
+{"label": "PLANT_SYMBOLIC", "pattern": "fig tree"}
+{"label": "PLANT_SYMBOLIC", "pattern": "olive tree"}
+{"label": "PLANT_SYMBOLIC", "pattern": "cedar"}
+{"label": "PLANT_SYMBOLIC", "pattern": "vine"}
+{"label": "PLANT_SYMBOLIC", "pattern": "lotus"}
+{"label": "PLANT_SYMBOLIC", "pattern": "acacia"}
+{"label": "PLANT_SYMBOLIC", "pattern": "thorns"}
+{"label": "SOUND_PHENOMENON", "pattern": "voice from heaven"}
+{"label": "SOUND_PHENOMENON", "pattern": "trumpet"}
+{"label": "SOUND_PHENOMENON", "pattern": "shofar"}
+{"label": "SOUND_PHENOMENON", "pattern": "thunder"}
+{"label": "SOUND_PHENOMENON", "pattern": "great noise"}
+{"label": "SOUND_PHENOMENON", "pattern": "still small voice"}
+{"label": "BODY_PART_SYMBOLIC", "pattern": "wings"}
+{"label": "BODY_PART_SYMBOLIC", "pattern": "hand of God"}
+{"label": "BODY_PART_SYMBOLIC", "pattern": "eyes like fire"}
+{"label": "BODY_PART_SYMBOLIC", "pattern": "many eyes"}
+{"label": "BODY_PART_SYMBOLIC", "pattern": "four faces"}
+{"label": "BODY_PART_SYMBOLIC", "pattern": "right hand"}
+{"label": "SOCIAL_ROLE", "pattern": "king"}
+{"label": "SOCIAL_ROLE", "pattern": "priest"}
+{"label": "SOCIAL_ROLE", "pattern": "high priest"}
+{"label": "SOCIAL_ROLE", "pattern": "judge"}
+{"label": "SOCIAL_ROLE", "pattern": "prophet"}
+{"label": "SOCIAL_ROLE", "pattern": "scribe"}
+{"label": "SOCIAL_ROLE", "pattern": "elder"}
+{"label": "SOCIAL_ROLE", "pattern": "shepherd"}
