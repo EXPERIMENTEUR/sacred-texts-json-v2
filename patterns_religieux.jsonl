@@ -87,10 +87,8 @@
 {"label": "PEOPLE_GROUP", "pattern": "Egyptians"}
 {"label": "PEOPLE_GROUP", "pattern": "Canaanites"}
 {"label": "PEOPLE_GROUP", "pattern": "Amalekites"}
-{"label": "DEITY", "pattern": "Allah"}
 {"label": "DEITY", "pattern": "Ar-Rahman"}
 {"label": "DEITY", "pattern": "Ar-Rahim"}
-{"label": "PROPHET_FIGURE", "pattern": "Muhammad"}
 {"label": "PROPHET_FIGURE", "pattern": "Ibrahim"}
 {"label": "PROPHET_FIGURE", "pattern": "Musa"}
 {"label": "PROPHET_FIGURE", "pattern": "Isa"}
@@ -101,45 +99,30 @@
 {"label": "PROPHET_FIGURE", "pattern": "Yunus"}
 {"label": "PROPHET_FIGURE", "pattern": "Ayyub"}
 {"label": "PROPHET_FIGURE", "pattern": "Idris"}
-{"label": "PROPHET_FIGURE", "pattern": "Adam"}
 {"label": "PROPHET_FIGURE", "pattern": "Hawwa"}
 {"label": "CELESTIAL_BEING", "pattern": "Jibril"}
 {"label": "CELESTIAL_BEING", "pattern": "Mikail"}
 {"label": "CELESTIAL_BEING", "pattern": "Israfil"}
 {"label": "CELESTIAL_BEING", "pattern": "Iblis"}
 {"label": "CELESTIAL_BEING", "pattern": "jinn"}
-{"label": "SACRED_PLACE", "pattern": "Mecca"}
 {"label": "SACRED_PLACE", "pattern": "Medina"}
 {"label": "SACRED_PLACE", "pattern": "Mount Arafat"}
-{"label": "SACRED_OBJECT", "pattern": "Kaaba"}
 {"label": "SACRED_OBJECT", "pattern": "Black Stone"}
 {"label": "SACRED_OBJECT", "pattern": "Quran"}
 {"label": "CELESTIAL_PHENOMENON", "pattern": "Night of Power"}
 {"label": "CELESTIAL_PHENOMENON", "pattern": "Night Journey"}
 {"label": "PEOPLE_GROUP", "pattern": "Quraysh"}
 {"label": "PEOPLE_GROUP", "pattern": "Muslims"}
-{"label": "DEITY", "pattern": "Indra"}
-{"label": "DEITY", "pattern": "Agni"}
-{"label": "DEITY", "pattern": "Surya"}
-{"label": "DEITY", "pattern": "Varuna"}
-{"label": "DEITY", "pattern": "Soma"}
 {"label": "DEITY", "pattern": "Vayu"}
 {"label": "DEITY", "pattern": "Ushas"}
 {"label": "DEITY", "pattern": "Rudra"}
-{"label": "DEITY", "pattern": "Vishnu"}
-{"label": "DEITY", "pattern": "Shiva"}
-{"label": "DEITY", "pattern": "Brahma"}
 {"label": "DEITY", "pattern": "Prajapati"}
 {"label": "DEITY", "pattern": "Mitra"}
 {"label": "DEITY", "pattern": "Ashvins"}
 {"label": "DEITY", "pattern": "Sarasvati"}
-{"label": "PROPHET_FIGURE", "pattern": "Krishna"}
-{"label": "PROPHET_FIGURE", "pattern": "Rama"}
 {"label": "PROPHET_FIGURE", "pattern": "Arjuna"}
 {"label": "PROPHET_FIGURE", "pattern": "Vyasa"}
 {"label": "PROPHET_FIGURE", "pattern": "Yajnavalkya"}
-{"label": "SACRED_PLACE", "pattern": "Mount Meru"}
-{"label": "SACRED_PLACE", "pattern": "Ganges"}
 {"label": "SACRED_PLACE", "pattern": "Kurukshetra"}
 {"label": "SACRED_PLACE", "pattern": "Varanasi"}
 {"label": "SACRED_OBJECT", "pattern": "Vajra"}
@@ -153,8 +136,6 @@
 {"label": "PEOPLE_GROUP", "pattern": "Pandavas"}
 {"label": "DEITY", "pattern": "Lord of Spirits"}
 {"label": "DEITY", "pattern": "Head of Days"}
-{"label": "PROPHET_FIGURE", "pattern": "Enoch"}
-{"label": "PROPHET_FIGURE", "pattern": "Noah"}
 {"label": "PROPHET_FIGURE", "pattern": "Methuselah"}
 {"label": "CELESTIAL_BEING", "pattern": "Watchers"}
 {"label": "CELESTIAL_BEING", "pattern": "Grigori"}
@@ -198,11 +179,6 @@
 {"label": "PROPHET_FIGURE", "pattern": "Asher"}
 {"label": "SACRED_PLACE", "pattern": "Israel"}
 {"label": "SACRED_PLACE", "pattern": "Egypt"}
-{"label": "DEITY", "pattern": "Thoth"}
-{"label": "DEITY", "pattern": "Ra"}
-{"label": "DEITY", "pattern": "Osiris"}
-{"label": "DEITY", "pattern": "Isis"}
-{"label": "DEITY", "pattern": "Horus"}
 {"label": "DEITY", "pattern": "Ptah"}
 {"label": "DEITY", "pattern": "Anubis"}
 {"label": "DEITY", "pattern": "Set"}
@@ -217,11 +193,9 @@
 {"label": "SACRED_PLACE", "pattern": "Coptos"}
 {"label": "SACRED_PLACE", "pattern": "necropolis"}
 {"label": "SACRED_PLACE", "pattern": "Duat"}
-{"label": "SACRED_OBJECT", "pattern": "Book of Thoth"}
 {"label": "SACRED_OBJECT", "pattern": "magic book"}
 {"label": "CELESTIAL_PHENOMENON", "pattern": "strong light"}
 {"label": "CONCEPT_KNOWLEDGE", "pattern": "magic spells"}
-{"label": "CONCEPT_KNOWLEDGE", "pattern": "sorcery"}
 {"label": "PEOPLE_GROUP", "pattern": "Nubians"}
 {"label": "SYMBOLIC_NUMBER", "pattern": "seven"}
 {"label": "SYMBOLIC_NUMBER", "pattern": "twelve"}
@@ -366,3 +340,50 @@
 {"label": "SOCIAL_ROLE", "pattern": "scribe"}
 {"label": "SOCIAL_ROLE", "pattern": "elder"}
 {"label": "SOCIAL_ROLE", "pattern": "shepherd"}
+{"label": "KNOWLEDGE_TRANSMISSION", "pattern": "taught them"}
+{"label": "KNOWLEDGE_TRANSMISSION", "pattern": "revealed to"}
+{"label": "KNOWLEDGE_TRANSMISSION", "pattern": "instructed them"}
+{"label": "KNOWLEDGE_TRANSMISSION", "pattern": "showed them"}
+{"label": "KNOWLEDGE_TRANSMISSION", "pattern": "secrets were revealed"}
+{"label": "KNOWLEDGE_TRANSMISSION", "pattern": "gave knowledge"}
+{"label": "KNOWLEDGE_TRANSMISSION", "pattern": "made known to"}
+{"label": "KNOWLEDGE_TRANSMISSION", "pattern": "art of"}
+{"label": "KNOWLEDGE_TRANSMISSION", "pattern": "learned from"}
+{"label": "KNOWLEDGE_TRANSMISSION", "pattern": "was taught"}
+{"label": "PHENOMENON_NAMING", "pattern": "called its name"}
+{"label": "PHENOMENON_NAMING", "pattern": "called the name"}
+{"label": "PHENOMENON_NAMING", "pattern": "gave it the name"}
+{"label": "PHENOMENON_NAMING", "pattern": "was named"}
+{"label": "PHENOMENON_NAMING", "pattern": "named it"}
+{"label": "PHENOMENON_NAMING", "pattern": "they called it"}
+{"label": "PHENOMENON_NAMING", "pattern": "called the light"}
+{"label": "PHENOMENON_NAMING", "pattern": "called the darkness"}
+{"label": "NEGATIVE_ENTITY", "pattern": "Satan"}
+{"label": "NEGATIVE_ENTITY", "pattern": "the devil"}
+{"label": "NEGATIVE_ENTITY", "pattern": "demon"}
+{"label": "NEGATIVE_ENTITY", "pattern": "demons"}
+{"label": "NEGATIVE_ENTITY", "pattern": "evil spirit"}
+{"label": "NEGATIVE_ENTITY", "pattern": "unclean spirit"}
+{"label": "NEGATIVE_ENTITY", "pattern": "Leviathan"}
+{"label": "NEGATIVE_ENTITY", "pattern": "Lucifer"}
+{"label": "NEGATIVE_ENTITY", "pattern": "the wicked one"}
+{"label": "NEGATIVE_ENTITY", "pattern": "unclean spirits"}
+{"label": "LIFESPAN", "pattern": "lived nine hundred"}
+{"label": "LIFESPAN", "pattern": "lived eight hundred"}
+{"label": "LIFESPAN", "pattern": "lived seven hundred"}
+{"label": "LIFESPAN", "pattern": "years, and he died"}
+{"label": "LIFESPAN", "pattern": "all the days of"}
+{"label": "LIFESPAN", "pattern": "years old"}
+{"label": "LIFESPAN", "pattern": "hundred years"}
+{"label": "LIFESPAN", "pattern": "thirty years"}
+{"label": "LIFESPAN", "pattern": "and he died"}
+{"label": "VISION_DREAM_STATE", "pattern": "in a dream"}
+{"label": "VISION_DREAM_STATE", "pattern": "in a vision"}
+{"label": "VISION_DREAM_STATE", "pattern": "in the night"}
+{"label": "VISION_DREAM_STATE", "pattern": "trance"}
+{"label": "VISION_DREAM_STATE", "pattern": "fell into a deep sleep"}
+{"label": "VISION_DREAM_STATE", "pattern": "in the spirit"}
+{"label": "VISION_DREAM_STATE", "pattern": "caught up"}
+{"label": "VISION_DREAM_STATE", "pattern": "carried away in the spirit"}
+{"label": "VISION_DREAM_STATE", "pattern": "he dreamed"}
+{"label": "VISION_DREAM_STATE", "pattern": "behold, a vision"}
