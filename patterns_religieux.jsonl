@@ -387,3 +387,44 @@
 {"label": "VISION_DREAM_STATE", "pattern": "carried away in the spirit"}
 {"label": "VISION_DREAM_STATE", "pattern": "he dreamed"}
 {"label": "VISION_DREAM_STATE", "pattern": "behold, a vision"}
+{"label": "GENEALOGY", "pattern": "son of"}
+{"label": "GENEALOGY", "pattern": "begat"}
+{"label": "GENEALOGY", "pattern": "father of"}
+{"label": "GENEALOGY", "pattern": "daughter of"}
+{"label": "GENEALOGY", "pattern": "descendants of"}
+{"label": "GENEALOGY", "pattern": "generations of"}
+{"label": "GENEALOGY", "pattern": "these are the generations"}
+{"label": "GENEALOGY", "pattern": "the sons of"}
+{"label": "BUILDING_TYPE", "pattern": "temple"}
+{"label": "BUILDING_TYPE", "pattern": "tower"}
+{"label": "BUILDING_TYPE", "pattern": "palace"}
+{"label": "BUILDING_TYPE", "pattern": "altar"}
+{"label": "BUILDING_TYPE", "pattern": "tabernacle"}
+{"label": "BUILDING_TYPE", "pattern": "ziggurat"}
+{"label": "BUILDING_TYPE", "pattern": "citadel"}
+{"label": "BUILDING_TYPE", "pattern": "fortress"}
+{"label": "BUILDING_TYPE", "pattern": "walls of the city"}
+{"label": "HUMAN_MORPHOLOGY", "pattern": "tall of stature"}
+{"label": "HUMAN_MORPHOLOGY", "pattern": "fair countenance"}
+{"label": "HUMAN_MORPHOLOGY", "pattern": "strong of body"}
+{"label": "HUMAN_MORPHOLOGY", "pattern": "beautiful to look upon"}
+{"label": "HUMAN_MORPHOLOGY", "pattern": "hairy"}
+{"label": "HUMAN_MORPHOLOGY", "pattern": "ruddy"}
+{"label": "ENTITY_MORPHOLOGY", "pattern": "four wings"}
+{"label": "ENTITY_MORPHOLOGY", "pattern": "many eyes"}
+{"label": "ENTITY_MORPHOLOGY", "pattern": "faces of a lion"}
+{"label": "ENTITY_MORPHOLOGY", "pattern": "face of an eagle"}
+{"label": "ENTITY_MORPHOLOGY", "pattern": "wheels within wheels"}
+{"label": "ENTITY_MORPHOLOGY", "pattern": "burning coals"}
+{"label": "ENTITY_MORPHOLOGY", "pattern": "feet like burnished bronze"}
+{"label": "BEING_OF_LIGHT", "pattern": "being of light"}
+{"label": "BEING_OF_LIGHT", "pattern": "man clothed in linen"}
+{"label": "BEING_OF_LIGHT", "pattern": "shining like the sun"}
+{"label": "BEING_OF_LIGHT", "pattern": "garment white as snow"}
+{"label": "BEING_OF_LIGHT", "pattern": "radiant figure"}
+{"label": "BEING_OF_LIGHT", "pattern": "countenance like lightning"}
+{"label": "KNOWLEDGE_BEARER", "pattern": "keeper of secrets"}
+{"label": "KNOWLEDGE_BEARER", "pattern": "guardian of wisdom"}
+{"label": "KNOWLEDGE_BEARER", "pattern": "possessor of knowledge"}
+{"label": "KNOWLEDGE_BEARER", "pattern": "interpreter of dreams"}
+{"label": "KNOWLEDGE_BEARER", "pattern": "revealer of mysteries"}
