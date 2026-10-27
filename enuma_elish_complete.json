@@ -1,0 +1,2922 @@
+{
+ "work": "Enuma Elish (The Seven Tablets of Creation)",
+ "edition": "The Babylonian Legends of the Creation and the Fight between Bel and the Dragon, British Museum, 1921 (text by E. A. Wallis Budge), Project Gutenberg #9914",
+ "license": "Public domain (1921). Project Gutenberg edition.",
+ "note": "Traduction anglaise ancienne, tres lacunaire : les crochets [ ] marquent des restitutions, '...' des lacunes. Les entrees 'resume_editeur' sont des resumes de l'editeur moderne, pas du texte antique ; 'lacune' signale des vers non traduits.",
+ "tablets": [
+  {
+   "tablet": 1,
+   "title": "First Tablet",
+   "lines": [
+    {
+     "n": 1,
+     "text": "When the heavens above were yet unnamed,",
+     "notes": [
+      "The name of an object was the object itself, and it was believed that nothing could exist apart from its name."
+     ]
+    },
+    {
+     "n": 2,
+     "text": "And the name of the earth beneath had not been recorded,"
+    },
+    {
+     "n": 3,
+     "text": "Apsu, the oldest of beings, their progenitor,"
+    },
+    {
+     "n": 4,
+     "text": "\"Mummu\" Tiamat, who bare each and all of them--"
+    },
+    {
+     "n": 5,
+     "text": "Their waters were merged into a single mass."
+    },
+    {
+     "n": 6,
+     "text": "A field had not been measured, a marsh had not been searched out,"
+    },
+    {
+     "n": 7,
+     "text": "When of the gods none was shining,"
+    },
+    {
+     "n": 8,
+     "text": "A name had not been recorded, a fate had not been fixed,"
+    },
+    {
+     "n": 9,
+     "text": "The gods came into being in the midst of them."
+    },
+    {
+     "n": 10,
+     "text": "The god Lakhmu and the goddess Lakhamu were made to shine, they were named."
+    },
+    {
+     "n": 11,
+     "text": "[Together] they increased in stature, they grew tall."
+    },
+    {
+     "n": 12,
+     "text": "Anshar and Kishar came into being, and others besides them."
+    },
+    {
+     "n": 13,
+     "text": "Long were the days, the years increased."
+    },
+    {
+     "n": 14,
+     "text": "The god Anu, their son, the equal of his fathers, [was created]."
+    },
+    {
+     "n": 15,
+     "text": "The god Anshar made his eldest son Anu in his own image."
+    },
+    {
+     "n": 16,
+     "text": "And the god Anu begat Nudimmud (Ea) the image of himself."
+    },
+    {
+     "n": 17,
+     "text": "The god Nudimmud was the first among his fathers,"
+    },
+    {
+     "n": 18,
+     "text": "Endowed with understanding, he who thinketh deeply, the orator"
+    },
+    {
+     "n": 19,
+     "text": "Exceedingly mighty in strength above his father Anshar who begat him."
+    },
+    {
+     "n": 20,
+     "text": "Unrivalled amongst the gods his brothers ..."
+    },
+    {
+     "n": 21,
+     "text": "The confraternity of the gods was established."
+    },
+    {
+     "n": 22,
+     "text": "Tiamat was troubled and she ... their guardian."
+    },
+    {
+     "n": 23,
+     "text": "Her belly was stirred up to its uttermost depths."
+    },
+    {
+     "n": 24,
+     "text": "..........."
+    },
+    {
+     "n": 25,
+     "text": "Apsu (the watery abyss) could not diminish their brawl"
+    },
+    {
+     "n": 26,
+     "text": "And Tiamat gathered herself together ..."
+    },
+    {
+     "n": 27,
+     "text": "She struck a blow, and their works ..."
+    },
+    {
+     "n": 28,
+     "text": "Their way was not good,..."
+    },
+    {
+     "n": 29,
+     "text": "At that time Apsu, the progenitor of the great gods,"
+    },
+    {
+     "n": 30,
+     "text": "Shouted out and summoned Mummu, the steward of his house, saying"
+    },
+    {
+     "n": 31,
+     "text": "\"[O] Mummu, my steward, who makest my liver to rejoice,"
+    },
+    {
+     "n": 32,
+     "text": "\"Come, to Tiamat we will go.\""
+    },
+    {
+     "n": 33,
+     "text": "They went, they lay down [on a couch] facing Tiamat."
+    },
+    {
+     "n": 34,
+     "text": "They took counsel together about the gods [their children]."
+    },
+    {
+     "n": 35,
+     "text": "Apsu took up his word and said,"
+    },
+    {
+     "n": 36,
+     "text": "To Tiamat, the holy (?) one, he made mention of a matter, [saying],"
+    },
+    {
+     "n": 37,
+     "text": "\"... their way ..."
+    },
+    {
+     "n": 38,
+     "text": "\"By day I find no peace, by night I have no rest."
+    },
+    {
+     "n": 39,
+     "text": "\"Verily I will make an end of their way, I will sweep them away,"
+    },
+    {
+     "n": 40,
+     "text": "\"There shall be a sound of lamentation; lo, then we shall rest.\""
+    },
+    {
+     "n": 41,
+     "text": "Tiamat on hearing this"
+    },
+    {
+     "n": 42,
+     "text": "Was stirred up to wrath and shrieked to her husband,",
+     "notes": [
+      "Tiamat's wrath was roused by Apsu, who had proposed to slay the gods, her children. She took no part in the first struggle of Apsu and Mummu against the gods, and only engaged in active hostilities to avenge Apsu."
+     ]
+    },
+    {
+     "n": 43,
+     "text": "... unto sickness. She raged all alone,"
+    },
+    {
+     "n": 44,
+     "text": "She uttered a curse, and unto [Apsu, spake, saying,],"
+    },
+    {
+     "n": 45,
+     "text": "\"Whatsoever we have made we will destroy."
+    },
+    {
+     "n": 46,
+     "text": "\"Verily their way shall be filled with disaster; lo, then we shall rest.\""
+    },
+    {
+     "n": 47,
+     "text": "Mummu answered and gave counsel unto Apsu,"
+    },
+    {
+     "n": 48,
+     "text": "The counsel of Mummu was ... and dire [in respect of the gods]:"
+    },
+    {
+     "n": 49,
+     "text": "\"Come, [do thou destroy] their way which is strong."
+    },
+    {
+     "n": 50,
+     "text": "\"Then verily by day thou shalt find peace, [and] by night thou shalt have rest.\""
+    },
+    {
+     "n": 51,
+     "text": "Apsu heard him, his face grew bright,"
+    },
+    {
+     "n": 52,
+     "text": "For that they were planning evil against the gods, his children."
+    },
+    {
+     "n": 53,
+     "text": "Mummu embraced his neck ..."
+    },
+    {
+     "n": 54,
+     "text": "He took him on his knee, he kissed him ..."
+    },
+    {
+     "n": 55,
+     "text": "They (i.e. Mummu and Apsu) planned the cursing in the assembly,"
+    },
+    {
+     "n": 56,
+     "text": "They repeated the curses to the gods their eldest sons."
+    },
+    {
+     "n": 57,
+     "text": "The gods made answer ..."
+    },
+    {
+     "n": 58,
+     "text": "They began a lamentation..."
+    },
+    {
+     "n": 59,
+     "text": "[Endowed] with understanding, the prudent god, the exalted one,"
+    },
+    {
+     "n": 60,
+     "text": "Ea, who pondereth everything that is, searched out their [plan]."
+    },
+    {
+     "n": 61,
+     "text": "He brought it to nought (?), he made the form of everything to stand still."
+    },
+    {
+     "n": 62,
+     "text": "He recited a cunning incantation, very powerful and holy."
+    },
+    {
+     "kind": "resume_editeur",
+     "text": "[In the British Museum tablets lines 63-108 are either wanting entirely, or are too broken to translate, and the last 130 lines of the Berlin fragment are much mutilated. The fragments of text show that Ea waged war against Apsu and Mummu. Ea recited an incantation which caused Apsu to fall asleep. He then \"loosed the joints\" of Mummu, who in some way suffered, but he was strong enough to attack Ea when he turned to deal with Apsu. Ea overcame both his adversaries and divided Apsu into chambers and laid fetters upon him.  In one of the chambers of Apsu a god was begotten and born.  According to the Ninevite theologians Ea begat by his wife, who is not named, his son Marduk, and according to the theologians of the City of Ashur, Lakhmu begat by his wife Lakhamu a son who is no other than Anshar, or Ashur. A nurse was appointed to rear him, and he grew up a handsome child, to the great delight of his father. He had four ears and four eyes, a statement which suggests that he was two-headed, and resembled the Latin god Janus.]"
+    },
+    {
+     "n": 109,
+     "text": "They formed a band, and went forth to battle to help Tiamat."
+    },
+    {
+     "n": 110,
+     "text": "They were exceedingly wroth, they made plots by day and by night without ceasing."
+    },
+    {
+     "n": 111,
+     "text": "They offered battle, fuming and raging."
+    },
+    {
+     "n": 112,
+     "text": "They set the battle in array, they uttered cries of hostility,",
+     "notes": [
+      "Literally, \"they excited themselves to hostility.\""
+     ]
+    },
+    {
+     "n": 113,
+     "text": "Ummu-Khubur, who fashioned all things,",
+     "notes": [
+      "A title of Tiamat."
+     ]
+    },
+    {
+     "n": 114,
+     "text": "Set up the unrivalled weapon, she spawned huge serpents,"
+    },
+    {
+     "n": 115,
+     "text": "Sharp of tooth, pitiless in attack (?)"
+    },
+    {
+     "n": 116,
+     "text": "She filled their bodies with venom instead of blood,"
+    },
+    {
+     "n": 117,
+     "text": "Grim, monstrous serpents, arrayed in terror,"
+    },
+    {
+     "n": 118,
+     "text": "She decked them with brightness, she fashioned them in exalted forms,"
+    },
+    {
+     "n": 119,
+     "text": "So that fright and horror might overcome him that looked upon them,"
+    },
+    {
+     "n": 120,
+     "text": "So that their bodies might rear up, and no man resist their attack,"
+    },
+    {
+     "n": 121,
+     "text": "She set up the Viper, and the Snake, and the god Lakhamu,"
+    },
+    {
+     "n": 122,
+     "text": "The Whirlwind, the ravening Dog, the Scorpion-man,"
+    },
+    {
+     "n": 123,
+     "text": "The mighty Storm-wind, the Fish-man, the horned Beast (Capricorn?)"
+    },
+    {
+     "n": 124,
+     "text": "They carried the Weapon which spared not, nor flinched from the battle.",
+     "notes": [
+      "These nine monsters with the Weapon (Thunderbolt?) and Kingu form the Eleven Allies of Tiamat, and it is clear that she and her Allies represent the Twelve Signs of the Zodiac. When Marduk destroyed Tiamat and her associates, he found it necessary to fix the stars, the images of the great gods, in their places, as the Twelve Signs of the Zodiac. (See the Fifth Tablet of Creation, p. 55.)"
+     ]
+    },
+    {
+     "n": 125,
+     "text": "Most mighty were Tiamat's decrees, they could not be resisted,"
+    },
+    {
+     "n": 126,
+     "text": "Thus she caused eleven [monsters] of this kind to come into being,"
+    },
+    {
+     "n": 127,
+     "text": "Among the gods, her first-born son who had collected her company,"
+    },
+    {
+     "n": 128,
+     "text": "That is to say, Kingu, she set on high, she made him the great one amongst them,"
+    },
+    {
+     "n": 129,
+     "text": "Leader of the hosts in battle, disposer of the troops,"
+    },
+    {
+     "n": 130,
+     "text": "Bearer of the firmly grasped weapon, attacker in the fight,"
+    },
+    {
+     "n": 131,
+     "text": "He who in the battle is the master of the weapon,"
+    },
+    {
+     "n": 132,
+     "text": "She appointed, she made him to sit down in [goodly apparel]"
+    },
+    {
+     "n": 133,
+     "text": "[Saying], \"I have uttered the incantation for thee. I have magnified thee in the assembly of the gods."
+    },
+    {
+     "n": 134,
+     "text": "\"I have filled his [_sic_, read 'thy'] hand with the sovereignty of the whole company of the gods."
+    },
+    {
+     "n": 135,
+     "text": "\"Mayest thou be magnified, thou who art my only spouse,"
+    },
+    {
+     "n": 136,
+     "text": "\"May the Anunnaki make great thy renown over all of them.\""
+    },
+    {
+     "n": 137,
+     "text": "She gave him the TABLET OF DESTINIES, she fastened it on his breast, [saying],"
+    },
+    {
+     "n": 138,
+     "text": "\"As for thee, thy command shall not fall empty, whatsoever goeth forth from thy mouth shall be established.\""
+    },
+    {
+     "n": 139,
+     "text": "When Kingu was raised on high and had taken the heavens (literally, the god Anutum)"
+    },
+    {
+     "n": 140,
+     "text": "He fixed the destinies for the gods his sons,"
+    },
+    {
+     "n": 141,
+     "text": "Open your mouths, let the Fire-god be quenched,",
+     "notes": [
+      "The god here alluded to is Mardak, who, in one aspect, is a fire-god; see Tablet IV, II. 39, 40."
+     ]
+    },
+    {
+     "n": 142,
+     "text": "He who is glorious in battle and is most mighty, shall do great deeds."
+    }
+   ],
+   "notes": [
+    "This translation is made from transcripts of the British Museum fragments (_Cuneiform Texts_, Part XIII), and transcripts of the Berlin fragments (Ebeling, _Keilschrifttexte aus Assur_, Nos. 117, 118)."
+   ]
+  },
+  {
+   "tablet": 2,
+   "title": "Second Tablet",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Tiamat made solid that which she had moulded."
+    },
+    {
+     "n": 2,
+     "text": "She bound the gods her children with [evil bonds]."
+    },
+    {
+     "n": 3,
+     "text": "Tiamat wrought wickedness to avenge Apsu."
+    },
+    {
+     "n": 4,
+     "text": "When ... had harnessed his chariot he went to meet Ea,"
+    },
+    {
+     "n": 5,
+     "text": "Ea hearkened to his story,"
+    },
+    {
+     "n": 6,
+     "text": "He was sorely afflicted and abode in sorrow,"
+    },
+    {
+     "n": 7,
+     "text": "The days were long, his wrath died down."
+    },
+    {
+     "n": 8,
+     "text": "He went his way to the dwelling of Anshar, his father,"
+    },
+    {
+     "n": 9,
+     "text": "He went into the presence of Anshar, the father who begat him,"
+    },
+    {
+     "n": 10,
+     "text": "Whatsoever Tiamat had devised he repeated unto him,"
+    },
+    {
+     "n": 11,
+     "text": "Mother Tiamat who gave us birth hath sown these things."
+    },
+    {
+     "n": 12,
+     "text": "She hath set in order her assembly, she rageth furiously,"
+    },
+    {
+     "n": 13,
+     "text": "All the gods have joined themselves to her."
+    },
+    {
+     "n": 14,
+     "text": "They march by her side together with those whom ye have created."
+    },
+    {
+     "n": 15,
+     "text": "They formed a band and went forth to battle to help Tiamat,"
+    },
+    {
+     "n": 16,
+     "text": "They were exceedingly wroth, they made plots by day and by night without ceasing,"
+    },
+    {
+     "n": 17,
+     "text": "They offered battle, fuming and raging,"
+    },
+    {
+     "n": 18,
+     "text": "They set the battle in array, they uttered cries of defiance."
+    },
+    {
+     "n": 19,
+     "text": "Ummu-Khubur, who fashioned all things,",
+     "notes": [
+      "See above."
+     ]
+    },
+    {
+     "n": 20,
+     "text": "Set up the unrivalled weapon, she spawned huge serpents"
+    },
+    {
+     "n": 21,
+     "text": "Sharp of tooth, pitiless in attack (?)"
+    },
+    {
+     "n": 22,
+     "text": "She filled their bodies with venom instead of blood,"
+    },
+    {
+     "n": 23,
+     "text": "Grim, monstrous serpents arrayed in terror."
+    },
+    {
+     "n": 24,
+     "text": "She decked them with brightness, she fashioned them in exalted forms,"
+    },
+    {
+     "n": 25,
+     "text": "So that fright and horror might overcome him that looked upon them,"
+    },
+    {
+     "n": 26,
+     "text": "So that their bodies might rear up, and no man resist their attack."
+    },
+    {
+     "n": 27,
+     "text": "She set up the Viper, and the Snake, and the god Lakhamu,"
+    },
+    {
+     "n": 28,
+     "text": "The Whirlwind, the ravening Dog, the Scorpion-man,"
+    },
+    {
+     "n": 29,
+     "text": "The Storm-wind, the Fish-man, the Horned Beast."
+    },
+    {
+     "n": 30,
+     "text": "They carried the Weapon which spared not, nor flinched from the battle."
+    },
+    {
+     "n": 31,
+     "text": "Most mighty were Tiamat's allies, they could not be resisted."
+    },
+    {
+     "n": 32,
+     "text": "Thus she caused eleven [monsters] of this kind to come into being."
+    },
+    {
+     "n": 33,
+     "text": "Among the gods, her first-born son who had collected her company,"
+    },
+    {
+     "n": 34,
+     "text": "That is to say, Kingu, she set on high, she made him the great one amongst them."
+    },
+    {
+     "n": 35,
+     "text": "Leader of the hosts in battle, disposer of the troops,"
+    },
+    {
+     "n": 36,
+     "text": "Bearer of the firmly-grasped weapon, attacker in the fight,"
+    },
+    {
+     "n": 37,
+     "text": "He who in the battle is the master of the weapon,"
+    },
+    {
+     "n": 38,
+     "text": "She appointed, she made him to sit down in [goodly apparel]"
+    },
+    {
+     "n": 39,
+     "text": "[Saying], \"I have recited the incantation for thee, I have magnified thee in the assembly of the gods,"
+    },
+    {
+     "n": 40,
+     "text": "\"I have filled his [_sic_, read 'thy'] hand with the sovereignty of the whole company of the gods."
+    },
+    {
+     "n": 41,
+     "text": "\"Mayest thou be magnified, thou who art my only spouse,"
+    },
+    {
+     "n": 42,
+     "text": "\"May the Anunnaki make great thy renown over all of them.\""
+    },
+    {
+     "n": 43,
+     "text": "She gave him the TABLET OF DESTINIES, she fastened it on his breast, [saying]--"
+    },
+    {
+     "n": 44,
+     "text": "\"As for thee, thy command shall not fall empty, what goeth forth from thy mouth shall be established.\""
+    },
+    {
+     "n": 45,
+     "text": "When Kingu was raised on high and had taken the heavens (literally, \"the god Anutum\")"
+    },
+    {
+     "n": 46,
+     "text": "He fixed the destinies for the gods his sons, [saying],"
+    },
+    {
+     "n": 47,
+     "text": "\"Open your mouths, let the Fire-god be quenched,"
+    },
+    {
+     "n": 48,
+     "text": "\"He who is glorious in battle and is most mighty shall do great deeds.\""
+    },
+    {
+     "n": 49,
+     "text": "When Anshar heard that Tiamat was stirred mightily,"
+    },
+    {
+     "n": 50,
+     "text": "... he bit his lips"
+    },
+    {
+     "n": 51,
+     "text": "... his mind was not at peace"
+    },
+    {
+     "kind": "lacune",
+     "text": "Lines 52-54 too fragmentary for translation."
+    },
+    {
+     "kind": "resume_editeur",
+     "text": "An'shar then addresses Ea and says:--"
+    },
+    {
+     "n": 55,
+     "text": "\"Thou hast slain Mummu and Apsu"
+    },
+    {
+     "n": 56,
+     "text": "\"But Tiamat hath exalted Kingu--where is the one who can meet her?"
+    },
+    {
+     "kind": "lacune",
+     "text": "Lines 57 and 58 imperfect; lines 59-71 wanting."
+    },
+    {
+     "n": 72,
+     "text": "Anshar spake a word unto his son [Anu]:--"
+    },
+    {
+     "n": 73,
+     "text": "\"... this is a difficulty, my warrior"
+    },
+    {
+     "n": 74,
+     "text": "\"Whose power is exalted, whose attack cannot be stayed,"
+    },
+    {
+     "n": 75,
+     "text": "\"Go and stand thou in the presence of Tiamat,"
+    },
+    {
+     "n": 76,
+     "text": "\"That her spirit [be quieted], her heart softened."
+    },
+    {
+     "n": 77,
+     "text": "\"But should she not hearken unto thy word,"
+    },
+    {
+     "n": 78,
+     "text": "\"Speak thou our word unto her so that she may be abated.\""
+    },
+    {
+     "n": 79,
+     "text": "[Anu] heard the order of his father Anshar."
+    },
+    {
+     "n": 80,
+     "text": "He took the straight road to her, and hastened on the way to her."
+    },
+    {
+     "n": 81,
+     "text": "Anu drew nigh, he searched out the plan of Tiamat,"
+    },
+    {
+     "n": 82,
+     "text": "He could not prevail against her, he turned back."
+    },
+    {
+     "kind": "resume_editeur",
+     "text": "Lines 83 and 84 contain Anu's report to Anshar, but they are too fragmentary to translate; line 85 reads:--"
+    },
+    {
+     "n": 83,
+     "text": "He (Anu) went to his father Anshar who begat him,"
+    },
+    {
+     "n": 84,
+     "text": "He spake unto him a word [concerning Tiamat]"
+    },
+    {
+     "n": 85,
+     "text": "[She laid] hands upon me that withered me up.\""
+    },
+    {
+     "n": 86,
+     "text": "Anshar was distressed, he looked down upon the ground,"
+    },
+    {
+     "n": 87,
+     "text": "He turned pale; towards Ea he lifted up his head."
+    },
+    {
+     "n": 88,
+     "text": "All the Anunnaki assembled at their posts."
+    },
+    {
+     "n": 89,
+     "text": "They shut their mouths, they sat in lamentation."
+    },
+    {
+     "n": 90,
+     "text": "[They said], \"Nowhere is there a god who can attack Tiamat."
+    },
+    {
+     "n": 91,
+     "text": "\"He would not escape from Tiamat's presence with his life.\""
+    },
+    {
+     "n": 92,
+     "text": "The Lord Anshar, the Father of the gods, [spake] majestically,"
+    },
+    {
+     "n": 93,
+     "text": "He lifted up his heart, he addressed the Anunnaki, [saying]"
+    },
+    {
+     "n": 94,
+     "text": "\"He whose [strength] is mighty [shall be] an avenger for [us]"
+    },
+    {
+     "n": 95,
+     "text": "\"The ... in the strife, Marduk the Hero.\""
+    },
+    {
+     "n": 96,
+     "text": "Ea called Marduk to the place where he gave oracles,"
+    },
+    {
+     "n": 97,
+     "text": "Marduk came and according to his heart he addressed him,"
+    },
+    {
+     "n": 98,
+     "text": "[Saying], \"O Marduk, hear the counsel and advice of thy father,"
+    },
+    {
+     "n": 99,
+     "text": "\"Thou art the son who refresheth his heart,"
+    },
+    {
+     "n": 100,
+     "text": "\"Draw nigh and enter the presence of An-shar,"
+    },
+    {
+     "n": 101,
+     "text": "\"Stand there [with joy], when he looketh upon thee he will be at rest.\"",
+     "notes": [
+      "Lines 83, 84, 88-101 are translated from the British Museum fragments and the Berlin fragments; lines 88-101 contain the equivalent to the whole gap in the British Museum tablet."
+     ]
+    },
+    {
+     "n": 113,
+     "text": "The Lord [Marduk] rejoiced at the word of his father,"
+    },
+    {
+     "n": 114,
+     "text": "He approached and took up his place before Anshar."
+    },
+    {
+     "n": 115,
+     "text": "Anshar looked upon him and his heart was filled with gladness."
+    },
+    {
+     "n": 116,
+     "text": "He (i.e., Anshar) kissed his (Marduk's) lips, and his (Anshar's) fear was removed. [Then Marduk said]"
+    },
+    {
+     "n": 117,
+     "text": "\"My father, let not the opening of thy mouth be closed,",
+     "notes": [
+      "i.e., \"let what thou sayest prevail.\""
+     ]
+    },
+    {
+     "n": 118,
+     "text": "\"I will go, I will make to take place all that is in thy heart."
+    },
+    {
+     "n": 119,
+     "text": "\"Anshar, let not the opening of thy mouth be closed,"
+    },
+    {
+     "n": 120,
+     "text": "\"I will go, I will make to take place all that is in thy heart.\" [Anshar says to Marduk]"
+    },
+    {
+     "n": 121,
+     "text": "\"What man is the cause of the battle which made thee go forth"
+    },
+    {
+     "n": 122,
+     "text": "\"... Tiamat, who is a woman, pursueth thee with weapons."
+    },
+    {
+     "n": 123,
+     "text": "\"Rejoice our [hearts] and make us glad."
+    },
+    {
+     "n": 124,
+     "text": "\"Thou thyself shalt soon trample upon the neck of Tiamat,"
+    },
+    {
+     "n": 125,
+     "text": "\"Rejoice our [hearts] and make us glad."
+    },
+    {
+     "n": 126,
+     "text": "\"Thou thyself shalt soon trample upon the neck of Tiamat."
+    },
+    {
+     "n": 127,
+     "text": "\"My son, who dost comprehend everything,"
+    },
+    {
+     "n": 128,
+     "text": "\"Cast deep sleep upon Tiamat with thy holy spell."
+    },
+    {
+     "n": 129,
+     "text": "\"Betake thyself to thy march with all speed."
+    },
+    {
+     "n": 130,
+     "text": "\"...\""
+    },
+    {
+     "n": 131,
+     "text": "The Lord [Marduk] rejoiced at the word of his father,"
+    },
+    {
+     "n": 132,
+     "text": "His heart leaped with joy, to his father he spake, [saying],"
+    },
+    {
+     "n": 133,
+     "text": "\"O Lord of the gods, Overlord of the Great Gods,"
+    },
+    {
+     "n": 134,
+     "text": "\"Should I as your avenger"
+    },
+    {
+     "n": 135,
+     "text": "\"Slay Tiamat and bestow life upon you,"
+    },
+    {
+     "n": 136,
+     "text": "\"Summon a meeting, proclaim and magnify my position,"
+    },
+    {
+     "n": 137,
+     "text": "\"Sit ye down together in friendly fashion in Upshukkinaku."
+    },
+    {
+     "n": 138,
+     "text": "\"Let me issue decrees by the opening of my mouth even as ye do."
+    },
+    {
+     "n": 139,
+     "text": "\"Whatsoever I bring to pass let it remain unaltered,"
+    },
+    {
+     "n": 140,
+     "text": "\"That which my mouth uttereth shall never fail or be brought to nought.\""
+    }
+   ],
+   "notes": []
+  },
+  {
+   "tablet": 3,
+   "title": "Third Tablet",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Anshar opened his mouth, and"
+    },
+    {
+     "n": 2,
+     "text": "Unto the god Gaga, his envoy, spake a word [saying],"
+    },
+    {
+     "n": 3,
+     "text": "\"O Gaga, my envoy, who makest glad my liver."
+    },
+    {
+     "n": 4,
+     "text": "\"I will despatch thee unto the gods Lakhmu and Lakhamu."
+    },
+    {
+     "n": 5,
+     "text": "\"Thou must know and understand the [intention of my heart]"
+    },
+    {
+     "n": 6,
+     "text": "\"... are brought before thee"
+    },
+    {
+     "n": 7,
+     "text": "\"... all the gods."
+    },
+    {
+     "n": 8,
+     "text": "\"Let them make a council, let them sit down to a feast"
+    },
+    {
+     "n": 9,
+     "text": "\"Let them eat bread, let them heat sesame wine."
+    },
+    {
+     "n": 10,
+     "text": "\"Let them issue decrees to Marduk as their avenger."
+    },
+    {
+     "n": 11,
+     "text": "\"Get thee gone, Gaga, take up thy stand before them."
+    },
+    {
+     "n": 12,
+     "text": "\"All that I am now going to tell thee do thou repeat to them [saying],"
+    },
+    {
+     "n": 13,
+     "text": "\"'[O ye gods], Anshar your son hath charged me,"
+    },
+    {
+     "n": 14,
+     "text": "\"'The intention of his heart he hath made me to know in this wise:--"
+    },
+    {
+     "n": 15,
+     "text": "\"'Mother Tiamat who gave us birth hath sown these things,"
+    },
+    {
+     "n": 16,
+     "text": "\"'She hath set in order her assembly, she rageth furiously,"
+    },
+    {
+     "n": 17,
+     "text": "\"'All the gods have joined themselves to her."
+    },
+    {
+     "n": 18,
+     "text": "\"'They march by her side together with those whom ye have created."
+    },
+    {
+     "n": 19,
+     "text": "\"'They formed a band and went forth to battle to help Tiamat."
+    },
+    {
+     "n": 20,
+     "text": "\"'They were exceedingly wroth, they made plots by day and by night without ceasing."
+    },
+    {
+     "n": 21,
+     "text": "\"'They offered battle, foaming and raging."
+    },
+    {
+     "n": 22,
+     "text": "\"'They set the battle in array, they uttered cries of defiance."
+    },
+    {
+     "n": 23,
+     "text": "\"'Ummu-Khubur, who formed all things,"
+    },
+    {
+     "n": 24,
+     "text": "\"'Set up the unrivalled weapon, she spawned huge serpents,"
+    },
+    {
+     "n": 25,
+     "text": "\"'Sharp of tooth, pitiless in attack (?)"
+    },
+    {
+     "n": 26,
+     "text": "\"'She filled their bodies with venom instead of blood."
+    },
+    {
+     "n": 27,
+     "text": "\"'Grim, monstrous serpents arrayed in terror."
+    },
+    {
+     "n": 28,
+     "text": "\"'She decked them with brightness, she fashioned them in exalted forms,"
+    },
+    {
+     "n": 29,
+     "text": "\"'So that fright and horror might overcome him that looked upon them,"
+    },
+    {
+     "n": 30,
+     "text": "\"'So that their bodies might rear up, and no man resist their attack."
+    },
+    {
+     "n": 31,
+     "text": "\"'She set up the Viper, and the Snake, and the god Lakhamu,"
+    },
+    {
+     "n": 32,
+     "text": "\"'The Whirlwind, the Ravening Dog, the Scorpion-man,"
+    },
+    {
+     "n": 33,
+     "text": "\"'The Storm-wind, the Fish-man, the Horned Beast."
+    },
+    {
+     "n": 34,
+     "text": "\"'They carried the Weapon which spared not, nor flinched from the battle,"
+    },
+    {
+     "n": 35,
+     "text": "\"'Most mighty were Tiamat's allies, they could not be resisted."
+    },
+    {
+     "n": 36,
+     "text": "\"'Thus she caused Eleven [monsters] of this kind to come into being."
+    },
+    {
+     "n": 37,
+     "text": "\"'Among the gods, her first-born son who had collected her company,"
+    },
+    {
+     "n": 38,
+     "text": "\"'That is to say, Kingu, she set on high, she made him the great one among them,"
+    },
+    {
+     "n": 39,
+     "text": "\"'Leader of the hosts in the battle, disposer of the troops,"
+    },
+    {
+     "n": 40,
+     "text": "\"'Bearer of the firmly-grasped weapon, attacker in the fight."
+    },
+    {
+     "n": 41,
+     "text": "\"'He who in the battle is the master of the weapon,"
+    },
+    {
+     "n": 42,
+     "text": "\"'She appointed, she made him to sit down in [goodly apparel]"
+    },
+    {
+     "n": 43,
+     "text": "\"'[Saying]: I have recited the incantation for thee, I have magnified thee in the assembly of the gods."
+    },
+    {
+     "n": 44,
+     "text": "\"''I have filled his (i.e., thy) hand with the sovereignty of the whole company of the gods."
+    },
+    {
+     "n": 45,
+     "text": "\"''Mayest thou be magnified, thou who art my only spouse,"
+    },
+    {
+     "n": 46,
+     "text": "\"''May the Anunnaki make great thy renown over all of them.\"'"
+    },
+    {
+     "n": 47,
+     "text": "\"She gave him the TABLET OF DESTINIES, she fastened it on his head [saying]:"
+    },
+    {
+     "n": 48,
+     "text": "\"'As for thee, thy command shall not fall empty, what goeth forth from thy mouth shall be established.'"
+    },
+    {
+     "n": 49,
+     "text": "\"When Kingu was raised on high and had taken the heavens (literally, the god Anutum),"
+    },
+    {
+     "n": 50,
+     "text": "\"He fixed the destinies for the gods, his sons, [saying]:"
+    },
+    {
+     "n": 51,
+     "text": "\"'Open your mouths, let the Fire-god be quenched."
+    },
+    {
+     "n": 52,
+     "text": "\"'He who is glorious in battle and is most mighty shall do great deeds.'"
+    },
+    {
+     "n": 53,
+     "text": "\"'I sent the god Anu, but he could not prevail against her."
+    },
+    {
+     "n": 54,
+     "text": "\"'Nudimmud (i.e., Ea) was afraid and turned back,"
+    },
+    {
+     "n": 55,
+     "text": "\"'Marduk, your son, the envoy of the gods, hath set out."
+    },
+    {
+     "n": 56,
+     "text": "\"'His heart is stirred up to oppose Tiamat."
+    },
+    {
+     "n": 57,
+     "text": "\"'He opened his mouth, he spoke unto me [saying]:"
+    },
+    {
+     "n": 58,
+     "text": "\"'Should I as your avenger"
+    },
+    {
+     "n": 59,
+     "text": "\"'Slay Tiamat, and bestow life upon you,"
+    },
+    {
+     "n": 60,
+     "text": "\"'Summon a meeting, proclaim and magnify my position,"
+    },
+    {
+     "n": 61,
+     "text": "\"'Sit ye down together in friendly fashion in Up-shukkinaku."
+    },
+    {
+     "n": 62,
+     "text": "\"'Let me issue decrees by the opening of my mouth even as ye do,"
+    },
+    {
+     "n": 63,
+     "text": "\"'Whatsoever I bring to pass let it remain unaltered."
+    },
+    {
+     "n": 64,
+     "text": "\"'That which my mouth uttereth shall neither fail nor be brought to nought.'"
+    },
+    {
+     "n": 65,
+     "text": "\"Hasten ye therefore, issue your decrees speedily"
+    },
+    {
+     "n": 66,
+     "text": "\"That he may go to meet your mighty enemy.\""
+    },
+    {
+     "n": 67,
+     "text": "Gaga departed and hastened upon his way"
+    },
+    {
+     "n": 68,
+     "text": "To the god Lakhmu and the goddess Lakhamu, the gods his fathers, reverently"
+    },
+    {
+     "n": 69,
+     "text": "He did homage, and he kissed the ground at their feet."
+    },
+    {
+     "n": 70,
+     "text": "He bowed down, stood up, and spake unto them [saying]:"
+    },
+    {
+     "n": 71,
+     "text": "\"[O ye gods], Anshar your son hath charged me,"
+    },
+    {
+     "n": 72,
+     "text": "\"The intention of his heart he hath made me to know in this wise:--"
+    },
+    {
+     "n": 73,
+     "text": "\"Mother Tiamat who gave us birth hath sown these things,"
+    },
+    {
+     "n": 74,
+     "text": "\"She hath set in order her assembly, she rageth furiously."
+    },
+    {
+     "n": 75,
+     "text": "\"All the gods have joined themselves to her."
+    },
+    {
+     "n": 76,
+     "text": "\"They march by her side together with those whom ye have created,"
+    },
+    {
+     "n": 77,
+     "text": "\"They formed a band and went forth to battle to help Tiamat."
+    },
+    {
+     "n": 78,
+     "text": "\"They were exceedingly wroth, they made plans by day and by night without ceasing."
+    },
+    {
+     "n": 79,
+     "text": "\"They offered battle, foaming and raging."
+    },
+    {
+     "n": 80,
+     "text": "\"They set the battle in array, they uttered cries of defiance."
+    },
+    {
+     "n": 81,
+     "text": "\"Ummu-Khubur, who formed all things,"
+    },
+    {
+     "n": 82,
+     "text": "\"Set up the unrivalled weapon, she spawned huge serpents,"
+    },
+    {
+     "n": 83,
+     "text": "\"Sharp of tooth, pitiless in attack (?)"
+    },
+    {
+     "n": 84,
+     "text": "\"She filled their bodies with venom instead of blood,"
+    },
+    {
+     "n": 85,
+     "text": "\"Grim, monstrous serpents, arrayed in terror,"
+    },
+    {
+     "n": 86,
+     "text": "\"She decked them with brightness, she fashioned them in exalted forms,"
+    },
+    {
+     "n": 87,
+     "text": "\"So that fright and horror might overcome him that looked upon them,"
+    },
+    {
+     "n": 88,
+     "text": "\"So that their bodies might rear up, and no man resist their attack."
+    },
+    {
+     "n": 89,
+     "text": "\"She set up the Viper, and the Snake, and the god Lakhamu,"
+    },
+    {
+     "n": 90,
+     "text": "\"The Whirlwind, the Ravening Dog, the Scorpion-man,"
+    },
+    {
+     "n": 91,
+     "text": "\"The Storm-wind, the Fish-man, the Horned Beast,"
+    },
+    {
+     "n": 92,
+     "text": "\"They carried the Weapon which spared not, nor flinched from the battle."
+    },
+    {
+     "n": 93,
+     "text": "\"Most mighty were Tiamat's allies, they could not be resisted."
+    },
+    {
+     "n": 94,
+     "text": "\"Thus she caused Eleven [monsters] of this kind to come into being."
+    },
+    {
+     "n": 95,
+     "text": "\"Amongst the gods, her first-born son who had collected her company,"
+    },
+    {
+     "n": 96,
+     "text": "\"That is to say, Kingu, she set on high, she made him the great one among them."
+    },
+    {
+     "n": 97,
+     "text": "\"Leader of the hosts in the battle, disposer of the troops,"
+    },
+    {
+     "n": 98,
+     "text": "\"Bearer of the firmly-grasped weapon, attacker in the fight,"
+    },
+    {
+     "n": 99,
+     "text": "\"He who in the battle is the master of the weapon"
+    },
+    {
+     "n": 100,
+     "text": "\"She appointed, she made him to sit down in [goodly apparel],"
+    },
+    {
+     "n": 101,
+     "text": "\"[Saying]: 'I have recited the incantation for thee, I have magnified thee in the assembly of the gods."
+    },
+    {
+     "n": 102,
+     "text": "\"'I have filled his (i.e., thy) hand with the sovereignty of the whole company of the gods."
+    },
+    {
+     "n": 103,
+     "text": "\"'Mayest thou be magnified, thou who art my only spouse."
+    },
+    {
+     "n": 104,
+     "text": "\"'May the Anunnaki make great thy renown over all of them.'"
+    },
+    {
+     "n": 105,
+     "text": "\"She gave him the TABLET OF DESTINIES, she fastened it on his head [saying]:"
+    },
+    {
+     "n": 106,
+     "text": "\"'As for thee, thy command shall not fall empty, what goeth forth from thy mouth shall be established.'"
+    },
+    {
+     "n": 107,
+     "text": "\"When Kingu was raised on high, and had taken the heavens (Anutum)"
+    },
+    {
+     "n": 108,
+     "text": "\"He fixed the destinies for the gods, his sons, [saying]:"
+    },
+    {
+     "n": 109,
+     "text": "\"'Open your mouths, let the Fire-god be quenched,"
+    },
+    {
+     "n": 110,
+     "text": "\"'He who is glorious in battle and is most mighty shall do great deeds."
+    },
+    {
+     "n": 111,
+     "text": "\"'I sent the god Anu, but he could not prevail against her."
+    },
+    {
+     "n": 112,
+     "text": "\"'Nudimmud (i.e., Ea) was afraid and turned back."
+    },
+    {
+     "n": 113,
+     "text": "\"'Marduk, your son, the envoy of the gods, hath set out."
+    },
+    {
+     "n": 114,
+     "text": "\"'His heart is stirred up to oppose Tiamat."
+    },
+    {
+     "n": 115,
+     "text": "\"'He opened his mouth, he spoke unto me, [saying]:"
+    },
+    {
+     "n": 116,
+     "text": "\"'Should I as your avenger"
+    },
+    {
+     "n": 117,
+     "text": "\"'Slay Tiamat, and bestow life upon you,"
+    },
+    {
+     "n": 118,
+     "text": "\"'Summon a meeting (i.e., council), proclaim and magnify my position,"
+    },
+    {
+     "n": 119,
+     "text": "\"'Sit down together in friendly fashion in Upshukkinaku,"
+    },
+    {
+     "n": 120,
+     "text": "\"'Let me issue decrees by the opening of my mouth, even as ye do,"
+    },
+    {
+     "n": 121,
+     "text": "\"'Whatsoever I bring to pass let it remain unaltered."
+    },
+    {
+     "n": 122,
+     "text": "\"'That which my mouth uttereth shall neither fail nor be brought to nought.\"'"
+    },
+    {
+     "n": 123,
+     "text": "\"Hasten ye therefore, issue your decrees speedily"
+    },
+    {
+     "n": 124,
+     "text": "\"That he may go to meet your mighty enemy.\""
+    },
+    {
+     "n": 125,
+     "text": "The gods Lakhmu and Lakhamu heard, they wailed loudly,"
+    },
+    {
+     "n": 126,
+     "text": "All the Igigi gods wept bitterly [saying]:"
+    },
+    {
+     "n": 127,
+     "text": "\"Who were [our] enemies until [the gods] were posted [in heaven]?"
+    },
+    {
+     "n": 128,
+     "text": "\"We cannot comprehend the work of Tiamat.\""
+    },
+    {
+     "n": 129,
+     "text": "They gathered themselves together, they went,"
+    },
+    {
+     "n": 130,
+     "text": "All the great gods, who issue decrees."
+    },
+    {
+     "n": 131,
+     "text": "They entered in, they filled [the court] before Anshar."
+    },
+    {
+     "n": 132,
+     "text": "Brother [god] kissed brother [god] in the [divine] assembly,"
+    },
+    {
+     "n": 133,
+     "text": "They held a meeting, they sat down to a feast,"
+    },
+    {
+     "n": 134,
+     "text": "They ate bread, they heated the [sesame wine],"
+    },
+    {
+     "n": 135,
+     "text": "The taste of the sweet drink confused their ..."
+    },
+    {
+     "n": 136,
+     "text": "They drank themselves drunk, their bodies were filled to overflowing,"
+    },
+    {
+     "n": 137,
+     "text": "They were overcome by heaviness [of drink], their livers (i.e., spirits) were exalted,"
+    },
+    {
+     "n": 138,
+     "text": "They issued the decree for Marduk as their avenger."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "tablet": 4,
+   "title": "Fourth Tablet",
+   "lines": [
+    {
+     "n": 1,
+     "text": "They founded for him a majestic canopy,"
+    },
+    {
+     "n": 2,
+     "text": "He (i.e., Marduk) seated himself in the seat of kingship in the presence of his fathers [who said unto him]:"
+    },
+    {
+     "n": 3,
+     "text": "\"Thou art honourable by reason of thy greatness among the gods."
+    },
+    {
+     "n": 4,
+     "text": "\"Thy position is unrivalled, the words thou utterest become Anum (i.e., as fixed as the sky)."
+    },
+    {
+     "n": 5,
+     "text": "\"Thou art honourable by reason of thy greatness among the gods."
+    },
+    {
+     "n": 6,
+     "text": "\"Thy position is unrivalled, the words thou utterest become Anum (i.e., as fixed as the sky)."
+    },
+    {
+     "n": 7,
+     "text": "\"From this day onward thy command shall not be abrogated."
+    },
+    {
+     "n": 8,
+     "text": "\"The power to exalt to heaven and to cast down to the earth both shall be in thy hand,"
+    },
+    {
+     "n": 9,
+     "text": "\"That which goeth forth from thy mouth shall be established, against thy utterance shall be no appeal."
+    },
+    {
+     "n": 10,
+     "text": "\"No one among the gods shall overstep thy boundary,"
+    },
+    {
+     "n": 11,
+     "text": "\"Worship, which is the object of the sanctuary of the gods,"
+    },
+    {
+     "n": 12,
+     "text": "\"Whensoever they lack [it] shall be forthcoming in thy sanctuary,"
+    },
+    {
+     "n": 13,
+     "text": "\"O god Marduk, thou art our avenger."
+    },
+    {
+     "n": 14,
+     "text": "\"We have given unto thee sovereignty over the whole creation,"
+    },
+    {
+     "n": 15,
+     "text": "\"Thou shalt sit down, in the council thy word shall be exalted,"
+    },
+    {
+     "n": 16,
+     "text": "\"Thy weapon shall never fall [from thy hands], it shall break the head of thy foe."
+    },
+    {
+     "n": 17,
+     "text": "\"Lord, whosoever putteth his trust in thee, spare thou his life,"
+    },
+    {
+     "n": 18,
+     "text": "\"And the god who deviseth evil, pour thou out his soul.\""
+    },
+    {
+     "n": 19,
+     "text": "Then a cloak (literally, one cloak) was set in their midst,"
+    },
+    {
+     "n": 20,
+     "text": "They addressed the god Marduk their first-born [saying]:"
+    },
+    {
+     "n": 21,
+     "text": "\"Thou, Lord, shalt hold the foremost position among the gods."
+    },
+    {
+     "n": 22,
+     "text": "\"Decree thou the throwing down and the building up, and it shall come to pass.",
+     "notes": [
+      "_I.e._, the destruction of Tiamat.",
+      "_I.e._, the establishing of a new creation to take the place of the old."
+     ]
+    },
+    {
+     "n": 23,
+     "text": "\"Speak but the word, and the cloak shall disappear,"
+    },
+    {
+     "n": 24,
+     "text": "\"Speak a second time and the cloak shall return uninjured.\""
+    },
+    {
+     "n": 25,
+     "text": "Marduk spoke the word, the cloak disappeared,"
+    },
+    {
+     "n": 26,
+     "text": "He spoke a second time, the cloak reappeared."
+    },
+    {
+     "n": 27,
+     "text": "When the gods his fathers saw the issue of the utterance of his mouth"
+    },
+    {
+     "n": 28,
+     "text": "They rejoiced and adored [him, saying], \"Marduk is King.\""
+    },
+    {
+     "n": 29,
+     "text": "They conferred upon him the sceptre, the throne, and the symbol of royalty (?)",
+     "notes": [
+      "The meaning of _pal-a_ is unknown."
+     ]
+    },
+    {
+     "n": 30,
+     "text": "They gave him the unrivalled weapon, the destroyer of the enemy [saying]:"
+    },
+    {
+     "n": 31,
+     "text": "\"Go, cut off the life of Tiamat."
+    },
+    {
+     "n": 32,
+     "text": "\"Let the wind carry her blood into the depth [under the earth].\""
+    },
+    {
+     "n": 33,
+     "text": "The gods, his fathers, issued the decree for the god Bel."
+    },
+    {
+     "n": 34,
+     "text": "They set him on the road which leadeth to peace and adoration."
+    },
+    {
+     "n": 35,
+     "text": "He strung [his] bow, he set ready his weapon [in the stand],"
+    },
+    {
+     "n": 36,
+     "text": "He slung his spear, he attached it to [his belly],"
+    },
+    {
+     "n": 37,
+     "text": "He raised the club, he grasped it in his right hand."
+    },
+    {
+     "n": 38,
+     "text": "The bow and the quiver he hung at his side.",
+     "notes": [
+      "This equipment of the charioteer is shown on the bas-reliefs."
+     ]
+    },
+    {
+     "n": 39,
+     "text": "He set the lightning in front of him."
+    },
+    {
+     "n": 40,
+     "text": "His body was filled with a glancing flame of fire."
+    },
+    {
+     "n": 41,
+     "text": "He made a net wherewith to enclose Tiamat."
+    },
+    {
+     "n": 42,
+     "text": "He made the four winds to take up their position so that no part of her might escape,"
+    },
+    {
+     "n": 43,
+     "text": "The South wind, the North wind, the East wind, the West wind."
+    },
+    {
+     "n": 44,
+     "text": "He held the net close to his side, the gift of his father Anu,"
+    },
+    {
+     "n": 45,
+     "text": "He created the \"foul\" wind, the storm, the parching blast,"
+    },
+    {
+     "n": 46,
+     "text": "The wind of \"four,\" the wind of \"seven,\" the typhoon, the wind incomparable"
+    },
+    {
+     "n": 47,
+     "text": "He despatched the seven winds which he had made,"
+    },
+    {
+     "n": 48,
+     "text": "To make turbid the inward parts of Tiamat; they followed in his train."
+    },
+    {
+     "n": 49,
+     "text": "The Lord raised up the wind storm, his mighty weapon."
+    },
+    {
+     "n": 50,
+     "text": "He went up into his chariot, the unequalled and terrible tempest.",
+     "notes": [
+      "Compare Psalms xviii, 7-15; civ, i ff."
+     ]
+    },
+    {
+     "n": 51,
+     "text": "He equipped it, he yoked thereto a team of four horses,"
+    },
+    {
+     "n": 52,
+     "text": "Pawing the ground, champing, foaming [eager to] fly,"
+    },
+    {
+     "n": 53,
+     "text": "... [the odour] of their teeth bore foetidness,"
+    },
+    {
+     "n": 54,
+     "text": "They were skilled [in biting], they were trained to trample under foot."
+    },
+    {
+     "kind": "lacune",
+     "text": "Lines 55-57 too fragmentary to translate; they continue the description of Marduk's equipment."
+    },
+    {
+     "n": 58,
+     "text": "His brightness streamed forth, his head was crowned [thereby]."
+    },
+    {
+     "n": 59,
+     "text": "He took a direct path, he hastened on his journey."
+    },
+    {
+     "n": 60,
+     "text": "He set his face towards the place of Tiamat, who was ..."
+    },
+    {
+     "n": 61,
+     "text": "On his lips ... he restrained"
+    },
+    {
+     "n": 62,
+     "text": "... his hand grasped."
+    },
+    {
+     "n": 63,
+     "text": "At that moment the gods were gazing upon him with fixed intensity,"
+    },
+    {
+     "n": 64,
+     "text": "The gods, his fathers, gazed upon him, they gazed upon him."
+    },
+    {
+     "n": 65,
+     "text": "The Lord approached, he looked upon the middle of Tiamat,"
+    },
+    {
+     "n": 66,
+     "text": "He searched out the plan of Kingu, her husband."
+    },
+    {
+     "n": 67,
+     "text": "Marduk looked, Kingu staggered in his gait,"
+    },
+    {
+     "n": 68,
+     "text": "His will was destroyed, his motion was paralysed."
+    },
+    {
+     "n": 69,
+     "text": "And the gods his helpers who were marching by his side"
+    },
+    {
+     "n": 70,
+     "text": "Saw the [collapse of] their chief and their sight was troubled."
+    },
+    {
+     "n": 71,
+     "text": "Tiamat [shrieked but] did not turn her head."
+    },
+    {
+     "n": 72,
+     "text": "With lips full of [rebellious words] she maintained her stubbornness"
+    },
+    {
+     "n": 73,
+     "text": "[Saying], \"... that thou hast come as the Lord of the gods, [forsooth],"
+    },
+    {
+     "n": 74,
+     "text": "\"They have appointed thee in the place which should be theirs.\""
+    },
+    {
+     "n": 75,
+     "text": "The Lord raised up the wind-storm, his mighty weapon,"
+    },
+    {
+     "n": 76,
+     "text": "[Against] Tiamat, who was furious (?), he sent it, [saying]:"
+    },
+    {
+     "n": 77,
+     "text": "\"[Thou hast made thyself] mighty, thou art puffed upon high,"
+    },
+    {
+     "n": 78,
+     "text": "\"Thy heart [hath stirred thee up] to invoke battle"
+    },
+    {
+     "n": 79,
+     "text": "\"... their fathers ..."
+    },
+    {
+     "n": 80,
+     "text": "\"..."
+    },
+    {
+     "n": 81,
+     "text": "\"[Thou hast exalted Kingu to be [thy] husband,"
+    },
+    {
+     "n": 82,
+     "text": "\"[Thou hast made him to usurp] the attributes of Anu"
+    },
+    {
+     "n": 83,
+     "text": "\"... thou hast planned evil."
+    },
+    {
+     "n": 84,
+     "text": "\"[Against] the gods, my fathers, thou hast wrought evil."
+    },
+    {
+     "n": 85,
+     "text": "\"Let now thy troops gird themselves up, let them bind on their weapons."
+    },
+    {
+     "n": 86,
+     "text": "\"Stand up! Thou and I, let us to the fight!\""
+    },
+    {
+     "n": 87,
+     "text": "On hearing these words Tiamat"
+    },
+    {
+     "n": 88,
+     "text": "Became like a mad thing, her senses became distraught,"
+    },
+    {
+     "n": 89,
+     "text": "Tiamat uttered shrill cries again and again."
+    },
+    {
+     "n": 90,
+     "text": "That on which she stood split in twain at the words,"
+    },
+    {
+     "n": 91,
+     "text": "She recited an incantation, she pronounced her spell."
+    },
+    {
+     "n": 92,
+     "text": "The gods of battle demanded their weapons.",
+     "notes": [
+      "I.e., the gods were impatient to begin the fight."
+     ]
+    },
+    {
+     "n": 93,
+     "text": "Tiamat and Marduk, the envoy of the gods, roused themselves,"
+    },
+    {
+     "n": 94,
+     "text": "They advanced to fight each other, they drew nigh in battle."
+    },
+    {
+     "n": 95,
+     "text": "The Lord cast his net and made it to enclose her,"
+    },
+    {
+     "n": 96,
+     "text": "The evil wind that had its place behind him he let out in her face."
+    },
+    {
+     "n": 97,
+     "text": "Tiamat opened her mouth to its greatest extent,"
+    },
+    {
+     "n": 98,
+     "text": "Marduk made the evil wind to enter [it] whilst her lips were unclosed."
+    },
+    {
+     "n": 99,
+     "text": "The raging winds filled out her belly,"
+    },
+    {
+     "n": 100,
+     "text": "Her heart was gripped, she opened wide her mouth [panting]."
+    },
+    {
+     "n": 101,
+     "text": "Marduk grasped the spear, he split up her belly,"
+    },
+    {
+     "n": 102,
+     "text": "He clave open her bowels, he pierced [her] heart,"
+    },
+    {
+     "n": 103,
+     "text": "He brought her to nought, he destroyed her life."
+    },
+    {
+     "n": 104,
+     "text": "He cast down her carcase, he took up his stand upon it,"
+    },
+    {
+     "n": 105,
+     "text": "After Marduk had slain Tiamat the chief,"
+    },
+    {
+     "n": 106,
+     "text": "Her host was scattered, her levies became fugitive,"
+    },
+    {
+     "n": 107,
+     "text": "And the gods, her allies, who had marched at her side,"
+    },
+    {
+     "n": 108,
+     "text": "Quaked with terror, and broke and ran"
+    },
+    {
+     "n": 109,
+     "text": "And betook themselves to flight to save their lives."
+    },
+    {
+     "n": 110,
+     "text": "But they found themselves hemmed in, they could not escape,"
+    },
+    {
+     "n": 111,
+     "text": "Marduk tied them up, he smashed their weapons."
+    },
+    {
+     "n": 112,
+     "text": "They were cast into the net, and they were caught in the snare,"
+    },
+    {
+     "n": 113,
+     "text": "The ... of the world they filled with [their] cries of grief."
+    },
+    {
+     "n": 114,
+     "text": "They received [Marduk's] chastisement, they were confined in restraint,"
+    },
+    {
+     "n": 115,
+     "text": "And [on] the Eleven Creatures which Tiamat had filled with awfulness,"
+    },
+    {
+     "n": 116,
+     "text": "The company of the devils that marched at her ..."
+    },
+    {
+     "n": 117,
+     "text": "He threw fetters, he ... their sides."
+    },
+    {
+     "n": 118,
+     "text": "They and their resistance he trod under his feet."
+    },
+    {
+     "n": 119,
+     "text": "The god Kingu who had been magnified over them"
+    },
+    {
+     "n": 120,
+     "text": "He crushed, he esteemed him [as little worth] as the god Dugga, (as a dead god?)."
+    },
+    {
+     "n": 121,
+     "text": "Marduk took from him the TABLET OF DESTINIES, which should never have been his,"
+    },
+    {
+     "n": 122,
+     "text": "He sealed it with a seal and fastened it on his breast",
+     "notes": [
+      "By impressing his seal on the Tablet Marduk proved his ownership of the Tablet, and made his claim to it legal."
+     ]
+    },
+    {
+     "n": 123,
+     "text": "After he had crushed and overthrown his enemies,"
+    },
+    {
+     "n": 124,
+     "text": "He made the haughty enemy to be like the dust underfoot."
+    },
+    {
+     "n": 125,
+     "text": "He established completely Anshar's victory over the enemy,"
+    },
+    {
+     "n": 126,
+     "text": "The valiant Marduk achieved the object of Nudimmud (Ea),",
+     "notes": [
+      "This is an oblique way of saying that Marduk succeeded where Ea failed."
+     ]
+    },
+    {
+     "n": 127,
+     "text": "He imposed strict restraint on the gods whom he had made captive."
+    },
+    {
+     "n": 128,
+     "text": "He turned back to Tiamat whom he had defeated,"
+    },
+    {
+     "n": 129,
+     "text": "The Lord [Marduk] trampled on the rump of Tiamat,"
+    },
+    {
+     "n": 130,
+     "text": "With his unsparing club he clave her skull."
+    },
+    {
+     "n": 131,
+     "text": "He slit open the channels (i.e., arteries) of her blood."
+    },
+    {
+     "n": 132,
+     "text": "He caused the North Wind to carry it away to a place underground."
+    },
+    {
+     "n": 133,
+     "text": "His fathers (i.e., the gods) looked on, they rejoiced, they were glad."
+    },
+    {
+     "n": 134,
+     "text": "They brought unto him offerings of triumph and peace,"
+    },
+    {
+     "n": 135,
+     "text": "The Lord [Marduk] paused, he examined Tiamat's carcase."
+    },
+    {
+     "n": 136,
+     "text": "He separated flesh [from] hair, he worked cunningly.",
+     "notes": [
+      "The word is _kupu_, i.e., \"reed\" or \"sedge.\" It is possible that Marduk skinned Tiamat."
+     ]
+    },
+    {
+     "n": 137,
+     "text": "He slit Tiamat open like a flat (?) fish [cut into] two pieces,"
+    },
+    {
+     "n": 138,
+     "text": "The one half he raised up and shaded the heavens therewith,"
+    },
+    {
+     "n": 139,
+     "text": "He pulled the bolt, he posted a guard,"
+    },
+    {
+     "n": 140,
+     "text": "He ordered them not to let her water escape."
+    },
+    {
+     "n": 141,
+     "text": "He crossed heaven, he contemplated the regions thereof."
+    },
+    {
+     "n": 142,
+     "text": "He betook himself to the abode of Nudimmud (Ea) that is opposite to the Deep (Apsu),"
+    },
+    {
+     "n": 143,
+     "text": "The Lord Marduk measured the dimensions of the Deep,"
+    },
+    {
+     "n": 144,
+     "text": "He founded E-Sharra, a place like unto it,"
+    },
+    {
+     "n": 145,
+     "text": "The abode E-Sharra, which he made to be heaven."
+    },
+    {
+     "n": 146,
+     "text": "He made the-gods Anu, Bel and Ea to inhabit their [own] cities."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "tablet": 5,
+   "title": "Fifth Tablet",
+   "lines": [
+    {
+     "n": 1,
+     "text": "He appointed the Stations for the great gods,"
+    },
+    {
+     "n": 2,
+     "text": "He set in heaven the Stars of the Zodiac which are their likenesses."
+    },
+    {
+     "n": 3,
+     "text": "He fixed the year, he appointed the limits thereof."
+    },
+    {
+     "n": 4,
+     "text": "He set up for the twelve months three stars apiece."
+    },
+    {
+     "n": 5,
+     "text": "According to the day of the year he ... figures."
+    },
+    {
+     "n": 6,
+     "text": "He founded the Station of Nibir (Jupiter) to settle their boundaries,"
+    },
+    {
+     "n": 7,
+     "text": "That none might exceed or fall short."
+    },
+    {
+     "n": 8,
+     "text": "He set the Station of Bel and Ea thereby."
+    },
+    {
+     "n": 9,
+     "text": "He opened great gates under shelter on both sides."
+    },
+    {
+     "n": 10,
+     "text": "He made a strong corridor on the left and on the right."
+    },
+    {
+     "n": 11,
+     "text": "He fixed the zenith in the heavenly vault (?)"
+    },
+    {
+     "n": 12,
+     "text": "He gave the god Nannar (i.e., the Moon-god) his brightness and committed the night to his care."
+    },
+    {
+     "n": 13,
+     "text": "He set him for the government of the night, to determine the day"
+    },
+    {
+     "n": 14,
+     "text": "Monthly, without fail, he set him in a crown (i.e., disk) [saying]:"
+    },
+    {
+     "n": 15,
+     "text": "\"At the beginning of the month when thou risest over the land,"
+    },
+    {
+     "n": 16,
+     "text": "\"Make [thy] horns to project to limit six days [of the month]"
+    },
+    {
+     "n": 17,
+     "text": "\"On the seventh day make thyself like a crown."
+    },
+    {
+     "n": 18,
+     "text": "\"On the fourteenth day ..."
+    },
+    {
+     "kind": "lacune",
+     "text": "Lines 19-26 dealt further with Marduk's instructions to the Moon-god, but are too fragmentary to translate. After line 26 comes a break in the text of 40 lines; lines 66-74 are too fragmentary to translate, but they seem to have described further acts of Creation."
+    },
+    {
+     "n": 75,
+     "text": "The gods, his (Marduk's) fathers, looked on the net which he had made,"
+    },
+    {
+     "n": 76,
+     "text": "They observed how craftily the bow had been constructed,"
+    },
+    {
+     "n": 77,
+     "text": "They extolled the work which he had done."
+    },
+    {
+     "n": 78,
+     "text": "[Then] the god Anu lifted up [the bow] in the company of the gods,"
+    },
+    {
+     "n": 79,
+     "text": "He kissed the bow [saying]: \"That ...\""
+    },
+    {
+     "n": 80,
+     "text": "He proclaimed [the names] of the bow to be as follows:--"
+    },
+    {
+     "n": 81,
+     "text": "\"Verily, the first is 'Long Wood,' the second is ..."
+    },
+    {
+     "n": 82,
+     "text": "\"Its third name is 'Bow Star in heaven' ...\""
+    },
+    {
+     "n": 83,
+     "text": "He fixed a station for it ..."
+    },
+    {
+     "kind": "resume_editeur",
+     "text": "[Of the remaining 57 lines of this tablet only fragments of 17 lines are preserved, and these yield no connected sense.]"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "tablet": 6,
+   "title": "Sixth Tablet",
+   "lines": [
+    {
+     "n": 1,
+     "text": "On hearing the words of the gods, the heart of Marduk moved him to carry out the works of a craftsman."
+    },
+    {
+     "n": 2,
+     "text": "He opened his mouth, he spake to Ea that which he had planned in his heart, he gave counsel [saying]:"
+    },
+    {
+     "n": 3,
+     "text": "\"I will solidify blood, I will form bone."
+    },
+    {
+     "n": 4,
+     "text": "\"I will set up man, 'Man' [shall be] his name."
+    },
+    {
+     "n": 5,
+     "text": "\"I will create the man 'Man.'"
+    },
+    {
+     "n": 6,
+     "text": "\"The service of the gods shall be established, and I will set them (i.e., the gods) free."
+    },
+    {
+     "n": 7,
+     "text": "\"I will make twofold the ways of the gods, and I will beautify [them]."
+    },
+    {
+     "n": 8,
+     "text": "\"They are [now] grouped together in one place, but they shall be partitioned in two.\"",
+     "notes": [
+      "Reading, _ishtenish lu kuppudu-ma ana shina lu uzizu_."
+     ]
+    },
+    {
+     "n": 9,
+     "text": "Ea answered and spake a word unto him"
+    },
+    {
+     "n": 10,
+     "text": "For the consolation of the gods he repeated unto him a word of counsel [saying]:",
+     "notes": [
+      "_I.e._, \"to cause the gods to be content,\""
+     ]
+    },
+    {
+     "n": 11,
+     "text": "\"Let one brother [god of their number] be given, let him suffer destruction that men may be fashioned."
+    },
+    {
+     "n": 12,
+     "text": "\"Let the great gods be assembled, let this [chosen] one be given in order that they (i.e., the other gods) may be established.\""
+    },
+    {
+     "n": 13,
+     "text": "Marduk assembled the great gods, [he came near] graciously, he issued a decree,"
+    },
+    {
+     "n": 14,
+     "text": "He opened his mouth, he addressed the gods; the King spake a word unto the Anunnaki [saying]:"
+    },
+    {
+     "n": 15,
+     "text": "\"Verily, that which I spake unto you aforetime was true."
+    },
+    {
+     "n": 16,
+     "text": "\"[This time also] I speak truth. [Some there were who] opposed me.",
+     "notes": [
+      "Literally \"they (indefinite) opposed me.\""
+     ]
+    },
+    {
+     "n": 17,
+     "text": "\"Who was it that created the strife,"
+    },
+    {
+     "n": 18,
+     "text": "\"Who caused Tiamat to revolt, to join battle with me?"
+    },
+    {
+     "n": 19,
+     "text": "\"Let him who created the strife be given [as sacrifice],"
+    },
+    {
+     "n": 20,
+     "text": "\"I will cause the axe in the act of sinking to do away his sin.\""
+    },
+    {
+     "n": 21,
+     "text": "The great gods, the Igigi, answered him,"
+    },
+    {
+     "n": 22,
+     "text": "Unto the King of the gods of heaven and of earth, the Prince of the gods, their lord [they said]:"
+    },
+    {
+     "n": 23,
+     "text": "\"[It was] Kingu who created the strife,"
+    },
+    {
+     "n": 24,
+     "text": "\"Who made Tiamat to revolt, to join battle [with thee].\""
+    },
+    {
+     "n": 25,
+     "text": "They bound him in fetters [they brought] him before Ea, they inflicted punishment on him, they let his blood,"
+    },
+    {
+     "n": 26,
+     "text": "From his blood he (i.e., Ea) fashioned mankind for the service of the gods, and he set the gods free."
+    },
+    {
+     "n": 27,
+     "text": "After Ea had fashioned man he ... laid service upon him."
+    },
+    {
+     "n": 28,
+     "text": "[For] that work, which pleased him not, man was chosen: Marduk ..."
+    },
+    {
+     "n": 29,
+     "text": "Marduk, the King of the gods, divided ... he set the Anunnaki up on high."
+    },
+    {
+     "n": 30,
+     "text": "He laid down for Anu a decree that protected [his] heart ... as a guard."
+    },
+    {
+     "n": 31,
+     "text": "He made twofold the ways on the earth [and in the heavens?]"
+    },
+    {
+     "n": 32,
+     "text": "By decrees ..."
+    },
+    {
+     "n": 33,
+     "text": "The Anunnaki who ..."
+    },
+    {
+     "n": 34,
+     "text": "The Anunnaki ..."
+    },
+    {
+     "n": 35,
+     "text": "They spake unto Marduk, their lord, [saying]:"
+    },
+    {
+     "n": 36,
+     "text": "\"O thou Moon-god (Nannaru), who hast established our splendour,",
+     "notes": [
+      "See _Cuneiform Texts_, Part XXIV, Plate 50, where it is said that the god Sin is \"Marduk, who maketh bright the night.\""
+     ]
+    },
+    {
+     "n": 37,
+     "text": "\"What benefit have we conferred upon thee?"
+    },
+    {
+     "n": 38,
+     "text": "\"Come, let us make a shrine, whose name shall be renowned;"
+    },
+    {
+     "n": 39,
+     "text": "\"Come [at] night, our time of festival, let us take our ease therein,"
+    },
+    {
+     "n": 40,
+     "text": "\"Come, the staff shall rule ..."
+    },
+    {
+     "n": 41,
+     "text": "\"On the day that we reach [thereto] we will take our ease therein.\""
+    },
+    {
+     "n": 42,
+     "text": "On hearing this Marduk ..."
+    },
+    {
+     "n": 43,
+     "text": "The features of his face [shone like] the day exceedingly."
+    },
+    {
+     "n": 44,
+     "text": "[He said], \"Like unto ... Babylon, the construction whereof ye desire",
+     "notes": [
+      "Lines 44 and 45 announce Marduk's determination to build Babylon."
+     ]
+    },
+    {
+     "n": 45,
+     "text": "\"I will make ... a city, I will fashion a splendid shrine.\""
+    },
+    {
+     "n": 46,
+     "text": "The Anunnaki worked the mould [for making bricks], their bricks were ..."
+    },
+    {
+     "n": 47,
+     "text": "In the second year [the shrine was as high as] a hill, and the summit of E-Sagila reached the [celestial] Ocean."
+    },
+    {
+     "n": 48,
+     "text": "They made the ziggurat [to reach] the celestial Ocean; unto Marduk, Enlil, Ea [shrines] they appointed,",
+     "notes": [
+      "This is the word commonly used for \"temple-tower.\" The famous ziggurat of E-Sagila here mentioned was built in Seven Stages or Steps, each probably having its own distinctive colour. It was destroyed probably soon after the capture of Babylon by Cyrus (539 B.C.) and when Alexander the Great reached Babylon he found it ruins."
+     ]
+    },
+    {
+     "n": 49,
+     "text": "It (i.e., the ziggurat) stood before them majestically: at the bottom and [at the top] they observed its two horns.",
+     "notes": [
+      "This is the first known mention of the \"horns\" of a ziggurat, and the exact meaning of the word is doubtful."
+     ]
+    },
+    {
+     "n": 50,
+     "text": "After the Anunnaki had finished the construction of E-Sagila, and had completed the making of their shrines,"
+    },
+    {
+     "n": 51,
+     "text": "They gathered together from the ... of the Ocean (Apsu). In BAR-MAH, the abode which they had made,"
+    },
+    {
+     "n": 52,
+     "text": "He (i.e., Marduk) made the gods his fathers to take their seats ... [saying]: \"This Babylon shall be your abode."
+    },
+    {
+     "n": 53,
+     "text": "\"No mighty one [shall destroy] his house, the great gods shall dwell therein."
+    },
+    {
+     "kind": "resume_editeur",
+     "text": "[After line 53 the middle portions of several lines of text are obliterated, but from what remains of it it is clear that the gods partook of a meal of consecration of the shrine of E-Sagila, and then proceeded to issue decrees. Next Marduk assigns seats to the Seven Gods of Fate and to Enlil and Anu, and then he lays up in E-Sagila the famous bow which he bore during his fight against Tiamat. When the text again becomes connected we find the gods singing a hymn of praise to Marduk.]"
+    },
+    {
+     "n": 94,
+     "text": "\"Whatever is ... those gods and goddesses shall bear(?)"
+    },
+    {
+     "n": 95,
+     "text": "\"They shall never forget, they shall cleave to the god (?)"
+    },
+    {
+     "n": 96,
+     "text": "\"... they shall make bright, they shall make shrines."
+    },
+    {
+     "n": 97,
+     "text": "\"Verily, the decision (concerning) the Black-headed [belongeth to] the gods"
+    },
+    {
+     "n": 98,
+     "text": "\"... all our names have they called, he (Marduk) is most holy (_elli_)"
+    },
+    {
+     "n": 99,
+     "text": "\"... they proclaimed and venerated (?) his names."
+    },
+    {
+     "n": 100,
+     "text": "\"His ... is exceedingly bright, his work is ..."
+    },
+    {
+     "n": 101,
+     "text": "\"Marduk, whose father Anu proclaimed [his name] from his birth,"
+    },
+    {
+     "n": 102,
+     "text": "\"Who hath set the day at his door ... his going,"
+    },
+    {
+     "n": 103,
+     "text": "\"By whose help the storm wind was bound ..."
+    },
+    {
+     "n": 104,
+     "text": "\"Delivered the gods his fathers in the time of trouble."
+    },
+    {
+     "n": 105,
+     "text": "\"Verily, the gods have proclaimed his sonship."
+    },
+    {
+     "n": 106,
+     "text": "\"In his bright light let them walk for ever."
+    },
+    {
+     "n": 107,
+     "text": "\"[On] men whom he hath formed, the created things fashioned by his fingers"
+    },
+    {
+     "n": 108,
+     "text": "\"He hath imposed the service of the gods, and them he hath set free"
+    },
+    {
+     "n": 109,
+     "text": "\"..."
+    },
+    {
+     "n": 110,
+     "text": "\"... they looked at him,"
+    },
+    {
+     "n": 111,
+     "text": "\"[He is] the far-seeing _(maruku)_ god, verily ..."
+    },
+    {
+     "n": 112,
+     "text": "\"Who hath made glad the hearts of the Anunnaki, who hath made them to ..."
+    },
+    {
+     "n": 113,
+     "text": "\"The god Marudukku--verily, he is the object of trust of his country ..."
+    },
+    {
+     "n": 114,
+     "text": "\"Let men praise him ..."
+    },
+    {
+     "n": 115,
+     "text": "\"The 'King of the Protecting Heart,' (?), hath arisen and hath [bound] the Serpent ..."
+    },
+    {
+     "n": 116,
+     "text": "\"Broad is his heart, mighty [his] belly."
+    },
+    {
+     "n": 117,
+     "text": "\"King of the gods of heaven and of earth, whose name our company hath proclaimed,"
+    },
+    {
+     "n": 118,
+     "text": "\"We will fulfil (?) the utterance of his mouth. Over his fathers the gods,"
+    },
+    {
+     "n": 119,
+     "text": "\"Yea, [over] the gods of heaven and earth, all of them,"
+    },
+    {
+     "n": 120,
+     "text": "\"His kingship [we will exalt]."
+    },
+    {
+     "n": 121,
+     "text": "\"[We] will look unto the King of all the heaven and the earth at night when the place of all the gods is darkness (literally sadness)."
+    },
+    {
+     "n": 122,
+     "text": "\"He hath assigned our dwelling in heaven and in earth in the time of trouble,"
+    },
+    {
+     "n": 123,
+     "text": "\"He hath allotted stations to the Igigi and the Anunnaki."
+    },
+    {
+     "n": 124,
+     "text": "\"The gods themselves are magnified by his name; may he direct their sanctuaries."
+    },
+    {
+     "n": 125,
+     "text": "\"ASAR-LU-DUG, is his name by which his father Anu hath named him."
+    },
+    {
+     "n": 126,
+     "text": "\"Verily, he is the light of the gods, the mighty ..."
+    },
+    {
+     "n": 127,
+     "text": "\"Who ... all the parts of heaven and of the land"
+    },
+    {
+     "n": 128,
+     "text": "\"By a mighty combat he saved our dwelling in the time of trouble."
+    },
+    {
+     "n": 129,
+     "text": "\"ASAR-LU-DUG, the god who made him (i.e. man) to live, did the god ... call him in the second place"
+    },
+    {
+     "n": 130,
+     "text": "\"[And] the gods who had been formed, whom he fashioned as though [they were] his offspring."
+    },
+    {
+     "n": 131,
+     "text": "\"He is the Lord who hath made all the gods to live by his holy mouth.\""
+    },
+    {
+     "kind": "lacune",
+     "text": "Lines 132-139 are too fragmentary to translate, but it is clear from the text that remains that Lakhmu, and Lakhamu, and Anshar all proclaimed the names of Marduk. When the text again becomes connected Marduk has just been addressing the gods."
+    },
+    {
+     "n": 140,
+     "text": "In Up-shukkinaku he appointed their council for them.",
+     "notes": [
+      "From this text it seems clear that Up-shukkinaku was the name of a chamber in the temple of E-Sagila. This name probably means the \"chamber of the shakkanaku,\" i.e., the chamber in which the governor of the city (_shakkanaku_) went annually to embrace the hands of the god Bel-Marduk, from whom he thereby received the right of sovereignty over the country."
+     ]
+    },
+    {
+     "n": 141,
+     "text": "[They said]:--\"Of [our] son, the Hero, our Avenger,"
+    },
+    {
+     "n": 142,
+     "text": "\"We will exalt the name by our speech.\""
+    },
+    {
+     "n": 143,
+     "text": "They sat down and in their assembly they proclaimed his rank."
+    },
+    {
+     "n": 144,
+     "text": "Every one of them pronounced his name in the sanctuary."
+    }
+   ],
+   "notes": []
+  },
+  {
+   "tablet": 7,
+   "title": "Seventh Tablet",
+   "lines": [
+    {
+     "n": 1,
+     "text": "O ASARI,--giver of plantations, appointer of sowing time,"
+    },
+    {
+     "n": 2,
+     "text": "Who dost make grain and fibrous plants, who makest garden herbs to spring up."
+    },
+    {
+     "n": 3,
+     "text": "O ASARU-ALIM--who art weighty in the council-chamber, who art fertile in counsel,"
+    },
+    {
+     "n": 4,
+     "text": "To whom the gods pay worship (?) reverent ..."
+    },
+    {
+     "n": 5,
+     "text": "O ASARU-ALIM-NUNA--the adored light of the Father who begat him,"
+    },
+    {
+     "n": 6,
+     "text": "Who makest straight the direction of Anu, Bel, [and Ea].",
+     "notes": [
+      "This line seems to imply that Marduk was regarded as the instructor of the \"old\" gods; the allusion is, probably, to the \"ways\" of Anu, Bel and Ea, which are treated as technical terms in astrology."
+     ]
+    },
+    {
+     "n": 7,
+     "text": "He is their patron who fixed [their] ..."
+    },
+    {
+     "n": 8,
+     "text": "Whose drink is abundance, who goeth forth ..."
+    },
+    {
+     "n": 9,
+     "text": "O TUTU--creator of their new life,"
+    },
+    {
+     "n": 10,
+     "text": "Supplier of their wants, that they may be satisfied [or, glad],"
+    },
+    {
+     "n": 11,
+     "text": "Let but [Tutu] recite an incantation, the gods shall be at rest;"
+    },
+    {
+     "n": 12,
+     "text": "Let but [the gods] attack him (i.e., Tutu) in wrath, he shall resist them successfully;"
+    },
+    {
+     "n": 13,
+     "text": "Let him be raised up on a high throne in the assembly of the gods...."
+    },
+    {
+     "n": 14,
+     "text": "None among the gods is like unto him."
+    },
+    {
+     "n": 15,
+     "text": "O god TUTU, who art the god ZI-UKKINA, life of the host of the gods,"
+    },
+    {
+     "n": 16,
+     "text": "Who stablished the shining heavens for the gods,"
+    },
+    {
+     "n": 17,
+     "text": "He founded their paths, he fixed [their courses]."
+    },
+    {
+     "n": 18,
+     "text": "Never shall his deeds be forgotten among men."
+    },
+    {
+     "n": 19,
+     "text": "O god TUTU, who art ZI-AZAG, was the third name they gave him--holder (i.e., possessor) of holiness,"
+    },
+    {
+     "n": 20,
+     "text": "God of the favourable wind, lord of adoration and grace,"
+    },
+    {
+     "n": 21,
+     "text": "Creator of fulness and abundance, stablisher of plenty,"
+    },
+    {
+     "n": 22,
+     "text": "Who turneth that which is little into that which is much."
+    },
+    {
+     "n": 23,
+     "text": "In sore straits we have felt his favouring breeze."
+    },
+    {
+     "n": 24,
+     "text": "Let them (the gods) declare, let them magnify, let them sing his praises."
+    },
+    {
+     "n": 25,
+     "text": "O TUTU, who art the god AGA-AZAG in the fourth place--let men exult."
+    },
+    {
+     "n": 26,
+     "text": "Lord of the holy incantation, who maketh the dead to live,"
+    },
+    {
+     "n": 27,
+     "text": "He felt compassion for the gods who were in captivity."
+    },
+    {
+     "n": 28,
+     "text": "He riveted on the gods his enemies the yoke which had been resting on them."
+    },
+    {
+     "n": 29,
+     "text": "In mercy towards them he created mankind,"
+    },
+    {
+     "n": 30,
+     "text": "The Merciful One in whose power it is to give life."
+    },
+    {
+     "n": 31,
+     "text": "His words shall endure for ever, they shall never be forgotten,"
+    },
+    {
+     "n": 32,
+     "text": "In the mouth of the Black-headed whom his hands have made.",
+     "notes": [
+      "Here the title \"Black-headed\" refers to all mankind, but it is sometimes used by the scribes to distinguish the population of the Euphrates Valley from foreign peoples of light complexions."
+     ]
+    },
+    {
+     "n": 33,
+     "text": "O God TUTU, who art the god MU-AZAG in the fifth place--let their mouth recite a holy incantation [to him],"
+    },
+    {
+     "n": 34,
+     "text": "Who by his own holy incantation hath destroyed all the evil ones."
+    },
+    {
+     "n": 35,
+     "text": "O god SHAZU, the wise heart of the gods, who searchest the inward parts of the belly,"
+    },
+    {
+     "n": 36,
+     "text": "Who dost not permit the worker of evil to go forth by his side,"
+    },
+    {
+     "n": 37,
+     "text": "Establisher of the company of the gods ... their hearts."
+    },
+    {
+     "n": 38,
+     "text": "Reducer of the disobedient ..."
+    },
+    {
+     "kind": "lacune",
+     "text": "Lines 39-106 are wanting. The positions of the fragmentary lines supplied by duplicate fragments are uncertain; in any case they give no connected sense."
+    },
+    {
+     "n": 107,
+     "text": "Verily, he holdeth the beginning and the end of them, verily ...",
+     "notes": [
+      "Compare the language of the Kur'an (Surah II, v. 256), \"He (Allah) knoweth what is before them and what is behind them.\""
+     ]
+    },
+    {
+     "n": 108,
+     "text": "Saying, \"He who entered into the middle of Tiamat resteth not;"
+    },
+    {
+     "n": 109,
+     "text": "\"His name shall be 'Nibiru' the seizer of the middle."
+    },
+    {
+     "n": 110,
+     "text": "\"He shall set the courses of the stars of the heavens,"
+    },
+    {
+     "n": 111,
+     "text": "\"He shall herd together the whole company of the gods like sheep."
+    },
+    {
+     "n": 112,
+     "text": "\"He shall [ever] take Tiamat captive, he shall slit up her treasure (variant, life), he shall disembowel her.\"",
+     "notes": [
+      "These lines suggest that the fight between Marduk and Tiamat was recurrent; it is incorrect to translate the verbal forms as preterites."
+     ]
+    },
+    {
+     "n": 113,
+     "text": "Among the men who are to come after a lapse of time,"
+    },
+    {
+     "n": 114,
+     "text": "Let [these words] be heard without ceasing, may they reign to all eternity,"
+    },
+    {
+     "n": 115,
+     "text": "Because he made the [heavenly] places and moulded the stable [earth]."
+    },
+    {
+     "n": 116,
+     "text": "Father Bel proclaimed his name, \"Lord of the Lands.\""
+    },
+    {
+     "n": 117,
+     "text": "All the Igigi repeated the title."
+    },
+    {
+     "n": 118,
+     "text": "Ea heard and his liver rejoiced,"
+    },
+    {
+     "n": 119,
+     "text": "Saying, \"He whose title hath rejoiced his fathers"
+    },
+    {
+     "n": 120,
+     "text": "\"Shall be even as I am; his name shall be Ea."
+    },
+    {
+     "n": 121,
+     "text": "\"He shall dispose of all the magical benefits of my rites,"
+    },
+    {
+     "n": 122,
+     "text": "\"He shall make to have effect my instructions.\""
+    },
+    {
+     "n": 123,
+     "text": "By the title of \"Fifty times\" the great gods"
+    },
+    {
+     "n": 124,
+     "text": "Proclaimed his names fifty times, they magnified his going."
+    },
+    {
+     "kind": "titre",
+     "text": "Epilogue"
+    },
+    {
+     "n": 125,
+     "text": "Let the first comer take them and repeat them;"
+    },
+    {
+     "n": 126,
+     "text": "Let the wise man and the learned man meditate upon all of them;"
+    },
+    {
+     "n": 127,
+     "text": "The father shall repeat them to his son that he may lay hold upon them."
+    },
+    {
+     "n": 128,
+     "text": "Let them (i.e., the names) open the ears of the shepherd and the herdsman.",
+     "notes": [
+      "\"To open the ears\"--to give understanding."
+     ]
+    },
+    {
+     "n": 129,
+     "text": "Let [man] rejoice in Marduk, the Lord of the Gods,"
+    },
+    {
+     "n": 130,
+     "text": "That his land may be fertile and he himself abide in security."
+    },
+    {
+     "n": 131,
+     "text": "His word is true, his command altereth not."
+    },
+    {
+     "n": 132,
+     "text": "No god hath ever brought to the ground that which issueth from his mouth."
+    },
+    {
+     "n": 133,
+     "text": "They (i.e., the gods) treated him with contempt, he turned not his back [in flight],"
+    },
+    {
+     "n": 134,
+     "text": "No god could resist his wrath at its height."
+    },
+    {
+     "n": 135,
+     "text": "His heart is large, his bowels of mercy are great."
+    },
+    {
+     "n": 136,
+     "text": "Of sin and wickedness before him ..."
+    },
+    {
+     "n": 137,
+     "text": "The first comer utters his complaint of humiliation before him."
+    },
+    {
+     "kind": "lacune",
+     "text": "Lines 138-142 are too fragmentary to translate."
+    }
+   ],
+   "notes": []
+  }
+ ]
+}
