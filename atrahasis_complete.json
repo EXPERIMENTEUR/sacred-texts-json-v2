@@ -1,0 +1,1029 @@
+{
+ "work": "Atrahasis (Atra-hasis epic)",
+ "edition": "A. T. Clay, A Hebrew Deluge Story in Cuneiform and other epic fragments in the Pierpont Morgan Library, Yale Oriental Series Researches V-3, 1922 (appendix, sections A-C: translation column only)",
+ "license": "Public domain (1922). Scan: Stony Brook University Libraries, Iraqi Archaeology Digital Texts Collection.",
+ "note": "Traduction anglaise de 1922, tres fragmentaire et depassee : ces fragments ne sont qu'une petite partie de l'epopee. Les traductions modernes completes (Lambert & Millard 1969, Foster, Dalley, etc.) sont sous droit d'auteur et ne sont pas incluses. Les numeros 'n' sont ceux imprimes par Clay (un vers sur cinq), 'col' la colonne de la tablette. Les 'colophon' sont des mentions de scribe. Texte issu d'un OCR : quelques erreurs possibles. Les notes et theories de Clay (etymologies 'amorites'/hebraiques) sont exclues du texte.",
+ "sections": [
+  {
+   "id": "A",
+   "title": "Version ancienne (Old Babylonian, tablette II, roi Ammi-zaduga)",
+   "entries": [
+    {
+     "col": "I",
+     "n": 1,
+     "text": "I will bring(?) their clamor(?).......",
+     "page": 58
+    },
+    {
+     "col": "I",
+     "text": "The land had become great; the people had multiplied.",
+     "page": 58
+    },
+    {
+     "col": "I",
+     "text": "The land like a bull had become satiated.",
+     "page": 58
+    },
+    {
+     "col": "I",
+     "text": "[In]their assemblage God was absent.",
+     "page": 58
+    },
+    {
+     "col": "I",
+     "n": 5,
+     "text": "...... heard their clamor.",
+     "page": 58
+    },
+    {
+     "col": "I",
+     "text": "He said to the great gods (?),",
+     "page": 58
+    },
+    {
+     "col": "I",
+     "text": "Those observing the clamor of men,",
+     "page": 58
+    },
+    {
+     "col": "I",
+     "text": "In their assemblage he spoke of desolations.",
+     "page": 59
+    },
+    {
+     "col": "I",
+     "text": "Let the fig tree for the people be [cut off].",
+     "page": 59
+    },
+    {
+     "col": "I",
+     "n": 10,
+     "text": "[In] their [fields], let the plant become a weed(?)",
+     "page": 59
+    },
+    {
+     "col": "I",
+     "text": "...... the sheep let Adad destroy.",
+     "page": 59
+    },
+    {
+     "col": "I",
+     "text": "Injured. [The fountains of the deep] let not flow.",
+     "page": 59
+    },
+    {
+     "col": "I",
+     "text": "[That the flood rise not at the so]urce.",
+     "page": 59
+    },
+    {
+     "col": "I",
+     "text": "Let the wind blow.",
+     "page": 59
+    },
+    {
+     "col": "I",
+     "n": 15,
+     "text": "Let it drive mightily.",
+     "page": 59
+    },
+    {
+     "col": "I",
+     "text": "Let the clouds be held back, that [Rain from the heav] ens pour not forth.",
+     "page": 60
+    },
+    {
+     "col": "I",
+     "text": "Let the field withhold its fertility.",
+     "page": 60
+    },
+    {
+     "col": "I",
+     "text": "[Let a change come over] the bosom of Nisaba.",
+     "page": 60
+    },
+    {
+     "col": "II",
+     "text": "Let ....................",
+     "page": 60
+    },
+    {
+     "col": "II",
+     "text": "L et ...................",
+     "page": 60
+    },
+    {
+     "col": "II",
+     "text": "Let him destroy ............",
+     "page": 60
+    },
+    {
+     "col": "II",
+     "n": 70,
+     "text": "On the morrow let him cause it to rain mightily",
+     "page": 60
+    },
+    {
+     "col": "II",
+     "text": "Let him give in the night .............",
+     "page": 60
+    },
+    {
+     "col": "II",
+     "text": "Let him cause it to rain a tempest......",
+     "page": 60
+    },
+    {
+     "col": "II",
+     "text": "Let it come upon the field like a thief. Let ......",
+     "page": 60
+    },
+    {
+     "col": "II",
+     "text": "Which Adad had created in the city ....",
+     "page": 60
+    },
+    {
+     "col": "II",
+     "n": 75,
+     "text": "They cried out and became furious ....",
+     "page": 60
+    },
+    {
+     "col": "II",
+     "text": "They sent up a clamor ................",
+     "page": 60
+    },
+    {
+     "col": "II",
+     "text": "They feared not .....................",
+     "page": 60
+    },
+    {
+     "col": "VII",
+     "text": "E a ....................",
+     "page": 60
+    },
+    {
+     "col": "VII",
+     "text": "Ea his mouth [opened and] Spake to ..............",
+     "page": 60
+    },
+    {
+     "col": "VII",
+     "text": "Why hast thou commanded .........",
+     "page": 60
+    },
+    {
+     "col": "VII",
+     "n": 390,
+     "text": "I will stretch out my hand to the pe[ople] ........",
+     "page": 60
+    },
+    {
+     "col": "VII",
+     "text": "The flood, which thou hast ordered .....",
+     "page": 60
+    },
+    {
+     "col": "VII",
+     "text": "Who is he? I ......................",
+     "page": 61
+    },
+    {
+     "col": "VII",
+     "text": "I truly will bear ........",
+     "page": 61
+    },
+    {
+     "col": "VII",
+     "text": "His work he shall suppress ............",
+     "page": 61
+    },
+    {
+     "col": "VII",
+     "n": 395,
+     "text": "Let be restrained; ..................",
+     "page": 61
+    },
+    {
+     "col": "VII",
+     "text": "His god will bear; and his goddess(?)",
+     "page": 61
+    },
+    {
+     "col": "VII",
+     "text": "Let them go into the [ship]",
+     "page": 61
+    },
+    {
+     "col": "VII",
+     "text": "The ship-mast ......",
+     "page": 61
+    },
+    {
+     "col": "VII",
+     "text": "Let them go ......",
+     "page": 61
+    },
+    {
+     "col": "VIII",
+     "text": "...... for the people he made",
+     "page": 61
+    },
+    {
+     "col": "VIII",
+     "text": "Atram-hasis opened his mouth, and Spoke to his lord.",
+     "page": 61
+    },
+    {
+     "col": "VIII",
+     "n": 440,
+     "text": "37 (lines)",
+     "page": 61,
+     "kind": "colophon"
+    },
+    {
+     "col": "VIII",
+     "text": "The second tablet (of the series) \"When God, man.\"",
+     "page": 61,
+     "kind": "colophon"
+    },
+    {
+     "col": "VIII",
+     "text": "Its total is 439 (lines)",
+     "page": 61,
+     "kind": "colophon"
+    },
+    {
+     "col": "VIII",
+     "text": "By the hand of Azag-dAya, the junior scribe.",
+     "page": 61,
+     "kind": "colophon"
+    },
+    {
+     "col": "VIII",
+     "text": "Month Shebet, day 28th",
+     "page": 61,
+     "kind": "colophon"
+    },
+    {
+     "col": "VIII",
+     "n": 445,
+     "text": "of the year when Ammi-zaduga, the king, built the city Dur-Ammi-zaduga at the mouth of the Euphrates (11th year).",
+     "page": 61,
+     "kind": "colophon"
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "title": "Redaction tardive (Neo-Babylonian)",
+   "entries": [
+    {
+     "col": "I",
+     "n": 25,
+     "text": "[When] the second year [arrives]......",
+     "page": 61
+    },
+    {
+     "col": "I",
+     "text": "[When] the third year [arrives]......",
+     "page": 61
+    },
+    {
+     "col": "I",
+     "text": "The people in their ... become changed.",
+     "page": 62
+    },
+    {
+     "col": "I",
+     "text": "When the fourth year arrives, their position was miserable.",
+     "page": 62
+    },
+    {
+     "col": "I",
+     "text": "The wide ... their ... became oppressed.",
+     "page": 62
+    },
+    {
+     "col": "I",
+     "n": 30,
+     "text": "The people [wan]der in the streets with the head [bowed].",
+     "page": 62
+    },
+    {
+     "col": "I",
+     "text": "When the fifth year arrives, the daughter looks for the entering of the mother.",
+     "page": 62
+    },
+    {
+     "col": "I",
+     "text": "The mother opens not [her] door to the daughter.",
+     "page": 62
+    },
+    {
+     "col": "I",
+     "text": "The daughter [looks] upon the treasures of the mother.",
+     "page": 62
+    },
+    {
+     "col": "I",
+     "text": "[The mother] looks upon the treasures of the daughter.",
+     "page": 62
+    },
+    {
+     "col": "I",
+     "n": 35,
+     "text": "When the sixth year arrives, they prepare the [daughter] for a meal.",
+     "page": 62
+    },
+    {
+     "col": "I",
+     "text": "For morsels they prepare the child ....",
+     "page": 62
+    },
+    {
+     "col": "I",
+     "text": "were full (?)....",
+     "page": 62
+    },
+    {
+     "col": "I",
+     "text": "One house [devours] another.",
+     "page": 62
+    },
+    {
+     "col": "I",
+     "text": "Like ghosts their faces [they cover].",
+     "page": 63
+    },
+    {
+     "col": "I",
+     "text": "The people [live] in violence.",
+     "page": 63
+    },
+    {
+     "col": "I",
+     "n": 40,
+     "text": "They took a messenger ....",
+     "page": 63
+    },
+    {
+     "col": "I",
+     "text": "They entered, and ......",
+     "page": 63
+    },
+    {
+     "col": "I",
+     "text": "An oracle ..........",
+     "page": 63
+    },
+    {
+     "col": "I",
+     "text": "And the lord of the land .... the return",
+     "page": 63
+    },
+    {
+     "col": "II",
+     "text": "........ bird........",
+     "page": 63
+    },
+    {
+     "col": "II",
+     "text": "Above [Adad made scarce his rain].",
+     "page": 63
+    },
+    {
+     "col": "II",
+     "n": 30,
+     "text": "Be[low] (the fountain of the deep) was stopped, [that the flood rose not at the source].",
+     "page": 63
+    },
+    {
+     "col": "II",
+     "text": "The field diminished [its fertility].",
+     "page": 63
+    },
+    {
+     "col": "II",
+     "text": "[A change came over the bosom of] Nisaba. [By night the fields became white].",
+     "page": 63
+    },
+    {
+     "col": "II",
+     "text": "[The wide plain] bore weeds (?).",
+     "page": 63
+    },
+    {
+     "col": "II",
+     "text": "[The plant came not] forth; the sheep [did not become pregnant].",
+     "page": 63
+    },
+    {
+     "col": "II",
+     "n": 35,
+     "text": "[Calamity was put upon the people].",
+     "page": 63
+    },
+    {
+     "col": "II",
+     "text": "[The womb was closed, and the child came not forth]. [..............]",
+     "page": 63
+    },
+    {
+     "col": "II",
+     "text": "[When the second year arrives]....",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "[When the third year] arrives,",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "n": 40,
+     "text": "[The people in their]... became changed.",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "[When the fourth year arrives their position] is miserable.",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "[The wide .... their .... ] became oppressed.",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "[The people wander] in the street [with head bowed down].",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "[When the fifth year arrives], the daughter looks for [the entering] of the mother.",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "n": 45,
+     "text": "[The mother op]ens not her door [to the daughter].",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "[The daughter] looks upon [the treasures of the mother.]",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "The mother looks upon [the treasures of the daughter.]",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "[When the sixth year arrives, they prepare] the daughter for a meal.",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "[For morsels] they prepare [the child].",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "n": 50,
+     "text": "[Full was ...... ] one house devours another.",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "[Like ghosts their faces] they cover.",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "[The people] live [in violence].",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "[The wise] Atra-hasis, the man,",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "To E [a his lord], his thought turns.",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "n": 55,
+     "text": "[He speaks] with his god.",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "[His lord Ea] speaks with him.",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": ".......... the door of his god.",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "By the river he places his bed.",
+     "page": 64
+    },
+    {
+     "col": "II",
+     "text": "........ seek his rains.",
+     "page": 64
+    },
+    {
+     "col": "III",
+     "text": "....................",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "[Concerning] their cry he became troubled.",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "[He spoke in] their assemblage to those untouched [by the desolations].",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "[Enl]il held [his] assembly.",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "n": 5,
+     "text": "[He sa]id to the gods his children,",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "Those observing the clamor of men:",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "[Concerning] their clamor I am troubled.",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "[He said in] their assemblage to those untouched by the desolations.",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "........ let there be malaria.",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "n": 10,
+     "text": "[Hast]ily let fate make an end to their clamor.",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "[Li]ke a storm, let it overwhelm them.",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "[Sic]kness, headache, malaria, calamity.",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "...... and they had malaria.",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "[Hast]ily fate made an end to their cry.",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "n": 15,
+     "text": "[Like] a storm it overwhelmed them,",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "[Sick]ness, headache, malaria, calamity.",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "The wi[se lord] Atra-hasis, the man,",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "To Ea, his [lord], his thought turns.",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "[He sp]eaks with his god.",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "n": 20,
+     "text": "His [lord] Ea speaks with him.",
+     "page": 65
+    },
+    {
+     "col": "III",
+     "text": "Atra-hasis opened his mouth, and speaks",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": "To Ea, his lord.",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": "O lord, mankind is in misery.",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": "Your power consumes the land.",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "n": 25,
+     "text": "[E]a, O lord, mankind is in misery.",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": "[The anger] of the gods consumes the land.",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": "........ thou who hast created us",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": "Let sickness, headache, malaria, calamity ce[ase].",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": "[Ea opened his mouth], he speaks to Atar-hasis, and tells him:",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "n": 30,
+     "text": ".......... in the land.",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": ".......... pray to your goddess.",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": ".......... god, his command.",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": "[Enlil] held his assembly; he speaks to the gods his children.",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": ".......... I will put them to death.",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": "[The people] have not become less; they are more numerous than before.",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "n": 40,
+     "text": "[Concerning] their cry I am troubled.",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": "[He said in] their assemblage to those untouched by the desolations.",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": "Let the fig tree for the people be [cut off].",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": "[I]n their bellies let the plant be wanting.",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "text": "Above, let Adad make his rain scarce.",
+     "page": 66
+    },
+    {
+     "col": "III",
+     "n": 45,
+     "text": "Below let (the fountain of the deep) be stopped, that the flood rise not at the source.",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "text": "Let the field withhold its fertility.",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "text": "Let a change come over the bosom of Nisaba; by night let the fields become white.",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "text": "Let the wide field bear weeds (?).",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "text": "Let her bosom revolt, that the plant come not forth, that the sheep become not pregnant.",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "n": 50,
+     "text": "Let calamity be placed upon the people.",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "text": "Let the [womb] be closed, that it bring forth no infant.",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "text": "The fig tree was cut [off] for the people.",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "text": "In their bellies, the plant was wanting.",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "text": "Above, Adad made scarce his rain.",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "n": 55,
+     "text": "Below (the fountains of the deep) was stopped, that the flood rose not at the source.",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "text": "The field withheld its fertility.",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "text": "A change came over the bosom of Nisaba;",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "text": "the fields by night became white,",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "text": "The wide field bore weeds(?); her womb revolted.",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "text": "The plant came not forth; the sheep did not become pregnant.",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "n": 60,
+     "text": "Calamity was placed upon the people.",
+     "page": 67
+    },
+    {
+     "col": "III",
+     "text": "The womb was closed, and brought forth no baby.",
+     "page": 67
+    },
+    {
+     "col": "IV",
+     "text": "...... Ea said.",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "text": ".... he shall cause her to recite.",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "text": ".... [reci]ted an incantation. After she recited the incantation;",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "text": "[She sp]at upon her clay.",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "n": 5,
+     "text": "[Fourteen pieces] she pinched off; seven pieces she laid on the right.",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "text": "[Seven] pieces she laid on the left; between them she placed a brick.",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "text": "Offspring is delivered, the birth-stool (?).",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "text": "She then called the wise ....",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "text": "Seven and seven mothers, seven formed boys.",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "n": 10,
+     "text": "Seven formed girls",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "text": "The mother, the creator of destiny.",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "text": "Them( ?), they finished them.",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "text": "Them (?), they finished before her.",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "text": "The figures of people, Mami formed.",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "n": 15,
+     "text": "In the house of the bearing one the midwife, shall let the brick for seven days lie.",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "text": "Divinity (?) from the temple of Mah, the wise Mami,",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "text": "They that are angry in the house of the midwife, let be happy.",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "text": "When the bearing one is about to give birth,",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "text": "Let the mother of the child conceive it like into herself.",
+     "page": 68
+    },
+    {
+     "col": "IV",
+     "n": 20,
+     "text": "Male ............",
+     "page": 68
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "title": "Fragment assyrien",
+   "entries": [
+    {
+     "text": "... like the ends of heaven,",
+     "page": 68
+    },
+    {
+     "text": ".... let it be strong above and below,",
+     "page": 69
+    },
+    {
+     "text": "...... close ......",
+     "page": 69
+    },
+    {
+     "n": 5,
+     "text": ".... the time I will send thee.",
+     "page": 69
+    },
+    {
+     "text": ".... enter and close the door of the ship.",
+     "page": 69
+    },
+    {
+     "text": "... in it thy grain, thy possessions, and thy property,",
+     "page": 69
+    },
+    {
+     "text": "Thy [wife], thy family, thy relatives and the craftsmen,",
+     "page": 69
+    },
+    {
+     "text": "The cattle of the field, the beasts of the field, as many as dev [our] grass,",
+     "page": 69
+    },
+    {
+     "n": 10,
+     "text": "I will send thee, and they will guard thy door.",
+     "page": 69
+    },
+    {
+     "text": "Atra-hasis opened his mouth, and spoke.",
+     "page": 69
+    },
+    {
+     "text": "He said to Ea, his lord:",
+     "page": 69
+    },
+    {
+     "text": "How long! I have not built a ship.",
+     "page": 69
+    },
+    {
+     "text": "Upon the earth draw a plan!",
+     "page": 69
+    },
+    {
+     "n": 15,
+     "text": "The plan let me see, and I will build the ship.",
+     "page": 69
+    },
+    {
+     "text": ".... upon the ground he drew.",
+     "page": 69
+    },
+    {
+     "text": "...... which thou hast commanded.",
+     "page": 69
+    }
+   ]
+  }
+ ]
+}
