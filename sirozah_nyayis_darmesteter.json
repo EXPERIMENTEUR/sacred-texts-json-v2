@@ -1,0 +1,1800 @@
+{
+ "title": "Sirozahs et Nyayishes (Zend Avesta, Part II)",
+ "translator": "James Darmesteter (1883), Sacred Books of the East vol. 23",
+ "note": "sirozahs : 30 jours chacun (texte). nyayis : kind=texte traduction (les '. . . .' sont des abreviations de Darmesteter pour des formules repetees) ; intro_traducteur : introduction generale (exclue de l'analyse) ; notes : notes de bas de page (exclues).",
+ "sirozahs": [
+  {
+   "id": 1,
+   "titre": "SÎRÔZAH I.",
+   "source": "sbe2304.htm",
+   "jours": [
+    {
+     "n": 1,
+     "nom": "Ormazd",
+     "text": "To Ahura Mazda, bright and glorious, and to the Amesha-Speñtas."
+    },
+    {
+     "n": 2,
+     "nom": "Bahman",
+     "text": "To Vohu-Manô; to Peace, whose breath is friendly, and who is more powerful to destroy than all other creatures; to the heavenly Wisdom, made by Mazda; and to the Wisdom acquired through the ear, made by Mazda."
+    },
+    {
+     "n": 3,
+     "nom": "Ardibehest",
+     "text": "To Asha-Vahista, the fairest; to the much-desired Airyaman, made by Mazda; to the instrument made by Mazda; and to the good Saoka, with eyes of love, made by Mazda and holy."
+    },
+    {
+     "n": 4,
+     "nom": "Shahrêvar",
+     "text": "To Khshathra-vairya; to the metals; to Mercy and Charity."
+    },
+    {
+     "n": 5,
+     "nom": "Sapendârmad",
+     "text": "To the good Spenta-Ârmaiti, and to the good Râta, with eyes of love, made by Mazda and holy."
+    },
+    {
+     "n": 6,
+     "nom": "Khordâd",
+     "restitue": true,
+     "text": "To Haurvatât, the master; to the prosperity of the seasons and to the years, the masters of holiness."
+    },
+    {
+     "n": 7,
+     "nom": "Murdâd",
+     "text": "To Ameretât, the master; to fatness and flocks; to the plenty of corn; and to the powerful Gaokerena, made by Mazda. (At the gâh Hâvan): to Mithra, the lord of wide pastures and to Râma Hvâstra. (At the gâh Rapithwin): to Asha-Vahista and to Âtar, the son of Ahura Mazda (At the gâh Uzîren): to Apãm Napât, the tall lord, and to the water made by Mazda. (At the gâh Aiwisrûthrem): to the Fravashis of the faithful, and to the females that bring forth flocks of males; to the prosperity of the seasons; to the well-shapen and tall-formed Strength, to Verethraghna, made by Ahura, and to the crushing Ascendant. (At the gâh Ushahin): to the holy, devout, fiend-smiting Sraosha, who makes the world grow; to Rashnu Razista, and to Arstât, who makes the world grow, who makes the world increase."
+    },
+    {
+     "n": 8,
+     "nom": "Dai pa Âdar",
+     "text": "To the Maker Ahura Mazda, bright and glorious, and to the Amesha-Spentas."
+    },
+    {
+     "n": 9,
+     "nom": "Âdar",
+     "text": "To Âtar, the son of Ahura Mazda; to the Glory and to the Weal, made by Mazda; to the Glory of the Aryas, made by Mazda; to the awful Glory of the Kavis, made by Mazda. To Âtar, the son of Ahura Mazda; to king Husravah; to the lake of Husravah; to Mount Âsnavant, made by Mazda; to Lake Kaêkasta, made by Mazda; to the Glory of the Kavis, made by Mazda. To Âtar, the son of Ahura Mazda; to Mount Raêvant, made by Mazda; to the Glory of the Kavis, made by Mazda. To Âtar, the beneficent, the warrior; the God who is a full source of Glory, the God who is a full source of healing. To Âtar, the son of Ahura Mazda, with all Âtars; to the God Nairyô-Sangha, who dwells in the navel of kings."
+    },
+    {
+     "n": 10,
+     "nom": "Âbân",
+     "text": "To the good Waters, made by Mazda; to the holy water-spring Ardvi Anâhita; to all waters made by Mazda; to all plants made by Mazda."
+    },
+    {
+     "n": 11,
+     "nom": "Khorshêd",
+     "text": "To the undying, shining, swift-horsed Sun."
+    },
+    {
+     "n": 12,
+     "nom": "Mâh",
+     "text": "To the Moon that keeps in it the seed of the Bull; to the only-created Bull; to the Bull of many species."
+    },
+    {
+     "n": 13,
+     "nom": "Tîr",
+     "text": "To Tistrya, the bright and glorious star; to the powerful Satavaêsa, made by Mazda, who pushes waters forward; to the stars, made by Mazda, that have in them the seed of the waters, the seed of the earth, the seed of the plants; to the star Vanant, made by Mazda; to those stars that are seven in number, the Haptôiringas, made by Mazda, glorious and healing."
+    },
+    {
+     "n": 14,
+     "nom": "Gôs",
+     "text": "To the body of the Cow, to the soul of the Cow, to the powerful Drvâspa, made by Mazda and holy."
+    },
+    {
+     "n": 15,
+     "nom": "Dai pa Mihir",
+     "text": "To the Maker Ahura Mazda, bright and glorious, and to the Amesha-Spentas."
+    },
+    {
+     "n": 16,
+     "nom": "Mihir",
+     "text": "To Mithra, the lord of wide pastures, who has a thousand ears and ten thousand eyes, a God invoked by his own name; to Râma Hvâstra."
+    },
+    {
+     "n": 17,
+     "nom": "Srôsh",
+     "text": "To the holy, strong Sraosha, who is the incarnate Word, a mighty-speared and lordly God."
+    },
+    {
+     "n": 18,
+     "nom": "Rashn",
+     "text": "To Rashnu Razista; to Arstât, who makes the world grow, who makes the world increase; to the true-spoken speech, that makes the world grow."
+    },
+    {
+     "n": 19,
+     "nom": "Farvardîn",
+     "text": "To the awful, overpowering Fravashis of the holy ones."
+    },
+    {
+     "n": 20,
+     "nom": "Bahrâm",
+     "text": "To the well-shapen, tall-formed Strength; to Verethraghna, made by Ahura; to the crushing Ascendant."
+    },
+    {
+     "n": 21,
+     "nom": "Râm",
+     "text": "To Râma Hvâstra; to Vayu, who works highly and is more powerful to destroy than all other creatures: to that part of thee, O Vayu, that belongs to Spenta-Mainyu; to the sovereign Sky, to the Boundless Time, to the sovereign Time of the long Period s."
+    },
+    {
+     "n": 22,
+     "nom": "Bâd",
+     "text": "To the bounteous Wind, that blows below, above, before, and behind; to the manly Courage."
+    },
+    {
+     "n": 23,
+     "nom": "Dai pa Dîn",
+     "text": "To the Maker, Ahura Mazda, bright and glorious; to the Amesha-Spentas."
+    },
+    {
+     "n": 24,
+     "nom": "Dîn",
+     "text": "To the most right Kista, made by Mazda and holy; to the good Law of the worshippers of Mazda."
+    },
+    {
+     "n": 25,
+     "nom": "Ard",
+     "text": "To Ashi Vanguhi; to the good Kisti; to the good Erethe; to the good Rasãstât; to the Weal and Glory, made by Mazda; to Pârendi, of the light chariot; to the Glory of the Aryas made by Mazda; to the kingly Glory made. by Mazda; to that Glory that cannot be forcibly seized, made by Mazda; to the Glory of Zarathustra, made by Mazda."
+    },
+    {
+     "n": 26,
+     "nom": "Âstâd",
+     "text": "To Arstât, who makes the world grow; to Mount Ushi-darena, made by Mazda, the seat of holy happiness."
+    },
+    {
+     "n": 27,
+     "nom": "Âsmân",
+     "text": "To the high, powerful Heavens; to the bright, all-happy, blissful abode of the holy ones."
+    },
+    {
+     "n": 28,
+     "nom": "Zemyâd",
+     "text": "To the bounteous Earth; to these places, to these fields; to Mount Ushi-darena, made by Mazda, the seat of holy happiness; to all the mountains made by Mazda, that are seats of holy happiness, of full happiness; to the kingly Glory made by Mazda; to that Glory that cannot be forcibly seized, made by Mazda."
+    },
+    {
+     "n": 29,
+     "nom": "Mahraspand",
+     "text": "To the holy, righteousness-performing Mãthra Spenta; to the Law opposed to the Daêvas, the Law of Zarathustra; to the long-traditional teaching; to the good Law of the worshippers of Mazda; to the Devotion to the Mãthra Spenta; to the understanding that keeps the Law of the worshippers of Mazda; to the knowledge of the Mãthra Spenta; to the heavenly Wisdom made by Mazda; to the Wisdom acquired through the ear and made by Mazda."
+    },
+    {
+     "n": 30,
+     "nom": "Anêrân",
+     "text": "To the eternal and sovereign luminous space; to the bright Garô-nmâna; to the sovereign place of eternal Weal; to the Kinvat-bridge, made by Mazda; to the tall lord Apãm Napât and to the water made by Mazda; to Haoma, of holy birth; to the pious and good Blessing; to the awful cursing thought of the wise; to all the holy Gods of the heavenly world and of the material one; to the awful, overpowering Fravashis of the faithful, to the Fravashis of the first men of the law, to the Fravashis of the next-of-kin; to every God invoked by his own name."
+    }
+   ],
+   "notes": [
+    {
+     "ref": "3:1",
+     "text": "J. Halévy, Revue des Études Juives, 1881, October, p. 188."
+    },
+    {
+     "ref": "3:2",
+     "text": "See Yt. I, 1-23."
+    },
+    {
+     "ref": "3:3",
+     "text": "See Yt. II."
+    },
+    {
+     "ref": "4:1",
+     "text": "See Yt. I, 24-33."
+    },
+    {
+     "ref": "4:2",
+     "text": "Âkhsti does not so much mean Peace as the power that secures peace; see note 4."
+    },
+    {
+     "ref": "4:3",
+     "text": "Hãm-vainti, from hãm-vâ (Yt. X, 141); possibly from van, to strike: 'Peace that smites.'"
+    },
+    {
+     "ref": "4:4",
+     "text": "Taradhâtem anyâis dâmãn, interpreted: tarvînîtârtûm min zakî ân dâmân pun anâshtîh akár kartan (Phl. Comm.), 'more destroying than other creatures, to make Non-peace (Anâkhsti) powerless.'"
+    },
+    {
+     "ref": "4:5",
+     "text": "Âsnya khratu, the inborn intellect, intuition, contrasted with gaoshô-srûta khratu, the knowledge acquired by hearing and learning. There is between the two nearly the same relation as between the parâvidyâ and aparâvidyâ in Brahmanism, the former reaching Brahma in se (parabrahma), the latter sabdabrahma, the word-Brahma (Brahma as taught and revealed). The Mobeds of later times interpreted their name Magûs, [?], as meaning, 'men without ears,' [?], 'pour insinuer que leur Docteur avait puisé toute sa science dans le ciel et qu’il ne l’avait pas apprise par l’ouïe comme les autres hommes' (Chardin, III, 130; ed. Amsterdam)."
+    },
+    {
+     "ref": "4:6",
+     "text": "See Yt. III."
+    },
+    {
+     "ref": "4:7",
+     "text": "See Vend. XXII."
+    },
+    {
+     "ref": "4:8",
+     "text": "The 'golden instrument' mentioned in Nyâyis I, 8."
+    },
+    {
+     "ref": "4:9",
+     "text": "A personification of the Ormazdean weal; cf. Vend. XXII, 3 [8], and Yt. XIII, 42."
+    },
+    {
+     "ref": "4:10",
+     "text": "Vouru-dôithra, kâmak dôisr; she is 'the genius of the good eye, mînôî hukasmîh' (Vend. XIX, 36 [523]), the reverse of the evil eye (Yasna LXVII, 62 [LXVIII, 22]; cf. Études Iraniennes, II, 182)."
+    },
+    {
+     "ref": "5:1",
+     "text": "Vend. Introd. IV, 33; Ormazd et Ahriman, §§ 202-206."
+    },
+    {
+     "ref": "5:2",
+     "text": "Ibid."
+    },
+    {
+     "ref": "5:3",
+     "text": "Vend. Introd. IV, 30."
+    },
+    {
+     "ref": "5:4",
+     "text": "See Yt. IV."
+    },
+    {
+     "ref": "5:5",
+     "text": "See Vend. Introd. IV, 34."
+    },
+    {
+     "ref": "5:6",
+     "text": "The white Hôm, or plant of immortality; see Vend. Introd. IV, 28."
+    },
+    {
+     "ref": "5:7",
+     "text": "See Gâhs."
+    },
+    {
+     "ref": "5:8",
+     "text": "See Yt. X."
+    },
+    {
+     "ref": "5:9",
+     "text": "See Yt. XV. Cf. Yasna I, 3 (7-9), where Mithra and Râma are invoked in company with the genius of the Hâvani period of the day."
+    },
+    {
+     "ref": "5:10",
+     "text": "The Genius of Fire."
+    },
+    {
+     "ref": "5:11",
+     "text": "Cf. Yasna I, 4 (10-12), where Asha-Vahista and Âtar are invoked in company with the genius of the Rapithwin period of the day."
+    },
+    {
+     "ref": "6:1",
+     "text": "Literally 'the Son of the Waters;' he was originally the Fire of lightning, as born in the clouds (like the Vedic Apâm napât); he still appears in that character, Yt. VIII, 34; he is for that reason 'the lord of the females' because the waters were considered as females (cf. Yasna XXXVIII, 1 [2]). But, as napât means also 'navel' (the same words having often the two meanings of navel' and offspring;' cf. nâbhi in the Vedas and the Zend nâfyô, 'offspring,' from nâfa 'navel'), Apãm Napât was interpreted as 'the spring of the waters, the navel of the waters,' which was supposed to be at the source of the Arvand (the Tigris; Neriosengh ad Yasna I, 5 [15]); cf. Yt. V, 72."
+    },
+    {
+     "ref": "6:2",
+     "text": "Cf. Yasna I, 5 [13-15]."
+    },
+    {
+     "ref": "6:3",
+     "text": "See Yt. XIII."
+    },
+    {
+     "ref": "6:4",
+     "text": "Perhaps better: 'to the flocks of Fravashis of the faithful, men and women.'"
+    },
+    {
+     "ref": "6:5",
+     "text": "The Genius of Victory; see Yt. XIV."
+    },
+    {
+     "ref": "6:6",
+     "text": "Cf. Yasna I, 6 [16-19]."
+    },
+    {
+     "ref": "6:7",
+     "text": "See Yt. XI and Vend. Introd. IV, 31; Farg. XVIII, 14 seq."
+    },
+    {
+     "ref": "6:8",
+     "text": "The Genius of Truth; see Yt. XII."
+    },
+    {
+     "ref": "6:9",
+     "text": "Truth; see Yt. XVIII."
+    },
+    {
+     "ref": "6:10",
+     "text": "Cf. Yasna I, 7 [20-23]."
+    },
+    {
+     "ref": "6:11",
+     "text": "The day before Âdar (Dai is the Persian ([?], 'yesterday,' which is the same word as the Sanskrit hyas, Latin heri). The eighth, fifteenth, and twenty-third days of the month are under the rule of Ahura and the Amesha-Spentas, like the first day; they have therefore no name of their own and are named from the day that follows. The month was divided into four weeks, the first two numbering seven days, the last two numbering eight."
+    },
+    {
+     "ref": "7:1",
+     "text": "Or better the Glories of the Aryas' (Eramdesasrînâm): the Glory or Hvarenô (Vend. Introd. IV, II, p. lxiii, note 1) is threefold, according as it illuminates the priest, the warrior, or the husbandman. Yast XIX is devoted to the praise of the Hvarenô."
+    },
+    {
+     "ref": "7:2",
+     "text": "Or 'the awful kingly glory:' Kavi means a king, but it is particularly used of the kings belonging to the second and most celebrated of the two mythical dynasties of Iran. The Kavis succeeded the Paradhâta or Pêshdâdians, and Darius Codomanes was supposed to be the last of them. For an enumeration of the principal Kavis, see Yt. XIII, 132 seq. The Hvarenô alluded to in this clause is the Hvarenô of the priest; 'it is the fire known as Âdaraprâ [Âdar Frobâ]; or better Âdar Farnbag: see Études Iraniennes, II, 84; its object is the science of the priests; by its help priests become learned and clever' (Sanskrit transl. to the Âtash Nyâyish)."
+    },
+    {
+     "ref": "7:3",
+     "text": "See Yt. V, 41, note."
+    },
+    {
+     "ref": "7:4",
+     "text": "See Yt. XIX, 56."
+    },
+    {
+     "ref": "7:5",
+     "text": "A mountain in Adarbaigân (Bundahis XII, 26), where king Husravah settled the fire Gushasp."
+    },
+    {
+     "ref": "7:6",
+     "text": "See Yt. V, 49."
+    },
+    {
+     "ref": "7:7",
+     "text": "The glory of the warriors, the fire known as Âdar Gushasp or Gushnasp; with its help king Husravah destroyed the idol-temples near Lake Kêkast, and he settled it on Mount Âsnavant (Bund. XVII, 7)."
+    },
+    {
+     "ref": "8:1",
+     "text": "A mountain in Khorâsân on which the Burzîn fire is settled (Bund. XII, 18)."
+    },
+    {
+     "ref": "8:2",
+     "text": "'The fire known as Âdaraburagâmihira [Âdar Burzîn Mihir]; its object is the science of husbandry.' King Gustâsp established it on Mount Raêvant (Bund. XVII, 8)."
+    },
+    {
+     "ref": "8:3",
+     "text": "All sorts of fires. See another classification, Yasna XVII, II [63-67] and Bundahis XVII, 1."
+    },
+    {
+     "ref": "8:4",
+     "text": "See Vend. XXII, 7."
+    },
+    {
+     "ref": "8:5",
+     "text": "The fire Nairyô-sangha, as the messenger of Ahura, burns hereditarily in the bosom of his earthly representative, the king."
+    },
+    {
+     "ref": "8:6",
+     "text": "See Yt. V."
+    },
+    {
+     "ref": "8:7",
+     "text": "See Yt. VI."
+    },
+    {
+     "ref": "8:8",
+     "text": "See Yt. VII and Vend. XXI, I, text and note."
+    },
+    {
+     "ref": "8:9",
+     "text": "Aêvô-dâta gâus; see Vend. l. l. and Bundahis IV."
+    },
+    {
+     "ref": "8:10",
+     "text": "Pouru-saredha gâus: the couple born of the seed of the only-created Bull, and from which arose two hundred and eighty species (Bund. XI, 3)."
+    },
+    {
+     "ref": "9:1",
+     "text": "See Yt. VIII."
+    },
+    {
+     "ref": "9:2",
+     "text": "See Yt. VIII, 9."
+    },
+    {
+     "ref": "9:3",
+     "text": "See Yt. XII, 29-31."
+    },
+    {
+     "ref": "9:4",
+     "text": "See Yt. VIII, 12."
+    },
+    {
+     "ref": "9:5",
+     "text": "See Yt. IX."
+    },
+    {
+     "ref": "9:6",
+     "text": "See Yt. X."
+    },
+    {
+     "ref": "9:7",
+     "text": "See Yt. XV."
+    },
+    {
+     "ref": "9:8",
+     "text": "See Yt. XI."
+    },
+    {
+     "ref": "9:9",
+     "text": "See Yt. XII."
+    },
+    {
+     "ref": "9:10",
+     "text": "See Yt. XVIII."
+    },
+    {
+     "ref": "10:1",
+     "text": "See Yt. XIII."
+    },
+    {
+     "ref": "10:2",
+     "text": "See Yt. XIV."
+    },
+    {
+     "ref": "10:3",
+     "text": "See Yt. XV."
+    },
+    {
+     "ref": "10:4",
+     "text": "Powerfully."
+    },
+    {
+     "ref": "10:5",
+     "text": "See Yt. XV, 1."
+    },
+    {
+     "ref": "10:6",
+     "text": "See Vend. Introd. IV, 39 and lxxxii, 1."
+    },
+    {
+     "ref": "10:7",
+     "text": "See Yt. XVI."
+    },
+    {
+     "ref": "11:1",
+     "text": "See Yt. XVII."
+    },
+    {
+     "ref": "11:2",
+     "text": "Religious knowledge, wisdom (fargânak; nirvânagnânam)."
+    },
+    {
+     "ref": "11:3",
+     "text": "Thought (kittam)."
+    },
+    {
+     "ref": "11:4",
+     "text": "Thoughtfulness (kittasthiti)."
+    },
+    {
+     "ref": "11:5",
+     "text": "The keeper of treasures; cf. Vend. Introd. IV, 30."
+    },
+    {
+     "ref": "11:6",
+     "text": "Ahvaretem hvarenô: 'the hvarenô of the priests: that it cannot be forcibly seized means that one must take possession of it through virtue and righteous exertion' (Neriosengh and Pahl. Comm. to Yasna I and IV, 14 [42])."
+    },
+    {
+     "ref": "11:7",
+     "text": "See Yt. XVIII."
+    },
+    {
+     "ref": "11:8",
+     "text": "See Yt. I, 31, text and note."
+    },
+    {
+     "ref": "11:9",
+     "text": "See Yt. XIX."
+    },
+    {
+     "ref": "12:1",
+     "text": "See p. 11, note 6."
+    },
+    {
+     "ref": "12:2",
+     "text": "The Holy Word."
+    },
+    {
+     "ref": "12:3",
+     "text": "Daregha upayana: the Genius of Teaching (sixâm adrisyarûpinîm; Yasna I, 12 [401)."
+    },
+    {
+     "ref": "12:4",
+     "text": "In memory."
+    },
+    {
+     "ref": "12:5",
+     "text": "See above, § 2."
+    },
+    {
+     "ref": "12:6",
+     "text": "Or boundless (anaghra; the Parsi anêrân)."
+    },
+    {
+     "ref": "12:7",
+     "text": "Or Infinite Light; see Vend. Introd. p. lxxxii and Bund. I. 2."
+    },
+    {
+     "ref": "12:8",
+     "text": "The abode of Ahura Mazda; see Vend. XIX, 32."
+    },
+    {
+     "ref": "12:9",
+     "text": "See Vend. XIX, 36, note 1."
+    },
+    {
+     "ref": "12:10",
+     "text": "See Vend. XIX, 29, note 3."
+    },
+    {
+     "ref": "12:11",
+     "text": "See Sîrôzah II, 7, note."
+    },
+    {
+     "ref": "12:12",
+     "text": "See Vend. Introd. IV, 28."
+    },
+    {
+     "ref": "12:13",
+     "text": "'The blessing (âfriti) is twofold: one by thought, one by words; the blessing by words is the more powerful; the curse (upamana) in thought is the more powerful' (Neriosengh ad Yasna I, 15 [44]). Upamana is the same as the Vedic manyu."
+    },
+    {
+     "ref": "13:1",
+     "text": "See Yt. XIII, 0."
+    },
+    {
+     "ref": "13:2",
+     "text": "In contradistinction to general invocations."
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "titre": "SÎRÔZAH II.",
+   "source": "sbe2305.htm",
+   "jours": [
+    {
+     "n": 1,
+     "nom": "Ormazd",
+     "text": "We sacrifice unto the bright and glorious Ahura Mazda; we sacrifice unto the Amesha-Spentas, the all-ruling, the all-beneficent."
+    },
+    {
+     "n": 2,
+     "nom": "Bahman",
+     "text": "We sacrifice unto Vohu-Manô, the Amesha-Spenta; we sacrifice unto Peace, whose breath is friendly, and who is more powerful to destroy than all other creatures. We sacrifice unto the heavenly Wisdom, made by Mazda; we sacrifice unto the Wisdom acquired through the ear, made by Mazda."
+    },
+    {
+     "n": 3,
+     "nom": "Ardibehest",
+     "text": "We sacrifice unto Asha-Vahista, the fairest, the Amesha-Spenta; we sacrifice unto the much-desired Airyaman; we sacrifice unto the instrument made by Mazda; we sacrifice unto the good Saoka, with eyes of love, made by Mazda and holy."
+    },
+    {
+     "n": 4,
+     "nom": "Shahrêvar",
+     "text": "We sacrifice unto Khshathra-Vairya, the Amesha-Spenta; we sacrifice unto the metals; we sacrifice unto Mercy and Charity."
+    },
+    {
+     "n": 5,
+     "nom": "Sapendârmad",
+     "text": "We sacrifice unto the good Spenta Ârmaiti; we sacrifice unto the good Râta, with eyes of love, made by Mazda and holy."
+    },
+    {
+     "n": 6,
+     "nom": "Khordâd",
+     "text": "We sacrifice unto Haurvatât, the Amesha-Spenta; we sacrifice unto the prosperity of the seasons. We sacrifice unto the years, the holy and masters of holiness."
+    },
+    {
+     "n": 7,
+     "nom": "Murdâd",
+     "text": "We sacrifice unto Ameretât, the Amesha-Spenta; we sacrifice unto fatness and flocks; we sacrifice unto the plenty of corn; we sacrifice unto the powerful Gaokerena, made by Mazda. (At the gâh Hâvan): We sacrifice unto Mithra, the lord of wide pastures; we sacrifice unto Râma Hvâstra. (At the gâh Rapithwin): We sacrifice unto Asha-Vahista and unto Âtar, the son of Ahura Mazda. (At the gâh Uzîren): We sacrifice unto Apãm Napât, the swift-horsed, the tall and shining lord, the lord of the females; we sacrifice unto the water made by Mazda and holy. (At the gâh Aiwisrûthrem): We sacrifice unto the good, powerful, beneficent Fravashis of the holy ones; we sacrifice unto the females that bring forth flocks of males; we sacrifice unto the thrift of the seasons; we sacrifice unto the well-shapen and tall-formed Strength; we sacrifice unto Verethraghna, made by Mazda; we sacrifice unto the crushing Ascendant. (At the gâh Ushahin): We sacrifice unto the holy, tall-formed, fiend-smiting Sraosha, who makes the world grow, the holy and master of holiness; we sacrifice unto Rashnu Razista; we sacrifice unto Arstât, who makes the world grow, who makes the world increase."
+    },
+    {
+     "n": 8,
+     "nom": "Dai pa Adar",
+     "text": "We sacrifice unto the Maker Ahura Mazda, the bright and glorious; we sacrifice unto the Amesha-Spentas, the all-ruling, the all-beneficent."
+    },
+    {
+     "n": 9,
+     "nom": "Âdar",
+     "text": "We sacrifice unto Âtar, the son of Ahura Mazda; we sacrifice unto the Glory, made by Mazda; we sacrifice unto the Weal, made by Mazda; we sacrifice unto the Glory of the Aryas, made by Mazda; we sacrifice unto the awful Glory of the Kavis, made by Mazda. We sacrifice unto Âtar, the son of Ahura Mazda; we sacrifice unto king Husravah; we sacrifice unto the lake of Husravah; we sacrifice unto Mount Âsnavant, made by Mazda; we sacrifice unto Lake Kaêkasta, made by Mazda; we sacrifice unto the awful Glory of the Kavis, made by Mazda. We sacrifice unto Âtar, the son of Ahura Mazda; we sacrifice unto Mount Raêvant, made by Mazda; we sacrifice unto the awful Glory of the Kavis, made by Mazda. We sacrifice unto Âtar, the son of Ahura Mazda; we sacrifice unto Âtar, the beneficent, the warrior. We sacrifice unto that God, who is a full source of glory. We sacrifice. unto that God, who is a full source of healing. We sacrifice unto Âtar, the son of Ahura Mazda; we sacrifice unto all Fires; we sacrifice unto the God, Nairyô-Sangha, who dwells in the navel of kings."
+    },
+    {
+     "n": 10,
+     "nom": "Âbân",
+     "text": "We sacrifice unto the good Waters, made by Mazda and holy; we sacrifice unto the holy water-spring Ardvi Anâhita; we sacrifice unto all waters, made by Mazda and holy; we sacrifice unto all plants, made by Mazda and holy."
+    },
+    {
+     "n": 11,
+     "nom": "Khorshêd",
+     "text": "We sacrifice unto the bright, undying, shining, swift-horsed Sun."
+    },
+    {
+     "n": 12,
+     "nom": "Mâh",
+     "text": "We sacrifice unto the Moon that keeps in it the seed of the Bull. We sacrifice unto the Soul and Fravashi of the only-created Bull; we sacrifice unto the Soul and Fravashi of the Bull of many species."
+    },
+    {
+     "n": 13,
+     "nom": "Tîr",
+     "text": "We sacrifice unto Tistrya, the bright and glorious star; we sacrifice unto the powerful Satavaêsa, made by Mazda, who pushes waters forward; we sacrifice unto all the Stars that have in them the seed of the waters; we sacrifice unto all the Stars that have in them the seed of the earth; we sacrifice unto all the Stars that have in them the seeds of the plants; we sacrifice unto the Star Vanant, made by Mazda; we sacrifice unto those stars that are seven in number, the Haptôiringas, made by Mazda, glorious and healing; in order to oppose the Yâtus and Pairikas."
+    },
+    {
+     "n": 14,
+     "nom": "Gôs",
+     "text": "We sacrifice unto the soul of the bounteous Cow; we sacrifice unto the powerful Drvâspa, made by Mazda and holy."
+    },
+    {
+     "n": 15,
+     "nom": "Dai pa Mihir",
+     "text": "We sacrifice unto the Maker Ahura Mazda, the bright and glorious; we sacrifice unto the Amesha-Spentas, the all-ruling, the all-beneficent."
+    },
+    {
+     "n": 16,
+     "nom": "Mihir",
+     "text": "We sacrifice unto Mithra, the lord of wide pastures, who has a thousand ears and ten thousand eyes, a God invoked by his own name; we sacrifice unto Râma Hvâstra."
+    },
+    {
+     "n": 17,
+     "nom": "Srôsh",
+     "text": "We sacrifice unto the holy, tall-formed, fiend-smiting, world-increasing Sraosha, holy and master of holiness."
+    },
+    {
+     "n": 18,
+     "nom": "Rashn",
+     "text": "We sacrifice unto Rashnu Razista; we sacrifice unto Arstât, who makes the world grow, who makes the world increase; we sacrifice unto the true-spoken speech that makes the world grow."
+    },
+    {
+     "n": 19,
+     "nom": "Farvardîn",
+     "text": "We sacrifice unto the good, strong, beneficent Fravashis of the holy ones."
+    },
+    {
+     "n": 20,
+     "nom": "Bahrâm",
+     "text": "We sacrifice unto the well-shapen, tall-formed Strength; we sacrifice unto Verethraghna, made by Ahura; we sacrifice unto the crushing Ascendant."
+    },
+    {
+     "n": 21,
+     "nom": "Râm",
+     "text": "We sacrifice unto Râma Hvâstra; we sacrifice unto the holy Vayu; we sacrifice unto Vayu, who works highly and is more powerful to destroy than all other creatures. Unto that part of thee do we sacrifice, O Vayu, that belongs to Spenta-Mainyu. We sacrifice unto the sovereign Sky; we sacrifice unto the Boundless Time; we sacrifice unto the sovereign Time of the long Period."
+    },
+    {
+     "n": 22,
+     "nom": "Bâd",
+     "text": "We sacrifice unto the beneficent, bounteous Wind; we sacrifice unto the wind that blows below; we sacrifice unto the wind that blows above; we sacrifice unto the wind that blows before; we sacrifice unto the wind that blows behind. We sacrifice unto the manly Courage."
+    },
+    {
+     "n": 23,
+     "nom": "Dai pa Dîn",
+     "text": "We sacrifice unto the Maker Ahura Mazda, the bright and glorious; we sacrifice unto the Amesha-Spentas."
+    },
+    {
+     "n": 24,
+     "nom": "Dîn",
+     "text": "We sacrifice unto the most right Kista, made by Mazda and holy; we sacrifice unto the good Law of the worshippers of Mazda."
+    },
+    {
+     "n": 25,
+     "nom": "Ard",
+     "text": "We sacrifice unto Ashi Vanguhi, the bright, high, strong, tall-formed, and merciful; we sacrifice unto the Glory made by Mazda; we sacrifice unto the Weal made by Mazda. We sacrifice unto Pârendi, of the light chariot; we sacrifice unto the Glory of the Aryas, made by Mazda; we sacrifice unto the awful kingly Glory, made by Mazda; we sacrifice unto that awful Glory, that cannot be forcibly seized, made by Mazda; we sacrifice unto the Glory of Zarathustra, made by Mazda."
+    },
+    {
+     "n": 26,
+     "nom": "Âstâd",
+     "text": "We sacrifice unto Arstât, who makes the world grow; we sacrifice unto Mount Ushi-darena, made by Mazda, a God of holy happiness."
+    },
+    {
+     "n": 27,
+     "nom": "Âsmân",
+     "text": "We sacrifice unto the shining Heavens; we sacrifice unto the bright, all-happy, blissful abode of the holy ones."
+    },
+    {
+     "n": 28,
+     "nom": "Zemyâd",
+     "text": "We sacrifice unto the Earth, a beneficent God; we sacrifice unto these places, unto these fields; we sacrifice unto Mount Ushi-darena, made by Mazda, a God of holy happiness; we sacrifice unto all the mountains, that are seats of holy happiness, of full happiness, made by Mazda, the holy and masters of holiness; we sacrifice unto the awful kingly Glory, made by Mazda; we sacrifice unto the awful Glory that cannot be forcibly seized, made by Mazda."
+    },
+    {
+     "n": 29,
+     "nom": "Mahraspand",
+     "text": "We sacrifice unto the Mãthra Spenta, of high glory; we sacrifice unto the Law opposed to the Daêvas; we sacrifice unto the Law of Zarathustra; we sacrifice unto the long-traditional teaching; we sacrifice unto the good Law of the worshippers of Mazda; we sacrifice unto the Devotion to the Mãthra Spenta; we sacrifice unto the understanding that keeps the Law of the worshippers of Mazda; we sacrifice unto the knowledge of the Mãthra Spenta; we sacrifice unto the heavenly Wisdom, made by Mazda; we sacrifice unto the Wisdom acquired through the ear and made by Mazda."
+    },
+    {
+     "n": 30,
+     "nom": "Anêrân",
+     "text": "We sacrifice unto the eternal and sovereign luminous space; we sacrifice unto the bright Garô-nmâna; we sacrifice unto the sovereign place of eternal Weal; we sacrifice unto the Kinvat-bridge, made by Mazda; we sacrifice unto Apãm Napât, the swift-horsed, the high and shining lord, who has many wives; and we sacrifice unto the water, made by Mazda and holy; we sacrifice unto the golden and tall Haoma; we sacrifice unto the enlivening Haoma, who makes the world grow; we sacrifice unto Haoma, who keeps death far away; we sacrifice unto the pious and good Blessing; we sacrifice unto the awful, powerful, cursing thought of the wise, a God; we sacrifice unto all the holy Gods of the heavenly world; we sacrifice unto all the holy Gods of the material world. I praise, I invoke, I meditate upon, and we sacrifice unto the good, strong, beneficent Fravashis of the holy ones."
+    }
+   ],
+   "notes": [
+    {
+     "ref": "20:1",
+     "text": "Cf. Yasna XXVI, 1."
+    }
+   ]
+  }
+ ],
+ "nyayis": [
+  {
+   "id": 1,
+   "titre": "I. KHÔRSHÊD NYÂYIS.",
+   "source": "sbe2330.htm",
+   "paragraphs": [
+    {
+     "kind": "intro_traducteur",
+     "text": "A Nyâyis is properly a begging prayer, as opposed to Sitâyis, a prayer of praise. It is a term particularly applied to five prayers addressed to the Sun, to Mithra, to the Moon, to Waters, and to Fire. Every layman over eight years old is bound to recite the Nyâyis: he recites it standing and girded with his Kôstî."
+    },
+    {
+     "kind": "intro_traducteur",
+     "text": "The Sun Nyâyis is recited three times a day, at the rising of the sun (Gâh Hâvan), at noon (Gâh Rapitvin), and at three o'clock in the afternoon (Gâh Uzîren). The Mithra Nyâyis is recited with the Sun Nyâyis, as Mithra follows the sun in its course (see Yt. X, 13)."
+    },
+    {
+     "kind": "intro_traducteur",
+     "text": "The Moon Nyâyis is recited three times a month: first, at the time when it begins to be seen; second, when it is at the full; third, when it is on the wane."
+    },
+    {
+     "kind": "intro_traducteur",
+     "text": "The Waters Nyâyis and the Fire Nyâyis are recited every day, when one finds oneself in the proximity of those elements. The Fire Nyâyis is recited with the Penôm on (see Vend. p. 168, 7)."
+    },
+    {
+     "kind": "intro_traducteur",
+     "text": "The first four Nyâyis must be recited especially on the days over which the Izads invoked preside; that is to say, on the Khôrshêd, Mihir, Mâh, and Âbân days (the eleventh, sixteenth, twelfth, and tenth days of the month)."
+    },
+    {
+     "kind": "texte",
+     "n": 1,
+     "text": "[Hail unto the Sun, the swift-horsed! May Ahura Mazda be rejoiced!]"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Hail unto thee, O Ahura Mazda, in the threefold way! [Hail unto thee] before all other creatures!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Hail unto you, O Amesha-Spentas, who are all of you of one accord with the Sun!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "May this prayer come unto Ahura Mazda! May it come unto the Amesha-Spentas! May it come unto the Fravashis of the holy Ones! May it come unto the Sovereign Vayu of the long Period!"
+    },
+    {
+     "kind": "texte",
+     "n": 2,
+     "text": "[Hail unto the Sun, the swift-horsed!]"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "May Ahura Mazda be rejoiced! May Angra Mainyu be destroyed! by those who do truly what is the foremost wish (of God)."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "I recite the 'Praise of Holiness:'"
+    },
+    {
+     "kind": "texte",
+     "n": 3,
+     "text": "I praise well-thought, well-spoken, and well-done thoughts, words, and deeds. I embrace all good thoughts, good words, and good deeds; I reject all evil thoughts, evil words, and evil deeds."
+    },
+    {
+     "kind": "texte",
+     "n": 4,
+     "text": "I give sacrifice and prayer unto you, O Amesha-Spentas! even with the fulness of my thoughts, of my words, of my deeds, and of my heart: I give unto you even my own life."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "I recite the 'Praise of Holiness:'"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "'Ashem Vohû: Holiness is the best of all good. Well is it for it, well is it for that holiness which is perfection of holiness!'"
+    },
+    {
+     "kind": "texte",
+     "n": 5,
+     "text": "Hail to Ahura Mazda!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Hail to the Amesha-Spentas!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Hail to Mithra, the lord of wide pastures!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Hail to the Sun, the swift-horsed!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Hail to the two eyes of Ahura Mazda!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Hail to the Bull!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Hail to Gaya!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Hail to the Fravashi of the holy Spitama Zarathustra!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Hail to the whole of the holy creation that was, is, or will be!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "May I grow in health of body through Vohu-Manô, Khshathra, and Asha, and come to that luminous space, to that highest of all high things, when the world, O Spenta Mainyu! has come to an end!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Ashem Vohû: Holiness is the best of all good...."
+    },
+    {
+     "kind": "texte",
+     "n": 6,
+     "text": "We sacrifice unto the bright, undying, shining, swift-horsed Sun."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto Mithra, the lord of wide pastures, who is truth-speaking, a chief in assemblies, with a thousand ears, well-shapen, with ten thousand eyes, high, with full knowledge, strong, sleepless, and ever awake."
+    },
+    {
+     "kind": "texte",
+     "n": 7,
+     "text": "We sacrifice unto Mithra, the lord of all countries, whom Ahura Mazda made the most glorious of all the gods in the world unseen."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "So may Mithra and Ahura, the two great gods, come to us for help!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the bright, undying, shining, swift-horsed Sun."
+    },
+    {
+     "kind": "texte",
+     "n": 8,
+     "text": "We sacrifice unto Tistrya, whose sight is sound."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto Tistrya; we sacrifice unto the rains of Tistrya."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto Tistrya, bright and glorious."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the star Vanant, made by Mazda."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto Tistrya, the bright and glorious star."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the sovereign sky."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the boundless Time."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the sovereign Time of the long Period."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the beneficent, well-doing Wind."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the most upright Kista, made by Mazda and holy."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the good Law of the worshippers of Mazda."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the way of content."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the golden instrument."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto Mount Saokanta, made by Mazda."
+    },
+    {
+     "kind": "texte",
+     "n": 9,
+     "text": "We sacrifice unto all the holy gods of the world unseen."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto all the holy gods of the material world."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto our own soul."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto our own Fravashi."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the good, strong, beneficent Fravashis of the holy Ones."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the bright, undying, shining, swift-horsed Sun."
+    },
+    {
+     "kind": "texte",
+     "n": 10,
+     "text": "I confess myself a worshipper of Mazda, a follower of Zarathustra...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Unto the bright, undying, shining, swift-horsed Sun;"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Be propitiation, with sacrifice, prayer, propitiation, and glorification...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Ashem Vohû: Holiness is the best of all good...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "[We sacrifice] unto the Ahurian waters, the waters of Ahura, with excellent libations, with finest libations, with libations piously strained."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Ashem Vohû: Holiness is the best of all good...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "[Give] unto that man brightness and glory, give him health of body,.... give him the bright, all-happy, blissful abode of the holy Ones."
+    }
+   ],
+   "notes": [
+    {
+     "ref": "349:1",
+     "text": "Anquetil, Zend-Avesta II, pp. 6, 22, 565-566."
+    },
+    {
+     "ref": "349:2",
+     "text": "This clause is wanting in most manuscripts."
+    },
+    {
+     "ref": "350:1",
+     "text": "In thought, speech, and deed (Pers. and Sansk. transl.)."
+    },
+    {
+     "ref": "350:2",
+     "text": "Vayu, as being the same with Fate (Vend. Introd. IV, 17), became identified with Time."
+    },
+    {
+     "ref": "350:3",
+     "text": "The Ashem Vohû."
+    },
+    {
+     "ref": "350:4",
+     "text": "See p. 22."
+    },
+    {
+     "ref": "350:5",
+     "text": "§ 5 = Yasna LXVIII (22-23 [LXVII, 58-67])."
+    },
+    {
+     "ref": "350:6",
+     "text": "Gaya Maretan, the first man."
+    },
+    {
+     "ref": "351:1",
+     "text": "The sun: 'May my soul arrive at the sun-region!' (Pahl. transl.)"
+    },
+    {
+     "ref": "351:2",
+     "text": "Yt. X, 7."
+    },
+    {
+     "ref": "351:3",
+     "text": "In heaven."
+    },
+    {
+     "ref": "351:4",
+     "text": "See Yt. VIII, 12, note 7."
+    },
+    {
+     "ref": "351:5",
+     "text": "See Yt. VIII, 12, note 2."
+    },
+    {
+     "ref": "351:6",
+     "text": "See Yt. XX."
+    },
+    {
+     "ref": "352:1",
+     "text": "See Yt. XVI."
+    },
+    {
+     "ref": "352:2",
+     "text": "Or, of pleasure."
+    },
+    {
+     "ref": "352:3",
+     "text": "'On Mount Saokanta there is a golden tube coming from the root of the earth; the water that is on the surface of the earth goes up through the hole of that tube to the heavens, and being driven by the wind, spreads everywhere, and thus the dew is produced' (Sansk. transl.)."
+    },
+    {
+     "ref": "353:1",
+     "text": "The whole of the Khôrshêd Yast is inserted here."
+    },
+    {
+     "ref": "353:2",
+     "text": "Rivers considered as Ahura's wives (cf. Ormazd et Ahriman, § 32)."
+    },
+    {
+     "ref": "353:3",
+     "text": "From Yasna LXVIII, 10 (LXVII, 30); cf. p. 34."
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "titre": "II. MIHIR NYÂYIS.",
+   "source": "sbe2331.htm",
+   "paragraphs": [
+    {
+     "kind": "texte",
+     "n": 1,
+     "text": "Hail unto thee, O Ahura Mazda, in the threefold way! [Hail unto thee] before all other creatures!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Hail unto you, O Amesha-Spentas, who are all of you of one accord with the Sun!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "May this prayer come unto Ahura Mazda! May it come unto the Amesha-Spentas! May it come unto the Fravashis of the holy Ones! May it come unto the sovereign Vayu of the long Period!"
+    },
+    {
+     "kind": "texte",
+     "n": 2,
+     "text": "May Ahura Mazda be rejoiced!...."
+    },
+    {
+     "kind": "texte",
+     "n": 3,
+     "text": "I praise well-thought, well-spoken, and well-done thoughts, words, and deeds...."
+    },
+    {
+     "kind": "texte",
+     "n": 4,
+     "text": "I give sacrifice and prayer unto you, O Amesha-Spentas!...."
+    },
+    {
+     "kind": "texte",
+     "n": 5,
+     "text": "Hail to Ahura Mazda!...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "May I grow in health of body through Vohu-Manô, Khshathra, and Asha, and come to that luminous space, to that highest of all high things, when the world, O Spenta Mainyu, has come to an end!"
+    },
+    {
+     "kind": "texte",
+     "n": 6,
+     "text": "We sacrifice unto Mithra, the lord of wide pastures, who is truth-speaking, a chief in assemblies, with a thousand ears, well-shapen, with ten thousand"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "eyes, high, with full knowledge, strong, sleepless, and ever awake."
+    },
+    {
+     "kind": "texte",
+     "n": 7,
+     "text": "We sacrifice unto Mithra, the lord of all countries, whom Ahura Mazda made the most glorious of all the heavenly gods."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "So may Mithra and Ahura, the two great gods, come to us for help!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the undying, shining, swift-horsed Sun."
+    },
+    {
+     "kind": "texte",
+     "n": 8,
+     "text": "We sacrifice unto Tistrya, whose sight is sound...."
+    },
+    {
+     "kind": "texte",
+     "n": 9,
+     "text": "We sacrifice unto all the holy gods of the world unseen...."
+    },
+    {
+     "kind": "texte",
+     "n": 10,
+     "text": "I confess myself a worshipper of Mazda, a follower of Zarathustra...."
+    },
+    {
+     "kind": "texte",
+     "n": 11,
+     "text": "We sacrifice unto Mithra, the lord of wide pastures, who is truth-speaking, a chief in assemblies, with a thousand ears, well-shapen, with a thousand eyes, high, with full knowledge, strong, sleepless, and ever awake."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the Mithra around countries;"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the Mithra within countries;"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the Mithra in this country;"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the Mithra above countries;"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the Mithra under countries;"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the Mithra before countries;"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto the Mithra behind countries."
+    },
+    {
+     "kind": "texte",
+     "n": 12,
+     "text": "We sacrifice unto Mithra and Ahura, the two great, imperishable, holy gods; and unto the stars, and the moon, and the sun, with the trees that yield baresma. We sacrifice unto Mithra, the lord of all countries."
+    },
+    {
+     "kind": "texte",
+     "n": 13,
+     "text": "For his brightness and glory, I will offer unto him a sacrifice worth being heard...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We offer up libations unto Mithra...."
+    },
+    {
+     "kind": "texte",
+     "n": 14,
+     "text": "May he come to us for help! May he come to us for ease!...."
+    },
+    {
+     "kind": "texte",
+     "n": 15,
+     "text": "I will offer up libations unto him, the strong Yazata, the powerful Mithra...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Yênhê hâtãm: All those beings of whom Ahura Mazda...."
+    },
+    {
+     "kind": "texte",
+     "n": 16,
+     "text": "Yathâ aha vairyô: The will of the Lord is the law of holiness...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "I bless the sacrifice and prayer, and the strength and vigour of Mithra...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Ashem Vohû: Holiness is the best of all good...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "[Give] unto that man brightness and glory,.... give him the bright, all-happy, blissful abode of the holy Ones."
+    }
+   ],
+   "notes": [
+    {
+     "ref": "353:4",
+     "text": "§§ 1-5 = Khôrshêd Nyâyis, §§ 1-5."
+    },
+    {
+     "ref": "353:5",
+     "text": "§§ 6-7 = Khôrshêd Nyâyis, §§ 6-7."
+    },
+    {
+     "ref": "354:1",
+     "text": "§ 8-9 = Khôrshêd Nyâyis, §§ 8-9."
+    },
+    {
+     "ref": "354:2",
+     "text": "Yt. X, 0."
+    },
+    {
+     "ref": "354:3",
+     "text": "§§ 11-12 = Yt. X, 144-145."
+    },
+    {
+     "ref": "354:4",
+     "text": "§§ 13-15 = Yt. X, 4-6."
+    },
+    {
+     "ref": "355:1",
+     "text": "Yt. X, 146."
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "titre": "III. MÂH NYÂYIS.",
+   "source": "sbe2332.htm",
+   "paragraphs": [
+    {
+     "kind": "texte",
+     "n": 1,
+     "text": "Hail to Ahura Mazda! Hail to the Amesha-Spentas! Hail to the Moon that keeps in it the seed of the Bull! Hail to thee when we look at thee! Hail to thee when thou lookest at us!"
+    },
+    {
+     "kind": "texte",
+     "n": 2,
+     "text": "Unto the Moon that keeps in it the seed of the Bull; unto the only-created Bull and unto the Bull of many species;"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Be propitiation...."
+    },
+    {
+     "kind": "texte",
+     "n": 3,
+     "text": "Hail to Ahura Mazda!...."
+    },
+    {
+     "kind": "texte",
+     "n": 4,
+     "text": "How does the moon wax? How does the moon wane?...."
+    },
+    {
+     "kind": "texte",
+     "n": 5,
+     "text": "We sacrifice unto the Moon that keeps in it the seed of the Bull...."
+    },
+    {
+     "kind": "texte",
+     "n": 6,
+     "text": "And when the light of the moon waxes warmer...."
+    },
+    {
+     "kind": "texte",
+     "n": 7,
+     "text": "I will sacrifice unto the Moon...."
+    },
+    {
+     "kind": "texte",
+     "n": 8,
+     "text": "For its brightness and glory...."
+    },
+    {
+     "kind": "texte",
+     "n": 9,
+     "text": "Yathâ aha vairyô: The will of the Lord is the law of holiness...."
+    },
+    {
+     "kind": "texte",
+     "n": 10,
+     "text": "Give us strength and victory! Give us welfare in cattle and in bread! Give us a great number of male children, praisers [of God] and chiefs in assemblies, who smite and are not smitten, who smite at one stroke their enemies, who smite at one stroke their foes, ever in joy and ready to help."
+    },
+    {
+     "kind": "texte",
+     "n": 11,
+     "text": "Ye gods of full Glory, ye gods of full healing, let your greatness become manifest! let your assistance become manifest as soon as you are called for! and ye, Waters, manifest your Glory, and impart it to the man who offers you a sacrifice."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Ashem Vohû: Holiness is the best of all good...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "[Give] unto that man brightness and glory,.... give him the bright, all-happy, blissful abode of the holy Ones."
+    }
+   ],
+   "notes": [
+    {
+     "ref": "355:2",
+     "text": "§ 1 = Mâh Yast, § 1."
+    },
+    {
+     "ref": "355:3",
+     "text": "§§ 2-9 = Mâh Yast."
+    },
+    {
+     "ref": "355:4",
+     "text": "§§ 10-11; cf. Yt. XXIV, 6-8."
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "titre": "IV. ÂBÂN NYÂYIS.",
+   "source": "sbe2333.htm",
+   "paragraphs": [
+    {
+     "kind": "texte",
+     "n": 1,
+     "text": "May Ahura Mazda be rejoiced!...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Unto the good Waters, made by Mazda; unto the holy water-spring ARDVI ANÂHITA; unto all waters, made by Mazda; unto all plants, made by Mazda,"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Be propitiation...."
+    },
+    {
+     "kind": "texte",
+     "n": 2,
+     "text": "Ahura Mazda spake unto Spitama Zarathustra, saying: 'Offer up a sacrifice, O Spitama Zarathustra! unto this spring of mine, Ardvi Sûra Anâhita...."
+    },
+    {
+     "kind": "texte",
+     "n": 3,
+     "text": "'Who makes the seed of all males pure, who makes the womb of all females pure for bringing forth...."
+    },
+    {
+     "kind": "texte",
+     "n": 4,
+     "text": "'The large river, known afar, that is as large as the whole of the waters that run along the earth...."
+    },
+    {
+     "kind": "texte",
+     "n": 5,
+     "text": "'All the shores of the sea Vouru-Kasha are boiling over, all the middle of it is boiling over, when she runs down there...."
+    },
+    {
+     "kind": "texte",
+     "n": 6,
+     "text": "'From this river of mine alone flow all the waters that spread all over the seven Karshvares;"
+    },
+    {
+     "kind": "texte",
+     "n": 7,
+     "text": "'I, Ahura Mazda, brought it down with mighty vigour, for the increase of the house, of the borough, of the town, of the country."
+    },
+    {
+     "kind": "texte",
+     "n": 8,
+     "text": "'He from whom she will hear the staota yêsnya; he from whom she will hear the Ahuna"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "vairya; he from whom she will hear the Asha-vahista; he by whom the good waters will be made pure; with the words of the holy hymns, he will enter first the Garô-nmâna of Ahura Mazda: she will give him the boons asked for."
+    },
+    {
+     "kind": "texte",
+     "n": 9,
+     "text": "'For her brightness and glory, I will offer her a sacrifice worth being heard; I will offer her a sacrifice well-performed. Thus mayest thou advise us when thou art appealed to! Mayest thou be most fully worshipped."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "'We sacrifice unto the holy Ardvi Sûra Anâhita with libations. We sacrifice unto Ardvi Sûra Anâhita, the holy and master of holiness, with the Haoma and meat, with the baresma, with the wisdom of the tongue, with the holy spells, with the words, with the deeds, with the libations, and with the rightly-spoken words."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "'Yênhê hâtãm: All those beings of whom Ahura Mazda...."
+    },
+    {
+     "kind": "texte",
+     "n": 10,
+     "text": "Yathâ ahû vairyô: The will of the Lord is the law of holiness...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "'I bless the sacrifice and prayer, and the strength and vigour of the holy water-spring Anâhita."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "'[Give] unto that man brightness and glory,.... give him the bright, all-happy, blissful abode of the holy Ones.'"
+    }
+   ],
+   "notes": [
+    {
+     "ref": "356:1",
+     "text": "As Âbân Yast, 0."
+    },
+    {
+     "ref": "356:2",
+     "text": "§§ 2-6 = Âbân Yast, §§ 1-5."
+    },
+    {
+     "ref": "356:3",
+     "text": "Cf. Âbân Yast, § 6."
+    },
+    {
+     "ref": "356:4",
+     "text": "See above, p. 152, note 1."
+    },
+    {
+     "ref": "357:1",
+     "text": "The Yathâ ahû vairyô prayer."
+    },
+    {
+     "ref": "357:2",
+     "text": "The Ashem Vohû prayer."
+    },
+    {
+     "ref": "357:3",
+     "text": "Cf. Yt. XXII, 2, and Yt. XXIV, 39."
+    },
+    {
+     "ref": "357:4",
+     "text": "Cf. Âbân Yast, §§ 19, 23, 27, 35, 39, 47, &c."
+    },
+    {
+     "ref": "357:5",
+     "text": "Cf. Âbân Yast, § 9."
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "titre": "V. ÂTAS NYÂYIS",
+   "source": "sbe2334.htm",
+   "paragraphs": [
+    {
+     "kind": "texte",
+     "n": 1,
+     "text": "Take me out, O Ahura! give me perfect piety and strength...."
+    },
+    {
+     "kind": "texte",
+     "n": 4,
+     "text": "May Ahura Mazda be rejoiced!...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Hail unto thee, O Fire, son of Ahura Mazda, thou beneficent and most great Yazata!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Ashem Vohû: Holiness is the best of all good...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "I confess myself a worshipper of Mazda...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "For sacrifice, prayer, propitiation, and glorification...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Unto Âtar, the son of Ahura Mazda; unto thee Âtar, son of Ahura Mazda!"
+    },
+    {
+     "kind": "texte",
+     "n": 5,
+     "text": "Unto Âtar, the son of Ahura Mazda; unto the Glory and the Weal, made by Mazda; unto the Glory of the Aryas, made by Mazda; unto the Glory of the Kavis, made by Mazda."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Unto Âtar, the son of Ahura Mazda; unto king Husravah; unto the lake of Husravah; unto Mount Âsnavant, made by Mazda; unto Lake Kaêkasta, made by Mazda; unto the Glory of the Kavis, made by Mazda."
+    },
+    {
+     "kind": "texte",
+     "n": 6,
+     "text": "Unto Âtar, the son of Ahura Mazda; unto Mount Raêvant, made by Mazda; unto the Glory of the Kavis, made by Mazda."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Unto Âtar, the son of Ahura Mazda."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Unto Âtar, the beneficent, the warrior; the God who is a full source of Glory, the God who is a full source of healing."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Unto Âtar, the son of Ahura Mazda, with all Âtars; unto the God Nairyô-sangha, who dwells in the navel of kings;"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Be propitiation, with sacrifice, prayer, propitiation, and glorification."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Yathâ ahû vairyô: The will of the Lord is the law of holiness...."
+    },
+    {
+     "kind": "texte",
+     "n": 7,
+     "text": "I bless the sacrifice and invocation, and the"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "good offering, the beneficent offering, the offering of assistance offered unto thee, O Âtar, son of Ahura Mazda!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Thou art worthy of sacrifice and invocation; mayest thou receive the sacrifice and the invocation in the houses of men."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Well may it be unto the man who ever worships thee with a sacrifice, holding the sacred wood in his hand, the baresma in his hand, the meat in his hand, the mortar in his hand."
+    },
+    {
+     "kind": "texte",
+     "n": 8,
+     "text": "Mayest thou have the right wood! Mayest thou have the right incense! Mayest thou have the right food! Mayest thou have the right fuel!"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Mayest thou be full-grown for protecting (this house)! Mayest thou grow excellent for protecting!"
+    },
+    {
+     "kind": "texte",
+     "n": 9,
+     "text": "Mayest thou burn in this house! Mayest thou ever burn in this house! Mayest thou blaze in this house! Mayest thou increase in this house! Even for a long time, till the powerful restoration of the world, till the time of the good, powerful restoration of the world!"
+    },
+    {
+     "kind": "texte",
+     "n": 10,
+     "text": "Give me, O Âtar, son of Ahura Mazda! lively welfare, lively maintenance, lively living; fulness of welfare, fulness of maintenance, fulness of life;"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Knowledge, sagacity; quickness of tongue; (holiness of) soul; a good memory; and then the understanding that goes on growing and the one that is not acquired through learning;"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "And then the manly courage,"
+    },
+    {
+     "kind": "texte",
+     "n": 11,
+     "text": "Firm-footed, unsleeping, (sleeping only) for a third part of the day and of the night, quick to rise up from bed, ever awake;"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "And a protecting, virtuous offspring, able to rule countries and assemblies of men, well growing up, good, freeing us from the pangs (of hell), endowed with a good intellect, that may increase my house, my borough, my town, my country, my empire."
+    },
+    {
+     "kind": "texte",
+     "n": 12,
+     "text": "Give me, O Âtar, son of Ahura Mazda! however unworthy I am, now and for ever, a seat in the bright, all-happy, blissful abode of the holy Ones."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "May I obtain the good reward, a good renown, and long cheerfulness for my soul!"
+    },
+    {
+     "kind": "texte",
+     "n": 13,
+     "text": "Âtar, the son of Ahura Mazda, lifts up his voice to all those for whom he cooks their evening meal and their morning meal. From all those he wishes a good offering, a beneficent offering, an offering of assistance, O Spitama!"
+    },
+    {
+     "kind": "texte",
+     "n": 14,
+     "text": "Âtar looks at the hands of all those who pass by: 'What does the friend bring to his friend? What does he who comes and goes bring to him who stays motionless?'"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "We sacrifice unto Âtar, the valiant warrior."
+    },
+    {
+     "kind": "texte",
+     "n": 15,
+     "text": "And if the passer-by brings him wood holily brought, or bundles of baresma holily tied up, or"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "twigs of Hadhânaêpata then Âtar, the son of Ahura Mazda, well pleased with him and not angry, and fed as required, will thus bless him:"
+    },
+    {
+     "kind": "texte",
+     "n": 16,
+     "text": "'May herds of oxen grow for thee, and increase of sons; may thy mind be master of its vow, may thy soul be master of its vow, and mayest thou live on in the joy of the soul all the nights of thy life.'"
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "This is the blessing which Âtar speaks unto him who brings him dry wood, well-examined by the light of the day, well-cleansed with godly intent."
+    },
+    {
+     "kind": "texte",
+     "n": 17,
+     "text": "Yathâ ahû vairyô: The will of the Lord is the law of holiness...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "I bless the sacrifice and prayer, and the strength and vigour of Âtar, the son of Ahura Mazda...."
+    },
+    {
+     "kind": "texte",
+     "n": null,
+     "text": "Ashem Vohû: Holiness is the best of all good..."
+    },
+    {
+     "kind": "texte",
+     "n": 18,
+     "text": "We gladden by our virtue thy mighty Fire, O Ahura! thy most quick and powerful Fire, who shows his assistance to him who has ever comforted him, but delights in taking vengeance with his hands on the man who has harmed him."
+    }
+   ],
+   "notes": [
+    {
+     "ref": "357:6",
+     "text": "§§ 1-3 = Yasna XXXIII, 12-14."
+    },
+    {
+     "ref": "357:7",
+     "text": "'Deliver me from Ahriman' (Pahl. Comm.)."
+    },
+    {
+     "ref": "357:8",
+     "text": "As in Ormazd Yast, 0."
+    },
+    {
+     "ref": "358:1",
+     "text": "As in Ormazd Yast, 0."
+    },
+    {
+     "ref": "358:2",
+     "text": "Cf. Sîrôzah, § 9."
+    },
+    {
+     "ref": "358:3",
+     "text": "§§ 7-16 = Yasna LXII, 1-10 (LXI). See the Sanskrit translation in Études Iraniennes, II."
+    },
+    {
+     "ref": "359:1",
+     "text": "The mortar for pounding the Haoma."
+    },
+    {
+     "ref": "359:2",
+     "text": "In quality and quantity."
+    },
+    {
+     "ref": "359:3",
+     "text": "Upasayêni: what is added to keep up the fire when lighted (Pers. transl.)."
+    },
+    {
+     "ref": "359:4",
+     "text": "The gaoshô-srûta khratu and the âsna khratu (see p. 7. note 1)."
+    },
+    {
+     "ref": "360:1",
+     "text": "Yâ mê afrasaunghau anghat: yâ me abhût ayogyatâ (Sansk. trans.)."
+    },
+    {
+     "ref": "360:2",
+     "text": "Here."
+    },
+    {
+     "ref": "360:3",
+     "text": "Above."
+    },
+    {
+     "ref": "360:4",
+     "text": "Khshafnîm, sûirîm (Études Iraniennes, II, 161)."
+    },
+    {
+     "ref": "360:5",
+     "text": "Âtar."
+    },
+    {
+     "ref": "360:6",
+     "text": "'Bodily he is infirm (armêst, motionless); spiritually he is a warrior' (Pahl. Comm.)."
+    },
+    {
+     "ref": "361:1",
+     "text": "See Vend. p. 94, note 1."
+    },
+    {
+     "ref": "361:2",
+     "text": "Cf. Vend. XVIII, 26-27."
+    },
+    {
+     "ref": "361:3",
+     "text": "From Yasna XXXIV, 4."
+    },
+    {
+     "ref": "361:4",
+     "text": "'In the var nîrang' (Pahl. Comm.), that is to say, in the fire ordeal; see above, p. 170, note 3."
+    }
+   ]
+  }
+ ]
+}
