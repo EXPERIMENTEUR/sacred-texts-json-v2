@@ -1,0 +1,948 @@
+{
+ "note": "Fourchettes d'annees (negatives = av. J.-C.). Sources citees par fiche ; 'a_verifier' liste ce qui n'a pas pu etre confirme. Dates de composition, pas de mise par ecrit, sauf mention.",
+ "fiches": [
+  {
+   "corpus": "Tanakh",
+   "aliases": [],
+   "langue_origine": "hebreu (quelques passages en arameen)",
+   "composition": {
+    "debut": -800,
+    "fin": -150,
+    "accord": "debattu",
+    "note": "Composition etalee sur plusieurs siecles, redaction par etapes ; forme finale a l'epoque du Second Temple (J. J. Collins)."
+   },
+   "positions": [],
+   "couches": [
+    {
+     "nom": "Torah",
+     "debut": null,
+     "fin": null,
+     "accord": "debattu",
+     "note": "1er millenaire av. J.-C. ; Tetrateuque compile a l'epoque perse et Histoire deuteronomiste pendant l'exil (E. T. Mullen) ; materiaux oraux plus anciens possibles."
+    },
+    {
+     "nom": "Nevi'im",
+     "debut": -600,
+     "fin": -600,
+     "accord": "debattu",
+     "note": "Juges vers -600, environ 500 ans apres les evenements decrits ; le Cantique de Debora (Juges 5) peut conserver du materiel plus ancien."
+    },
+    {
+     "nom": "Ketuvim",
+     "debut": null,
+     "fin": null,
+     "accord": "debattu",
+     "note": "Daniel vers -164 ; certains psaumes peuvent etre plus anciens (Psaume 20 proche d'un psaume arameen du IVe s. av. J.-C.)."
+    }
+   ],
+   "transmission": [
+    "Texte massoretique : compilation par les scribes du VIIe au Xe siecle de notre ere.",
+    "Canonisation : Torah peut-etre des le Ve s. av. J.-C. ; Nevi'im au IIe s. av. J.-C. ; Ketuvim fixes au plus tard au IIe s. de notre ere."
+   ],
+   "traduction": "",
+   "a_verifier": [
+    "Dates des manuscrits de la mer Morte et des codex d'Alep et de Leningrad : non confirmees par la page consultee."
+   ],
+   "sources": [
+    {
+     "titre": "Hebrew Bible (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Hebrew_Bible"
+    }
+   ]
+  },
+  {
+   "corpus": "Septante",
+   "aliases": [
+    "Septuagint",
+    "LXX"
+   ],
+   "langue_origine": "grec (traduction de l'hebreu)",
+   "composition": {
+    "debut": -300,
+    "fin": -50,
+    "accord": "consensus",
+    "note": "Pentateuque traduit au IIIe s. av. J.-C. a Alexandrie ; autres livres aux IIe-Ier s. av. J.-C."
+   },
+   "positions": [],
+   "couches": [
+    {
+     "nom": "Pentateuque",
+     "debut": -300,
+     "fin": -200,
+     "accord": "consensus",
+     "note": "Debut ou milieu du IIIe s. av. J.-C. ; la Lettre d'Aristee (Ptolemee II, -285 a -247) est consideree par certains comme pseudepigraphe."
+    },
+    {
+     "nom": "Autres livres",
+     "debut": -200,
+     "fin": -132,
+     "accord": "consensus",
+     "note": "Traduction presumee du IIe s. av. J.-C. ; l'ensemble acheve en -132 selon la page consultee."
+    },
+    {
+     "nom": "Livres deuterocanoniques",
+     "debut": -200,
+     "fin": 50,
+     "accord": "debattu",
+     "note": "Redaction estimee entre environ -200 et +50."
+    }
+   ],
+   "transmission": [
+    "Fragments de Levitique et Deuteronome du IIe s. av. J.-C. (Rahlfs 801, 819, 957) ; fragments du Ier s. av. J.-C.",
+    "Codex Vaticanus et Sinaiticus : IVe s. ; Codex Alexandrinus : Ve s. de notre ere."
+   ],
+   "traduction": "",
+   "a_verifier": [],
+   "sources": [
+    {
+     "titre": "Septuagint (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Septuagint"
+    }
+   ]
+  },
+  {
+   "corpus": "Coran",
+   "aliases": [],
+   "langue_origine": "arabe",
+   "composition": {
+    "debut": 610,
+    "fin": 632,
+    "accord": "debattu",
+    "note": "Revelation selon la tradition musulmane, 610-632 ; fixation du texte attribuee a l'epoque d'Uthman (vers 650). La datation critique est debattue."
+   },
+   "positions": [
+    {
+     "auteur": "Radiocarbone, manuscrit de Birmingham (Oxford, 95,4 %)",
+     "debut": 568,
+     "fin": 645,
+     "note": "date l'animal dont provient le parchemin, pas l'ecriture ; Thomas : le texte pourrait etre de 650-655."
+    },
+    {
+     "auteur": "F. Deroche (Coran de Paris BnF Arabe 328c)",
+     "debut": 690,
+     "fin": 710,
+     "note": "'vers la fin du VIIe siecle et le debut du VIIIe'"
+    }
+   ],
+   "couches": [],
+   "transmission": [
+    "Plus anciens manuscrits : Birmingham (parchemin date 568-645 ap. J.-C.), manuscrit de Sanaa (probablement VIIe s.), Coran de Paris (Deroche : fin VIIe-debut VIIIe s.)."
+   ],
+   "traduction": "",
+   "a_verifier": [
+    "Dates 610-632 et codification uthmanienne : tradition, non relues dans une source ici.",
+    "Debat critique sur la composition (Noeldeke, Wansbrough, etc.) non documente ici."
+   ],
+   "sources": [
+    {
+     "titre": "Birmingham Quran manuscript (Wikipedia, miroir)",
+     "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Birmingham_Quran_manuscript"
+    }
+   ]
+  },
+  {
+   "corpus": "Livre d'Enoch",
+   "aliases": [],
+   "langue_origine": "arameen (fragments de Qumran) ; texte complet en ge'ez",
+   "composition": {
+    "debut": -300,
+    "fin": 100,
+    "accord": "debattu",
+    "note": "Recueil de cinq parties composees a des epoques differentes ; toutes situees entre le IIIe s. av. J.-C. et le Ier s. de notre ere."
+   },
+   "positions": [
+    {
+     "auteur": "R. H. Charles (Similitudes)",
+     "debut": -94,
+     "fin": -67,
+     "note": "peu suivi aujourd'hui"
+    },
+    {
+     "auteur": "J. T. Milik (forme finale)",
+     "debut": 400,
+     "fin": null,
+     "note": "apres 400 ; theorie jugee sans preuve solide (Isaac, OTP 1:7)"
+    }
+   ],
+   "couches": [
+    {
+     "nom": "Livre des Veilleurs (1-36)",
+     "debut": -300,
+     "fin": -200,
+     "accord": "debattu",
+     "note": "IIIe s. av. J.-C. (livius.org)."
+    },
+    {
+     "nom": "Livre astronomique (72-82)",
+     "debut": -300,
+     "fin": -200,
+     "accord": "debattu",
+     "note": "IIIe s. av. J.-C."
+    },
+    {
+     "nom": "Visions des songes (83-90)",
+     "debut": -165,
+     "fin": -160,
+     "accord": "debattu",
+     "note": "Revolte des Maccabees."
+    },
+    {
+     "nom": "Epitre d'Enoch (91-108)",
+     "debut": -200,
+     "fin": -150,
+     "accord": "debattu",
+     "note": "Debut du IIe s. av. J.-C."
+    },
+    {
+     "nom": "Similitudes (37-71)",
+     "debut": 1,
+     "fin": 100,
+     "accord": "debattu",
+     "note": "Absentes de Qumran. Consensus d'un seminaire de la SNTS (1977-78) : oeuvre juive du Ier s. ; Collins : milieu du Ier s., avant 66."
+    }
+   ],
+   "transmission": [
+    "Quatre des cinq parties attestees en arameen a Qumran (Similitudes absentes) ; fragments grecs.",
+    "Manuscrits ethiopiens (ge'ez) : les plus anciens datent du XVIe siecle."
+   ],
+   "traduction": "",
+   "a_verifier": [
+    "Datation paleographique exacte des fragments de Qumran."
+   ],
+   "sources": [
+    {
+     "titre": "1 Enoch (Livius.org)",
+     "url": "https://livius.org/sources/about/1-enoch"
+    },
+    {
+     "titre": "When was 1 Enoch written? (Reading Acts)",
+     "url": "https://readingacts.com/2016/05/20/when-was-1-enoch-written/"
+    }
+   ]
+  },
+  {
+   "corpus": "Apocalypse d'Esdras",
+   "aliases": [
+    "2 Esdras",
+    "4 Esdras",
+    "Esdras"
+   ],
+   "langue_origine": "hebreu (peut-etre arameen) pour 4 Esdras, puis grec et latin",
+   "composition": {
+    "debut": 80,
+    "fin": 300,
+    "accord": "debattu",
+    "note": "Le texte latin (2 Esdras) assemble trois ensembles d'epoques et d'origines differentes."
+   },
+   "positions": [],
+   "couches": [
+    {
+     "nom": "4 Esdras (chap. 3-14)",
+     "debut": 80,
+     "fin": 120,
+     "accord": "consensus",
+     "note": "Fin du Ier s. de notre ere, vers 100 ; juif."
+    },
+    {
+     "nom": "5 Esdras (chap. 1-2)",
+     "debut": 140,
+     "fin": 160,
+     "accord": "debattu",
+     "note": "Milieu du IIe s. ; chretien ; grec."
+    },
+    {
+     "nom": "6 Esdras (chap. 15-16)",
+     "debut": 200,
+     "fin": 300,
+     "accord": "debattu",
+     "note": "Probablement IIIe s. ; chretien ; grec."
+    }
+   ],
+   "transmission": [
+    "Seule la version latine contient les trois ensembles ; les originaux hebreu et grec sont perdus.",
+    "En 1874, Bensly decouvre un manuscrit latin contenant 7.36-105, jusque-la manquant."
+   ],
+   "traduction": "",
+   "a_verifier": [],
+   "sources": [
+    {
+     "titre": "Introduction to 2 Esdras (translation.bible)",
+     "url": "https://old-tips.translation.bible/?p=59169"
+    }
+   ]
+  },
+  {
+   "corpus": "Apocalypse de Baruch",
+   "aliases": [
+    "Baruch",
+    "2 Baruch",
+    "3 Baruch"
+   ],
+   "langue_origine": "2 Baruch : hebreu probable, puis grec et syriaque ; 3 Baruch : grec",
+   "composition": {
+    "debut": 70,
+    "fin": 300,
+    "accord": "debattu",
+    "note": "Deux livres distincts : 2 Baruch (apres 70) et 3 Baruch (entre 70 et le IIIe s.)."
+   },
+   "positions": [],
+   "couches": [
+    {
+     "nom": "2 Baruch (syriaque)",
+     "debut": 70,
+     "fin": 135,
+     "accord": "consensus",
+     "note": "Fin du Ier ou debut du IIe s., apres la destruction du Temple en 70 ; on pense aujourd'hui avant 135. 87 chapitres : Apocalypse 1-77, Lettre 78-87."
+    },
+    {
+     "nom": "3 Baruch (grec)",
+     "debut": 70,
+     "fin": 300,
+     "accord": "debattu",
+     "note": "Entre la chute de Jerusalem (70) et le IIIe s. ; ecrit en grec par un auteur de culture semitique selon Lee."
+    }
+   ],
+   "transmission": [
+    "2 Baruch : manuscrit syriaque complet du VIe-VIIe s. (Ambrosienne, Milan, decouvert par Ceriani en 1866) ; fragment grec P. Oxy. 403 (IVe-Ve s.) ; manuscrit arabe complet decouvert en 1974.",
+    "3 Baruch : conserve en grec et en vieux slave."
+   ],
+   "traduction": "",
+   "a_verifier": [
+    "3 Baruch : date des manuscrits grecs et slaves, positions de Harlow et Picard non confirmees ici.",
+    "Texte du 2 Baruch utilise dans l'application : la page source s'arrete au chapitre 85, verset 2."
+   ],
+   "sources": [
+    {
+     "titre": "2 Baruch (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/2_Baruch"
+    },
+    {
+     "titre": "3 Baruch (Cavac)",
+     "url": "https://cavac.at/cavacopedia/3%20Baruch"
+    }
+   ]
+  },
+  {
+   "corpus": "Testaments des 12 Patriarches",
+   "aliases": [],
+   "langue_origine": "grec (base semitique debattue)",
+   "composition": {
+    "debut": -150,
+    "fin": 200,
+    "accord": "tres_incertain",
+    "note": "Forme finale au IIe s. de notre ere ; la part juive ou chretienne des textes est debattue."
+   },
+   "positions": [
+    {
+     "auteur": "Kugel (Testament de Levi arameen, matiere premiere)",
+     "debut": -133,
+     "fin": -100,
+     "note": "compilation hasmoneenne"
+    },
+    {
+     "auteur": "Radiocarbone des rouleaux de Qumran (Oriental Institute)",
+     "debut": -200,
+     "fin": -100,
+     "note": "fragments de Levi, Juda, Joseph, Nephtali"
+    }
+   ],
+   "couches": [],
+   "transmission": [
+    "Grec : 15 manuscrits connus, le plus ancien complet du Xe s. (Cambridge Ff.1.24).",
+    "Armenien : une cinquantaine de manuscrits, avec moins d'interpolations chretiennes que le grec."
+   ],
+   "traduction": "",
+   "a_verifier": [
+    "Positions de de Jonge, Kugler et Charles sur l'origine juive ou chretienne non documentees ici."
+   ],
+   "sources": [
+    {
+     "titre": "Testaments of the Twelve Patriarchs (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Testaments_of_the_Twelve_Patriarchs"
+    }
+   ]
+  },
+  {
+   "corpus": "Evangile de Thomas",
+   "aliases": [
+    "Thomas"
+   ],
+   "langue_origine": "grec probable (copte conserve, peut-etre traduit du syriaque)",
+   "composition": {
+    "debut": 60,
+    "fin": 250,
+    "accord": "debattu",
+    "note": "Le noyau ou le texte final ? Les propositions vont de 60 a 250."
+   },
+   "positions": [
+    {
+     "auteur": "S. Davies / A. Hogeterp",
+     "debut": 30,
+     "fin": 100,
+     "note": "avant la fin du Ier siecle"
+    },
+    {
+     "auteur": "R. Valantasis",
+     "debut": 100,
+     "fin": 110,
+     "note": "texte final ; noyau de 30 a 60"
+    },
+    {
+     "auteur": "B. Ehrman",
+     "debut": 100,
+     "fin": 150,
+     "note": "debut du IIe siecle"
+    },
+    {
+     "auteur": "C. Evans / N. Perrin",
+     "debut": 172,
+     "fin": 250,
+     "note": "apres le Diatessaron (compose peu apres 172)"
+    },
+    {
+     "auteur": "J. R. Porter",
+     "debut": 250,
+     "fin": 250,
+     "note": "vers 250"
+    }
+   ],
+   "couches": [],
+   "transmission": [
+    "Codex II de Nag Hammadi (copte), vers 340 ; fragments grecs d'Oxyrhynque P. Oxy. 1, 654, 655 (130-250, selon une assertion marquee 'citation requise' dans l'article).",
+    "Premieres mentions : Hippolyte (vers 222-235) et Origene (vers 233)."
+   ],
+   "traduction": "",
+   "a_verifier": [],
+   "sources": [
+    {
+     "titre": "Gospel of Thomas (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Gospel_of_Thomas"
+    }
+   ]
+  },
+  {
+   "corpus": "Pistis Sophia",
+   "aliases": [],
+   "langue_origine": "grec (original perdu), conserve en copte",
+   "composition": {
+    "debut": 200,
+    "fin": 300,
+    "accord": "debattu",
+    "note": "Fourchette 200-255 ou 200-300 selon les sources ; Puech/Blatz : livres 1-3 vers 250-300."
+   },
+   "positions": [
+    {
+     "auteur": "Koestlin, Lipsius",
+     "debut": 200,
+     "fin": 250,
+     "note": "premiere moitie du IIIe siecle"
+    },
+    {
+     "auteur": "Harnack (1891), Schmidt (1892)",
+     "debut": 250,
+     "fin": 300,
+     "note": "seconde moitie du IIIe siecle ; 4e section dans la premiere moitie"
+    },
+    {
+     "auteur": "Valentinisme (Woide, Renan, Legge 1915...)",
+     "debut": 100,
+     "fin": 200,
+     "note": "IIe siecle ; these valentinienne"
+    }
+   ],
+   "couches": [],
+   "transmission": [
+    "Codex Askew (Londres) : quatre sections ; les trois premieres forment la Pistis Sophia, la quatrieme est une oeuvre distincte et plus ancienne (Puech/Blatz)."
+   ],
+   "traduction": "",
+   "a_verifier": [
+    "Date du codex Askew (en general IVe s.) : non donnee par la page consultee."
+   ],
+   "sources": [
+    {
+     "titre": "Pistis Sophia (Early Christian Writings)",
+     "url": "https://earlychristianwritings.com/pistis.html"
+    }
+   ]
+  },
+  {
+   "corpus": "Epopee de Gilgamesh",
+   "aliases": [
+    "Gilgamesh"
+   ],
+   "langue_origine": "sumerien (poemes) puis akkadien",
+   "composition": {
+    "debut": -2100,
+    "fin": -1000,
+    "accord": "debattu",
+    "note": "Epopee formee par couches : poemes sumeriens, version paleo-babylonienne, version standard."
+   },
+   "positions": [],
+   "couches": [
+    {
+     "nom": "Poemes sumeriens",
+     "debut": -2100,
+     "fin": -2100,
+     "accord": "debattu",
+     "note": "Certains peut-etre de la troisieme dynastie d'Ur, vers -2100 (Dalley 2000)."
+    },
+    {
+     "nom": "Version paleo-babylonienne",
+     "debut": -1800,
+     "fin": -1700,
+     "accord": "consensus",
+     "note": "Premiere epopee combinee ; plus anciennes tablettes d'un recit unique vers -1800 (Dalley 2000)."
+    },
+    {
+     "nom": "Version standard (Sin-leqi-unninni)",
+     "debut": -1300,
+     "fin": -1000,
+     "accord": "debattu",
+     "note": "Compilee a partir de textes plus anciens (George 2003)."
+    }
+   ],
+   "transmission": [
+    "Copies de la version standard retrouvees a Ninive, bibliotheque d'Assurbanipal (VIIe s. av. J.-C.) ; environ 15 000 fragments recuperes dans cette bibliotheque."
+   ],
+   "traduction": "",
+   "a_verifier": [],
+   "sources": [
+    {
+     "titre": "Epic of Gilgamesh (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh"
+    }
+   ]
+  },
+  {
+   "corpus": "Enuma Elish",
+   "aliases": [
+    "Enuma Elis"
+   ],
+   "langue_origine": "akkadien",
+   "composition": {
+    "debut": -1200,
+    "fin": -1000,
+    "accord": "debattu",
+    "note": "Consensus actuel : seconde dynastie d'Isin (fin du IIe millenaire) ; autres hypotheses defendues."
+   },
+   "positions": [
+    {
+     "auteur": "Lambert 1984, Frahm 2010, Beaulieu 2018",
+     "debut": -1200,
+     "fin": -1000,
+     "note": "seconde dynastie d'Isin, lien avec Nebuchadnezzar Ier et le retour de la statue de Marduk"
+    },
+    {
+     "auteur": "Sommerfield 1982",
+     "debut": null,
+     "fin": null,
+     "note": "epoque kassite ; contestee par Lambert"
+    },
+    {
+     "auteur": "Dalley 2008",
+     "debut": null,
+     "fin": null,
+     "note": "epoque paleo-babylonienne ; jugee improbable par Frahm 2010"
+    },
+    {
+     "auteur": "Heidel 1951",
+     "debut": null,
+     "fin": null,
+     "note": "regne d'Hammurabi ; jugee peu probable aujourd'hui"
+    }
+   ],
+   "couches": [],
+   "transmission": [
+    "Plus ancien manuscrit : Assur, IXe s. av. J.-C. (Frahm 2010) ; copies de la bibliotheque d'Assurbanipal a Ninive (668-626 av. J.-C.)."
+   ],
+   "traduction": "",
+   "a_verifier": [],
+   "sources": [
+    {
+     "titre": "Enuma Elis (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Enuma_Elis"
+    }
+   ]
+  },
+  {
+   "corpus": "Atrahasis",
+   "aliases": [],
+   "langue_origine": "akkadien",
+   "composition": {
+    "debut": -1800,
+    "fin": -1700,
+    "accord": "debattu",
+    "note": "Epopee de l'epoque paleo-babylonienne, au XVIIIe s. av. J.-C. selon la page consultee ; matiere sumerienne plus ancienne."
+   },
+   "positions": [],
+   "couches": [],
+   "transmission": [
+    "Plus ancienne copie datee par un colophon : regne d'Ammi-saduqa (-1646 a -1626) ; version la plus complete : tablette paleo-babylonienne ecrite vers -1650 (Lambert et Millard 1965).",
+    "Copies assyriennes dans la bibliotheque d'Assurbanipal ; fragment a Ugarit."
+   ],
+   "traduction": "",
+   "a_verifier": [],
+   "sources": [
+    {
+     "titre": "Atra-Hasis (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Atra-Hasis"
+    }
+   ]
+  },
+  {
+   "corpus": "Rigveda (anglais)",
+   "aliases": [
+    "Rigveda"
+   ],
+   "langue_origine": "sanskrit vedique",
+   "composition": {
+    "debut": -1500,
+    "fin": -1000,
+    "accord": "debattu",
+    "note": "Le gros du texte, sans date absolue ; Jamison et Brereton (2014) : 'sujet de controverse'."
+   },
+   "positions": [
+    {
+     "auteur": "Flood, Witzel",
+     "debut": -1500,
+     "fin": -1200,
+     "note": ""
+    },
+    {
+     "auteur": "Anthony",
+     "debut": -1500,
+     "fin": -1300,
+     "note": ""
+    },
+    {
+     "auteur": "Encyclopedie des langues indo-europeennes",
+     "debut": -1500,
+     "fin": -1000,
+     "note": ""
+    },
+    {
+     "auteur": "Oberlies 1998",
+     "debut": -1700,
+     "fin": -1100,
+     "note": "plus jeunes hymnes du livre 10 vers -1100"
+    },
+    {
+     "auteur": "Witzel 1997 (periode rigvedique entiere)",
+     "debut": -1900,
+     "fin": -1200,
+     "note": ""
+    }
+   ],
+   "couches": [
+    {
+     "nom": "Livres 2 a 7 (livres des familles)",
+     "debut": null,
+     "fin": null,
+     "accord": "consensus",
+     "note": "La partie la plus ancienne, 38 % du texte."
+    },
+    {
+     "nom": "Livre 1, 8, 9, 10",
+     "debut": null,
+     "fin": null,
+     "accord": "consensus",
+     "note": "Plus recents ; le livre 10 a ete ajoute en dernier (analyse linguistique)."
+    }
+   ],
+   "transmission": [
+    "Transmission orale d'une grande fidelite des le IIe millenaire av. J.-C. (Witzel 2003).",
+    "Codification vers -1200 a -1000 (Witzel) ; padapatha vers le VIe s. av. J.-C.",
+    "Plus anciens manuscrits : Nepal, vers 1040 de notre ere ; le plus ancien de l'Institut Bhandarkar (Pune) : 1464."
+   ],
+   "traduction": "",
+   "a_verifier": [],
+   "sources": [
+    {
+     "titre": "Rigveda (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Rigveda"
+    }
+   ]
+  },
+  {
+   "corpus": "Samaveda (anglais)",
+   "aliases": [
+    "Samaveda"
+   ],
+   "langue_origine": "sanskrit vedique",
+   "composition": {
+    "debut": -1200,
+    "fin": -1000,
+    "accord": "debattu",
+    "note": "Samhita datee par Witzel de -1200 a -1000, sans date absolue ; apres le Rigveda."
+   },
+   "positions": [],
+   "couches": [
+    {
+     "nom": "Samhita",
+     "debut": -1200,
+     "fin": -1000,
+     "accord": "debattu",
+     "note": "Presque entierement tire du Rigveda : 1549 versets uniques dont 75 seulement non rigvediques ; la plupart viennent des livres 9 et 8."
+    }
+   ],
+   "transmission": [
+    "Nombreuses variantes manuscrites ; dates des plus anciens manuscrits non donnees par la page consultee."
+   ],
+   "traduction": "",
+   "a_verifier": [
+    "Date des plus anciens manuscrits."
+   ],
+   "sources": [
+    {
+     "titre": "Samaveda (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Samaveda"
+    }
+   ]
+  },
+  {
+   "corpus": "Upanishads",
+   "aliases": [],
+   "langue_origine": "sanskrit",
+   "composition": {
+    "debut": -800,
+    "fin": 0,
+    "accord": "debattu",
+    "note": "Ensemble compose entre -800 et le debut de notre ere ; les Upanishads principales probablement entre -600 et -300."
+   },
+   "positions": [],
+   "couches": [
+    {
+     "nom": "Upanishads principales",
+     "debut": -600,
+     "fin": -300,
+     "accord": "debattu",
+     "note": "Fourchette generale ; les dates individuelles ne sont pas confirmees ici."
+    },
+    {
+     "nom": "Chandogya (couche la plus recente selon Olivelle 2014)",
+     "debut": -800,
+     "fin": -600,
+     "accord": "debattu",
+     "note": "8e-6e s. av. J.-C. (variable selon les sources)."
+    }
+   ],
+   "transmission": [],
+   "traduction": "",
+   "a_verifier": [
+    "Datation individuelle des douze textes (Brihadaranyaka, Kena, Katha, Svetasvatara, Kaushitaki, Maitri...) : non confirmee ici ; les textes tardifs sont a considerer comme incertains.",
+    "Le fichier OCR de cinq Upanishads (Kaushitaki, Taittiriya, Brihadaranyaka, Svetasvatara, Maitrayana) contient des noms sanskrits abimes."
+   ],
+   "sources": [
+    {
+     "titre": "Principal Upanishads (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Principal_Upanishads"
+    },
+    {
+     "titre": "Samaveda (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Samaveda"
+    }
+   ]
+  },
+  {
+   "corpus": "Avesta",
+   "aliases": [],
+   "langue_origine": "avestique (vieil-avestique et avestique recent)",
+   "composition": {
+    "debut": -1400,
+    "fin": 224,
+    "accord": "tres_incertain",
+    "note": "Fourchette large : couches tres differentes, de l'epoque des Gathas a la periode sassanide."
+   },
+   "positions": [
+    {
+     "auteur": "Livius.org (Gathas / Zarathoustra)",
+     "debut": -1400,
+     "fin": -1200,
+     "note": "Gathas attribuees a Zarathoustra"
+    },
+    {
+     "auteur": "Daryaee 2022 (EBSCO)",
+     "debut": -1000,
+     "fin": -600,
+     "note": "Zarathoustra et les Gathas"
+    }
+   ],
+   "couches": [
+    {
+     "nom": "Gathas",
+     "debut": -1400,
+     "fin": -1200,
+     "accord": "tres_incertain",
+     "note": "Vieil-avestique ; la langue est comparee aux hymnes vediques de -1500 a -1200."
+    },
+    {
+     "nom": "Yashts",
+     "debut": -625,
+     "fin": -225,
+     "accord": "tres_incertain",
+     "note": "Date proposee a titre provisoire par Livius.org."
+    },
+    {
+     "nom": "Vendidad",
+     "debut": -141,
+     "fin": 224,
+     "accord": "debattu",
+     "note": "Probablement periode parthe."
+    },
+    {
+     "nom": "Visparad",
+     "debut": 224,
+     "fin": null,
+     "accord": "debattu",
+     "note": "Ajoute apres la prise du pouvoir sassanide."
+    }
+   ],
+   "transmission": [
+    "Mise par ecrit sous les Sassanides (224-651) ; collection pour Chapour Ier (241-272) selon le Denkard ; canon sous Khosrau II (591-628) ; le Denkard conserve environ un quart de la Grande Avesta du VIe s.",
+    "Les plus anciens manuscrits conserves (XIIIe-XIVe s.) ne sont pas confirmes par les sources consultees."
+   ],
+   "traduction": "",
+   "a_verifier": [
+    "Datation des Sirozahs, Nyayishes, Afrinagan et Gahs : non donnee par les sources consultees.",
+    "Date des plus anciens manuscrits."
+   ],
+   "sources": [
+    {
+     "titre": "Avesta (Livius.org)",
+     "url": "https://livius.org/sources/content/avesta"
+    },
+    {
+     "titre": "Avesta (EBSCO Research Starters, Daryaee 2022)",
+     "url": "https://www.ebsco.com/research-starters/history/avesta/"
+    }
+   ]
+  },
+  {
+   "corpus": "Edda",
+   "aliases": [
+    "Edda poetique",
+    "Eddas"
+   ],
+   "langue_origine": "vieux norrois",
+   "composition": {
+    "debut": null,
+    "fin": 1270,
+    "accord": "debattu",
+    "note": "Poemes plus anciens que leur mise par ecrit, sans date de composition fiable ; seules les dates d'ecriture sont connues."
+   },
+   "positions": [],
+   "couches": [
+    {
+     "nom": "Edda en prose (Snorri Sturluson)",
+     "debut": 1220,
+     "fin": 1220,
+     "accord": "consensus",
+     "note": "Vers 1220, compilee a partir de sources plus anciennes."
+    },
+    {
+     "nom": "Edda poetique (Codex Regius)",
+     "debut": 1270,
+     "fin": 1270,
+     "accord": "consensus",
+     "note": "Mise par ecrit vers 1270 par un auteur inconnu ; contient de la poesie plus ancienne, sans date precise donnee par la source."
+    }
+   ],
+   "transmission": [
+    "Codex Regius : environ 1270 ; 90 pages dont 16 perdues ; obtenu par l'eveque Brynjolfur Sveinsson en 1643, parti au Danemark en 1662, rendu a l'Islande en 1971.",
+    "L'attribution a Saemundur Sigfusson (1056-1153) est rejetee."
+   ],
+   "traduction": "",
+   "a_verifier": [
+    "Fourchette de composition orale des poemes : aucune source consultee n'en donne."
+   ],
+   "sources": [
+    {
+     "titre": "Edda (World History Encyclopedia)",
+     "url": "https://worldhistory.org/Edda"
+    }
+   ]
+  },
+  {
+   "corpus": "Popol Vuh",
+   "aliases": [],
+   "langue_origine": "k'iche' (traduction francaise de Brasseur et anglaise)",
+   "composition": {
+    "debut": 1554,
+    "fin": 1558,
+    "accord": "debattu",
+    "note": "Mise par ecrit vers 1554-1558 (Tedlock) ; renvoie a un livre ancien perdu."
+   },
+   "positions": [],
+   "couches": [],
+   "transmission": [
+    "Seule copie conservee : Francisco Ximenez, 1701-1703 (texte k'iche' avec traduction espagnole).",
+    "Brasseur de Bourbourg : texte k'iche' et traduction francaise, Paris, 1861.",
+    "Sources precolombiennes : 'livre original' perdu ; Landa brule des livres mayas a Mani le 12 juillet 1562."
+   ],
+   "traduction": "",
+   "a_verifier": [],
+   "sources": [
+    {
+     "titre": "Popol Vuh (World History Encyclopedia)",
+     "url": "https://www.worldhistory.org/Popol_Vuh/"
+    }
+   ]
+  },
+  {
+   "corpus": "Manuscrit de Huarochiri",
+   "aliases": [
+    "Huarochiri"
+   ],
+   "langue_origine": "quechua classique",
+   "composition": {
+    "debut": 1570,
+    "fin": 1600,
+    "accord": "debattu",
+    "note": "Fin du XVIe siecle ; recueil de temoignages recueillis et annotes par Francisco de Avila decennies apres la conquete."
+   },
+   "positions": [],
+   "couches": [],
+   "transmission": [
+    "Manuscrit conserve a la bibliotheque royale de Madrid ; edition bilingue allemande de Trimborn (1939), traduction espagnole d'Arguedas (1966).",
+    "31 chapitres et 2 chapitres supplementaires ; seule source ecrite de la tradition religieuse andine precolombienne en langue andine."
+   ],
+   "traduction": "",
+   "a_verifier": [
+    "Datation precise (souvent donnee vers 1598-1608) : non confirmee par la page consultee."
+   ],
+   "sources": [
+    {
+     "titre": "Huarochiri Manuscript (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Huarochir%C3%AD_Manuscript"
+    }
+   ]
+  },
+  {
+   "corpus": "Mythologie maorie (Grey)",
+   "aliases": [
+    "Grey"
+   ],
+   "langue_origine": "maori (recits oraux), edites en anglais",
+   "composition": {
+    "debut": 1853,
+    "fin": 1855,
+    "accord": "consensus",
+    "note": "Dates de collecte et de publication, pas de composition : les traditions sont orales et non datees."
+   },
+   "positions": [],
+   "couches": [],
+   "transmission": [
+    "Manuscrit maori imprime en 1853 (432 pages), edition maorie de 1854, edition anglaise 'Polynesian Mythology' en 1855 (John Murray).",
+    "Au moins un quart provient des manuscrits de Te Rangikaheke ; Grey a modifie des textes que les chercheurs jugent peu authentiques ; compilation de versions de provenances differentes."
+   ],
+   "traduction": "",
+   "a_verifier": [],
+   "sources": [
+    {
+     "titre": "Polynesian Mythology (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Polynesian_Mythology_(book)"
+    }
+   ]
+  }
+ ]
+}
