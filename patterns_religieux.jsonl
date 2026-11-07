@@ -428,3 +428,52 @@
 {"label": "KNOWLEDGE_BEARER", "pattern": "possessor of knowledge"}
 {"label": "KNOWLEDGE_BEARER", "pattern": "interpreter of dreams"}
 {"label": "KNOWLEDGE_BEARER", "pattern": "revealer of mysteries"}
+{"label": "DEITY", "pattern": "Tohil"}
+{"label": "DEITY", "pattern": "Avilix"}
+{"label": "DEITY", "pattern": "Hacavitz"}
+{"label": "DEITY", "pattern": "Hurakan"}
+{"label": "DEITY", "pattern": "Gucumatz"}
+{"label": "DEITY", "pattern": "Tepeu"}
+{"label": "DEITY", "pattern": "Xpiyacoc"}
+{"label": "DEITY", "pattern": "Xmucané"}
+{"label": "DEITY", "pattern": "Cœur du Ciel"}
+{"label": "DEITY", "pattern": "Cœur du ciel"}
+{"label": "PROPHET_FIGURE", "pattern": "Hunahpu"}
+{"label": "PROPHET_FIGURE", "pattern": "Xbalanqué"}
+{"label": "PROPHET_FIGURE", "pattern": "Xhunahpu"}
+{"label": "PROPHET_FIGURE", "pattern": "Hunhun-Ahpu"}
+{"label": "PROPHET_FIGURE", "pattern": "Vukub-Hunahpu"}
+{"label": "PROPHET_FIGURE", "pattern": "Hunbatz"}
+{"label": "PROPHET_FIGURE", "pattern": "Hunchouen"}
+{"label": "PROPHET_FIGURE", "pattern": "Balam-Quitzé"}
+{"label": "PROPHET_FIGURE", "pattern": "Balam-Agab"}
+{"label": "PROPHET_FIGURE", "pattern": "Mahucutah"}
+{"label": "PROPHET_FIGURE", "pattern": "Iqi-Balam"}
+{"label": "PROPHET_FIGURE", "pattern": "BalamAgab"}
+{"label": "PROPHET_FIGURE", "pattern": "BalamQuitzé"}
+{"label": "PROPHET_FIGURE", "pattern": "Quicab"}
+{"label": "PROPHET_FIGURE", "pattern": "Cavizimah"}
+{"label": "PROPHET_FIGURE", "pattern": "Cotuha"}
+{"label": "NEGATIVE_ENTITY", "pattern": "Vukub-Cakix"}
+{"label": "NEGATIVE_ENTITY", "pattern": "VukubCakix"}
+{"label": "NEGATIVE_ENTITY", "pattern": "Zipacna"}
+{"label": "NEGATIVE_ENTITY", "pattern": "Cabrakan"}
+{"label": "NEGATIVE_ENTITY", "pattern": "Hun-Camé"}
+{"label": "NEGATIVE_ENTITY", "pattern": "Vukub-Camé"}
+{"label": "NEGATIVE_ENTITY", "pattern": "HunCamé"}
+{"label": "NEGATIVE_ENTITY", "pattern": "VukubCamé"}
+{"label": "SACRED_PLACE", "pattern": "Xibalba"}
+{"label": "SACRED_PLACE", "pattern": "Tulan"}
+{"label": "SACRED_PLACE", "pattern": "Tulan-Zuiva"}
+{"label": "PEOPLE_GROUP", "pattern": "Quiché"}
+{"label": "PEOPLE_GROUP", "pattern": "Quichés"}
+{"label": "PEOPLE_GROUP", "pattern": "Quiche"}
+{"label": "PEOPLE_GROUP", "pattern": "Quiches"}
+{"label": "PEOPLE_GROUP", "pattern": "Cakchiquels"}
+{"label": "PEOPLE_GROUP", "pattern": "Rabinaliens"}
+{"label": "PEOPLE_GROUP", "pattern": "Tamub"}
+{"label": "PEOPLE_GROUP", "pattern": "Ilocab"}
+{"label": "PEOPLE_GROUP", "pattern": "Cavek"}
+{"label": "PEOPLE_GROUP", "pattern": "Nihaib"}
+{"label": "PEOPLE_GROUP", "pattern": "Nihaïb"}
+{"label": "PEOPLE_GROUP", "pattern": "Tziquinaha"}
